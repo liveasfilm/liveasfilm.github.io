@@ -22,9 +22,9 @@ title: liveasfilm repository
 email: liveasfilm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A middle-aged developer, still learning.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+domain: liveasfilm.github.io
+baseurl: "/"
+url: "https://liveasfilm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: liveasfilm
 
 # Build settings
