@@ -219,6 +219,10 @@ exclude:
 plugins:
   - jekyll-notion
 
+notion:
+  databases:
+    - id: 1e67f51a0cdf807ba716f3cb721b181c
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
