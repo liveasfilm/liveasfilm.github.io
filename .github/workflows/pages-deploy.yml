@@ -20,6 +20,9 @@ jobs:
   importer:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@master
     
