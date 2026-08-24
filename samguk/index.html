@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>삼국.io — 장수 한 명으로 시작해 천하를 통일한다</title>
+<meta name="description" content="삼국.io(samguk.io)는 3분이면 한 판이 끝나는 오프라인 싱글 플레이 전쟁 게임. 병사를 흡수하고, 성문을 열고, 58개 영역을 내 색으로 물들이세요.">
+<link rel="icon" href="assets/icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="삼국.io — 장수 한 명으로 시작해 천하를 통일한다">
+<meta property="og:description" content="3분이면 한 판이 끝나는 오프라인 삼국지 서바이벌. 격파하면 귀순하고, 3분에 성문이 열린다.">
+<meta property="og:image" content="https://liveasfilm.github.io/samguk/assets/icon.png">
+<meta property="og:url" content="https://liveasfilm.github.io/samguk/">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  :root{
+    --bg:#0e0d11;
+    --bg-2:#141319;
+    --panel:#191820;
+    --ink:#ece7dc;
+    --muted:#9a9287;
+    --line:#2a2831;
+    --seal:#b23b2e;
+    --seal-hi:#d24b3a;
+    --gold:#d9a441;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Segoe UI",Roboto,sans-serif;
+    line-height:1.7;font-size:16px;overflow-x:hidden;
+  }
+  img{max-width:100%;display:block}
+  a{color:var(--gold);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+
+  /* ---------- top bar ---------- */
+  header{
+    position:sticky;top:0;z-index:50;background:rgba(14,13,17,.86);
+    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line);
+  }
+  .bar{display:flex;align-items:center;gap:16px;height:60px}
+  .brand{display:flex;align-items:center;gap:10px;flex:1 1 auto;min-width:0}
+  .seal{
+    width:34px;height:34px;flex:0 0 auto;border:2px solid var(--seal);border-radius:5px;
+    display:flex;align-items:center;justify-content:center;color:var(--seal);
+    font-size:13px;font-weight:800;letter-spacing:-1px;background:rgba(178,59,46,.12);
+  }
+  .brand b{font-size:17px;letter-spacing:-.02em;white-space:nowrap}
+  .langs{display:flex;gap:4px}
+  .langs button{
+    appearance:none;border:1px solid transparent;background:transparent;color:var(--muted);
+    font-family:inherit;font-size:13px;padding:5px 9px;border-radius:999px;cursor:pointer;transition:.15s;
+  }
+  .langs button:hover{color:var(--ink)}
+  .langs button[aria-selected="true"]{background:var(--seal);color:#fff}
+
+  /* ---------- hero ---------- */
+  .hero{position:relative;padding:76px 0 64px;overflow:hidden}
+  .hero::before{
+    content:"";position:absolute;inset:-30% -20% auto -20%;height:620px;
+    background:radial-gradient(60% 60% at 50% 40%, rgba(178,59,46,.22), transparent 70%);
+    pointer-events:none;
+  }
+  .hero-grid{position:relative;display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
+  .eyebrow{
+    display:inline-flex;align-items:center;gap:8px;font-size:13px;color:var(--gold);
+    border:1px solid rgba(217,164,65,.35);background:rgba(217,164,65,.08);
+    padding:5px 12px;border-radius:999px;margin-bottom:22px;
+  }
+  .wordmark{width:min(340px,72%);margin-bottom:24px;opacity:.96}
+  h1{font-size:clamp(30px,4.4vw,46px);line-height:1.25;margin:0 0 18px;font-weight:800;letter-spacing:-.03em}
+  .lede{font-size:17px;color:#c9c2b6;margin:0 0 28px;max-width:34em}
+  .cta-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+  .btn{
+    display:inline-flex;align-items:center;gap:9px;padding:13px 22px;border-radius:10px;
+    font-weight:700;font-size:15px;border:1px solid var(--line);color:var(--ink);
+  }
+  .btn:hover{text-decoration:none}
+  .btn-primary{background:var(--seal);border-color:var(--seal);color:#fff}
+  .btn-primary:hover{background:var(--seal-hi)}
+  .btn-ghost:hover{border-color:#454250}
+  .store-note{font-size:13px;color:var(--muted);margin:14px 0 0}
+
+  /* ---------- phone frame ---------- */
+  .phone{
+    position:relative;width:min(300px,86%);margin:0 auto;border-radius:38px;padding:10px;
+    background:linear-gradient(160deg,#33313c,#17161c);
+    box-shadow:0 30px 70px rgba(0,0,0,.6),0 0 0 1px rgba(255,255,255,.05);
+  }
+  .phone img{border-radius:29px;width:100%;background:#000}
+  .phone.empty::after{
+    content:attr(data-empty);display:flex;align-items:center;justify-content:center;
+    aspect-ratio:9/19.5;border-radius:29px;background:var(--panel);color:var(--muted);font-size:13px;
+  }
+
+  /* ---------- sections ---------- */
+  section{padding:72px 0;border-top:1px solid var(--line)}
+  .kicker{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--seal-hi);margin:0 0 12px;font-weight:700}
+  h2{font-size:clamp(23px,3vw,32px);line-height:1.3;margin:0 0 16px;font-weight:800;letter-spacing:-.02em}
+  h3{font-size:19px;margin:0 0 8px;font-weight:700;letter-spacing:-.01em}
+  p{margin:0 0 14px}
+  .muted{color:var(--muted)}
+
+  .feature{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center;margin-bottom:88px}
+  .feature:last-child{margin-bottom:0}
+  .feature.rev .copy{order:2}
+  .feature .lede{font-size:16.5px}
+
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px}
+  .card .num{color:var(--seal-hi);font-size:13px;font-weight:800;letter-spacing:.1em;margin-bottom:10px}
+  .card p{margin:0;font-size:15px;color:#bdb6aa}
+
+  /* ---------- shots strip ---------- */
+  .shots{display:flex;gap:18px;overflow-x:auto;padding:6px 22px 24px;scroll-snap-type:x mandatory}
+  .shots::-webkit-scrollbar{height:8px}
+  .shots::-webkit-scrollbar-thumb{background:#2f2d38;border-radius:99px}
+  .shot{flex:0 0 auto;width:216px;scroll-snap-align:center}
+  .shot .phone{width:100%}
+  .shot .cap{font-size:13px;color:var(--muted);text-align:center;margin-top:12px}
+
+  /* ---------- generals ---------- */
+  .generals{display:flex;gap:14px;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+  .track{display:flex;gap:14px;animation:slide 42s linear infinite}
+  @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .gen{flex:0 0 auto;width:124px;border-radius:12px;overflow:hidden;background:var(--panel);border:1px solid var(--line)}
+  @media (prefers-reduced-motion:reduce){.track{animation:none}}
+
+  /* ---------- offline block ---------- */
+  .trust{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:32px}
+  .trust div{
+    background:linear-gradient(180deg,rgba(178,59,46,.10),transparent);
+    border:1px solid var(--line);border-radius:12px;padding:20px 18px;text-align:center;
+  }
+  .trust b{display:block;font-size:26px;font-weight:800;color:var(--ink);letter-spacing:-.02em}
+  .trust span{font-size:13.5px;color:var(--muted)}
+
+  /* ---------- faq / footer ---------- */
+  details{border-bottom:1px solid var(--line);padding:16px 0}
+  summary{cursor:pointer;font-weight:700;list-style:none}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";float:right;color:var(--seal-hi);font-weight:800}
+  details[open] summary::after{content:"–"}
+  details p{margin:12px 0 0;color:#bdb6aa;font-size:15px}
+
+  footer{padding:44px 0 64px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+  .foot-row{display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between}
+  .foot-links{display:flex;gap:18px;flex-wrap:wrap}
+  .disclaimer{margin-top:22px;font-size:12.5px;line-height:1.7;color:#6f6a63}
+
+  @media (max-width:860px){
+    .hero{padding:52px 0 44px}
+    .hero-grid{grid-template-columns:1fr;gap:38px}
+    .wordmark{width:250px}
+    .feature{grid-template-columns:1fr;gap:28px;margin-bottom:60px}
+    .feature.rev .copy{order:0}
+    .cards{grid-template-columns:1fr}
+    .trust{grid-template-columns:repeat(2,1fr)}
+    section{padding:56px 0}
+    .phone{width:min(260px,78%)}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap bar">
+    <div class="brand">
+      <div class="seal">三國</div>
+      <b>삼국.io</b>
+    </div>
+    <nav class="langs" role="tablist" aria-label="Language">
+      <button data-lang="ko" aria-selected="true">한국어</button>
+      <button data-lang="en" aria-selected="false">EN</button>
+      <button data-lang="ja" aria-selected="false">日本語</button>
+      <button data-lang="zh" aria-selected="false">繁中</button>
+    </nav>
+  </div>
+</header>
+
+<!-- ============ HERO ============ -->
+<div class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow" data-i18n="hero.badge"></span>
+      <img class="wordmark" src="assets/wordmark.png" alt="삼국.io">
+      <h1 data-i18n="hero.h1"></h1>
+      <p class="lede" data-i18n="hero.lede"></p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="#shots" data-i18n="hero.cta1"></a>
+        <a class="btn btn-ghost" href="#features" data-i18n="hero.cta2"></a>
+      </div>
+      <p class="store-note" data-i18n="hero.store"></p>
+    </div>
+    <div class="phone" id="heroPhone">
+      <img src="assets/shots/01_battle.webp" alt="" onerror="this.remove()">
+    </div>
+  </div>
+</div>
+
+<!-- ============ FEATURES ============ -->
+<section id="features">
+  <div class="wrap">
+    <p class="kicker" data-i18n="feat.kicker"></p>
+    <h2 data-i18n="feat.h2"></h2>
+
+    <div class="feature" style="margin-top:44px">
+      <div class="copy">
+        <h3 data-i18n="f1.h"></h3>
+        <p class="lede" data-i18n="f1.p"></p>
+      </div>
+      <div class="phone"><img src="assets/shots/02_convert.webp" alt="" onerror="this.remove()"></div>
+    </div>
+
+    <div class="feature rev">
+      <div class="copy">
+        <h3 data-i18n="f2.h"></h3>
+        <p class="lede" data-i18n="f2.p"></p>
+      </div>
+      <div class="phone"><img src="assets/shots/03_gate.webp" alt="" onerror="this.remove()"></div>
+    </div>
+
+    <div class="feature">
+      <div class="copy">
+        <h3 data-i18n="f3.h"></h3>
+        <p class="lede" data-i18n="f3.p"></p>
+      </div>
+      <div class="phone"><img src="assets/shots/04_duel.webp" alt="" onerror="this.remove()"></div>
+    </div>
+
+    <div class="feature rev">
+      <div class="copy">
+        <h3 data-i18n="f4.h"></h3>
+        <p class="lede" data-i18n="f4.p"></p>
+      </div>
+      <div class="phone"><img src="assets/shots/05_map.webp" alt="" onerror="this.remove()"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CARDS ============ -->
+<section>
+  <div class="wrap">
+    <p class="kicker" data-i18n="depth.kicker"></p>
+    <h2 data-i18n="depth.h2"></h2>
+    <div class="cards" style="margin-top:32px">
+      <div class="card"><div class="num">01</div><h3 data-i18n="c1.h"></h3><p data-i18n="c1.p"></p></div>
+      <div class="card"><div class="num">02</div><h3 data-i18n="c2.h"></h3><p data-i18n="c2.p"></p></div>
+      <div class="card"><div class="num">03</div><h3 data-i18n="c3.h"></h3><p data-i18n="c3.p"></p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GENERALS ============ -->
+<section>
+  <div class="wrap">
+    <p class="kicker" data-i18n="gen.kicker"></p>
+    <h2 data-i18n="gen.h2"></h2>
+    <p class="lede muted" data-i18n="gen.p"></p>
+  </div>
+  <div class="generals" style="margin-top:30px">
+    <div class="track" id="genTrack"></div>
+  </div>
+</section>
+
+<!-- ============ SHOTS ============ -->
+<section id="shots">
+  <div class="wrap">
+    <p class="kicker" data-i18n="shots.kicker"></p>
+    <h2 data-i18n="shots.h2"></h2>
+  </div>
+  <div class="shots" id="shotStrip"></div>
+</section>
+
+<!-- ============ OFFLINE ============ -->
+<section>
+  <div class="wrap">
+    <p class="kicker" data-i18n="off.kicker"></p>
+    <h2 data-i18n="off.h2"></h2>
+    <p class="lede muted" data-i18n="off.p"></p>
+    <div class="trust">
+      <div><b>0</b><span data-i18n="off.t1"></span></div>
+      <div><b>0</b><span data-i18n="off.t2"></span></div>
+      <div><b>0</b><span data-i18n="off.t3"></span></div>
+      <div><b>0</b><span data-i18n="off.t4"></span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section>
+  <div class="wrap">
+    <p class="kicker" data-i18n="faq.kicker"></p>
+    <h2 data-i18n="faq.h2"></h2>
+    <div style="margin-top:24px">
+      <details open><summary data-i18n="q1.q"></summary><p data-i18n="q1.a"></p></details>
+      <details><summary data-i18n="q2.q"></summary><p data-i18n="q2.a"></p></details>
+      <details><summary data-i18n="q3.q"></summary><p data-i18n="q3.a"></p></details>
+      <details><summary data-i18n="q4.q"></summary><p data-i18n="q4.a"></p></details>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-row">
+      <div style="display:flex;align-items:center;gap:10px">
+        <div class="seal" style="width:28px;height:28px;font-size:11px">三國</div>
+        <span>© 2026 liveasfilm</span>
+      </div>
+      <div class="foot-links">
+        <a href="https://liveasfilm.github.io/samguk-io-privacy/" data-i18n="foot.privacy"></a>
+        <a href="mailto:liveasfilm@gmail.com" data-i18n="foot.contact"></a>
+      </div>
+    </div>
+    <p class="disclaimer" data-i18n="foot.disclaimer"></p>
+  </div>
+</footer>
+
+<script>
+const I18N = {
+  ko:{
+    "html.title":"삼국.io — 장수 한 명으로 시작해 천하를 통일한다",
+    "hero.badge":"완전 오프라인 · 광고 없음 · 인앱결제 없음",
+    "hero.h1":"장수 한 명으로 시작해,<br>천하를 통일한다",
+    "hero.lede":"삼국.io는 3~5분이면 한 판이 끝나는 싱글 플레이 전쟁 게임입니다. 흩어진 병사를 흡수하고, 성문을 열고, 58개 영역을 내 세력색으로 물들이세요. 서버도, 대기열도, 인터넷 연결도 필요 없습니다.",
+    "hero.cta1":"게임 화면 보기",
+    "hero.cta2":"무엇이 다른가",
+    "hero.store":"Google Play · App Store 출시 준비 중 — 게임 내 표시 언어는 한국어입니다.",
+    "feat.kicker":"핵심 루프",
+    "feat.h2":"버튼 조합도, 튜토리얼 벽도 없다. 화면을 끌면 전쟁이 시작된다.",
+    "f1.h":"격파하면 귀순한다",
+    "f1.p":"쓰러뜨린 적의 병사는 사라지지 않습니다. 적장의 깃발이 부러지고, 병사들이 무릎을 꿇고, 내 세력색으로 물듭니다. 30명으로 시작한 군단이 화면을 가득 채울 때까지.",
+    "f2.h":"3분, 성문이 열린다",
+    "f2.p":"시간 초과 패배는 없습니다. 3분이 지나면 성문이 열리고 보스 장수가 이끄는 최후의 대군이 쏟아져 나옵니다. 모든 판은 반드시 전투로 끝납니다.",
+    "f3.h":"무력 서열의 로망 — 일기토",
+    "f3.p":"장수끼리 마주치면 시간이 느려지고 일대일 승부가 벌어집니다. 여포의 방천화극, 관우의 청룡언월도. 군세가 아무리 커도 무력 차이는 장수 한 기의 승부로 결판납니다.",
+    "f4.h":"58개 영역의 천하 지도",
+    "f4.p":"사수관, 호로관, 낙양, 업, 성도, 건업. 함락한 성의 영역은 천하 지도 위에서 내 색으로 물들고, 58개 전 영역을 물들이면 천하통일입니다.",
+    "depth.kicker":"판을 바꾸는 것들",
+    "depth.h2":"3분짜리 한 판에, 매번 다른 전장",
+    "c1.h":"출진 전 편성",
+    "c1.p":"기병 > 궁수 > 보병 > 기병. 상성을 읽고 진형을 짭니다. 지형, 사기, 군량, 명마와 병법서가 세션마다 판을 뒤집습니다.",
+    "c2.h":"숙적",
+    "c2.p":"나를 이긴 자는 숙적으로 기록되고 다음 판에 반드시 다시 옵니다. 설욕하면 보상은 두 배 이상. 결과 화면에서 바로 재도전, 대기 시간 0초.",
+    "c3.h":"필드의 보물",
+    "c3.p":"명마, 병법서, 화타의 의원. 전장에 흩어진 보물은 그 판에서만 유효합니다. 무엇을 먼저 집을지가 곧 전략입니다.",
+    "gen.kicker":"장수",
+    "gen.h2":"51인의 장수, 그리고 천외천 10인",
+    "gen.p":"유비 한 명으로 시작해 명성을 쌓아 봉인을 엽니다. 하후돈, 황충, 장비, 조운, 제갈량, 관우 그리고 무료 라인의 마지막 여포까지. 시대를 뛰어넘은 명장 10인(이순신, 항우, 칭기즈칸 등)도 같은 전장에 섭니다.",
+    "shots.kicker":"게임 화면",
+    "shots.h2":"실제 플레이 화면",
+    "off.kicker":"약속",
+    "off.h2":"인터넷 권한조차 요구하지 않습니다",
+    "off.p":"계정 가입도, 로그인도, 서버도 없습니다. 모든 진행 상황은 기기 안에만 저장되고 밖으로 나가지 않습니다.",
+    "off.t1":"광고",
+    "off.t2":"인앱결제",
+    "off.t3":"계정 가입",
+    "off.t4":"요구 권한",
+    "faq.kicker":"자주 묻는 질문",
+    "faq.h2":"먼저 답합니다",
+    "q1.q":"한 판에 얼마나 걸리나요?",
+    "q1.a":"3~5분입니다. 3분에 성문이 열리고 결전이 시작되며, 결과 화면에서 바로 다음 판으로 넘어갈 수 있습니다.",
+    "q2.q":"인터넷 연결이 필요한가요?",
+    "q2.a":"필요 없습니다. 릴리스 빌드는 인터넷 권한 자체를 선언하지 않으며, 비행기 모드에서도 모든 기능이 동작합니다.",
+    "q3.q":"과금 요소가 있나요?",
+    "q3.a":"현재 버전에는 인앱결제도 광고도 없습니다. 장수는 플레이로 쌓은 명성으로만 해금합니다.",
+    "q4.q":"어떤 언어를 지원하나요?",
+    "q4.a":"게임 내 표시 언어는 현재 한국어 전용입니다. 스토어 등재정보는 한국어·영어·일본어·중국어로 제공됩니다.",
+    "foot.privacy":"개인정보처리방침",
+    "foot.contact":"문의",
+    "foot.disclaimer":"본 게임은 소설 삼국지연의를 모티브로 한 창작물이며 역사적 사실과 다를 수 있습니다. 등장 인물과 사건의 묘사는 게임적 각색입니다."
+  },
+  en:{
+    "html.title":"samguk.io — Start with one general, conquer the realm",
+    "hero.badge":"Fully offline · No ads · No in-app purchases",
+    "hero.h1":"Start with one general.<br>Take the whole realm.",
+    "hero.lede":"samguk.io is a 3–5 minute single-player war game. Absorb scattered soldiers, break open the castle gate, and flood all 58 territories with your color. No servers, no queues, no internet connection.",
+    "hero.cta1":"See the game",
+    "hero.cta2":"What makes it different",
+    "hero.store":"Coming soon to Google Play and the App Store — in-game text is currently Korean only.",
+    "feat.kicker":"Core loop",
+    "feat.h2":"No button combos, no tutorial walls. Drag the screen and the war begins.",
+    "f1.h":"Break them and they join you",
+    "f1.p":"Defeated soldiers do not vanish. The enemy banner snaps, the soldiers kneel, and they turn your color. Thirty men become a horde that fills the screen.",
+    "f2.h":"At three minutes, the gate opens",
+    "f2.p":"There is no losing by timeout. At 3:00 the castle gate swings open and the boss general's final host pours out. Every run ends in battle.",
+    "f3.h":"Duels: the romance of raw might",
+    "f3.p":"When two generals meet, time slows for a one-on-one fight. Lu Bu's halberd, Guan Yu's green dragon blade. However large the armies, might is settled man to man.",
+    "f4.h":"A world map of 58 territories",
+    "f4.p":"Hulao Pass, Luoyang, Ye, Chengdu, Jianye. Each castle you take floods its territory with your color, and painting all 58 unifies the realm.",
+    "depth.kicker":"What reshuffles the board",
+    "depth.h2":"A three-minute run, a different battlefield every time",
+    "c1.h":"Form up before you march",
+    "c1.p":"Cavalry beats archers, archers beat infantry, infantry beats cavalry. Read the matchup and set your formation. Terrain, morale, provisions, warhorses and war manuals turn every session.",
+    "c2.h":"Your nemesis returns",
+    "c2.p":"Whoever kills you is marked as a nemesis and is guaranteed to appear in your next run. Revenge pays double. Retry straight from the results screen — zero wait.",
+    "c3.h":"Treasures on the field",
+    "c3.p":"A warhorse, a war manual, Hua Tuo's physician. Treasures scattered across the field last only for that run, so what you grab first is the strategy.",
+    "gen.kicker":"Generals",
+    "gen.h2":"51 generals, plus 10 legends from beyond the era",
+    "gen.p":"Start as Liu Bei and unlock generals with Fame — Xiahou Dun, Huang Zhong, Zhang Fei, Zhao Yun, Zhuge Liang, Guan Yu, and Lu Bu at the end of the free line. Ten cross-era commanders (Yi Sun-sin, Xiang Yu, Genghis Khan and more) stand on the same field.",
+    "shots.kicker":"Screens",
+    "shots.h2":"Actual gameplay",
+    "off.kicker":"The promise",
+    "off.h2":"The app does not even request internet access",
+    "off.p":"No account, no login, no server. All progress stays on your device and never leaves it.",
+    "off.t1":"ads",
+    "off.t2":"in-app purchases",
+    "off.t3":"sign-ups",
+    "off.t4":"permissions",
+    "faq.kicker":"FAQ",
+    "faq.h2":"Answered up front",
+    "q1.q":"How long is one run?",
+    "q1.a":"Three to five minutes. The gate opens at 3:00 for the final battle, and you can jump straight into the next run from the results screen.",
+    "q2.q":"Do I need an internet connection?",
+    "q2.a":"No. The release build declares no internet permission at all, and everything works in airplane mode.",
+    "q3.q":"Are there any purchases?",
+    "q3.a":"The current version has no in-app purchases and no ads. Generals are unlocked only with Fame you earn by playing.",
+    "q4.q":"Which languages are supported?",
+    "q4.a":"In-game text is currently Korean only. Store listings are available in Korean, English, Japanese and Chinese.",
+    "foot.privacy":"Privacy Policy",
+    "foot.contact":"Contact",
+    "foot.disclaimer":"A work of fiction inspired by the novel Romance of the Three Kingdoms; characters and events are dramatized for the game and may differ from history."
+  },
+  ja:{
+    "html.title":"三国.io — 武将ひとりから、天下を統一する",
+    "hero.badge":"完全オフライン · 広告なし · アプリ内課金なし",
+    "hero.h1":"武将ひとりから、<br>天下を統一する。",
+    "hero.lede":"三国.ioは3〜5分でひと勝負が終わるシングルプレイ戦争ゲーム。散らばる兵を吸収し、城門を開き、58の領域を自軍の色に染めましょう。サーバーも待機列もネット接続も不要です。",
+    "hero.cta1":"ゲーム画面を見る",
+    "hero.cta2":"何が違うのか",
+    "hero.store":"Google Play・App Store で近日公開 — ゲーム内の表示言語は韓国語です。",
+    "feat.kicker":"コアループ",
+    "feat.h2":"ボタン操作もチュートリアルの壁もない。画面をドラッグすれば戦が始まる。",
+    "f1.h":"撃破すれば帰順する",
+    "f1.p":"倒した敵兵は消えません。敵将の旗が折れ、兵が膝をつき、自軍の色に染まる。三十人で始めた軍団が画面を埋め尽くすまで。",
+    "f2.h":"三分、城門が開く",
+    "f2.p":"時間切れ負けはありません。3分で城門が開き、ボス武将が率いる最後の大軍が押し寄せます。勝敗は必ず戦闘で決まります。",
+    "f3.h":"一騎討ち — 武の序列",
+    "f3.p":"武将同士が出会うと時が緩み、一対一の勝負が始まります。呂布の方天画戟、関羽の青龍偃月刀。軍勢がいかに大きくとも、武の差は一騎で決着します。",
+    "f4.h":"58領域の天下地図",
+    "f4.p":"虎牢関、洛陽、鄴、成都、建業。落とした城の領域は天下地図で自軍の色に染まり、58領域すべてを染めれば天下統一です。",
+    "depth.kicker":"戦況を変えるもの",
+    "depth.h2":"三分のひと勝負、毎回異なる戦場",
+    "c1.h":"出陣前の編成",
+    "c1.p":"騎兵>弓兵>歩兵>騎兵。相性を読んで陣形を組みます。地形・士気・兵糧・名馬・兵法書が毎回展開を変えます。",
+    "c2.h":"宿敵",
+    "c2.p":"自分を倒した武将は宿敵として記録され、次の勝負に必ず現れます。雪辱すれば報酬は倍以上。結果画面からすぐ再挑戦、待ち時間はゼロ。",
+    "c3.h":"戦場の宝",
+    "c3.p":"名馬、兵法書、華佗の医者。戦場に散らばる宝はその勝負でのみ有効。何を先に拾うかがそのまま戦略になります。",
+    "gen.kicker":"武将",
+    "gen.h2":"51人の武将、そして天外天の10人",
+    "gen.p":"劉備ひとりから始め、名声を積んで封印を解きます。夏侯惇、黄忠、張飛、趙雲、諸葛亮、関羽、そして無料枠の最後は呂布。時代を越えた名将10人（李舜臣・項羽・チンギスハンなど）も同じ戦場に立ちます。",
+    "shots.kicker":"ゲーム画面",
+    "shots.h2":"実際のプレイ画面",
+    "off.kicker":"約束",
+    "off.h2":"インターネット権限すら要求しません",
+    "off.p":"アカウント登録もログインもサーバーもありません。進行状況はすべて端末内にのみ保存され、外に出ることはありません。",
+    "off.t1":"広告",
+    "off.t2":"アプリ内課金",
+    "off.t3":"会員登録",
+    "off.t4":"要求権限",
+    "faq.kicker":"よくある質問",
+    "faq.h2":"先にお答えします",
+    "q1.q":"ひと勝負にどれくらいかかりますか？",
+    "q1.a":"3〜5分です。3分で城門が開いて決戦が始まり、結果画面からすぐ次の勝負に移れます。",
+    "q2.q":"ネット接続は必要ですか？",
+    "q2.a":"不要です。リリースビルドはインターネット権限自体を宣言せず、機内モードでもすべて動作します。",
+    "q3.q":"課金要素はありますか？",
+    "q3.a":"現行バージョンにはアプリ内課金も広告もありません。武将はプレイで得た名声のみで解放します。",
+    "q4.q":"対応言語は？",
+    "q4.a":"ゲーム内の表示言語は現在韓国語のみです。ストア掲載情報は韓国語・英語・日本語・中国語で提供します。",
+    "foot.privacy":"プライバシーポリシー",
+    "foot.contact":"お問い合わせ",
+    "foot.disclaimer":"本作は小説『三国志演義』を題材とした創作であり、史実とは異なる場合があります。登場人物や出来事の描写はゲームとしての脚色です。"
+  },
+  zh:{
+    "html.title":"三國.io — 從一名武將起兵，統一天下",
+    "hero.badge":"完全離線 · 無廣告 · 無內購",
+    "hero.h1":"從一名武將起兵，<br>染指整個天下。",
+    "hero.lede":"三國.io 是一款3〜5分鐘就能打完一局的單機戰爭遊戲。收攏散兵、攻開城門，將58個領域染成自己的顏色。無伺服器、無排隊、無需網路連線。",
+    "hero.cta1":"看遊戲畫面",
+    "hero.cta2":"有何不同",
+    "hero.store":"Google Play 與 App Store 即將推出 — 遊戲內顯示語言目前為韓文。",
+    "feat.kicker":"核心循環",
+    "feat.h2":"沒有連段按鍵，也沒有教學關卡。拖曳畫面，戰爭就開始了。",
+    "f1.h":"擊破即歸順",
+    "f1.p":"被擊敗的士兵不會消失。敵將旗幟折斷、士兵跪伏，隨即染上我方顏色。從三十人的隊伍，直到塞滿整個畫面。",
+    "f2.h":"三分鐘，城門大開",
+    "f2.p":"沒有時間到判負這回事。三分鐘後城門開啟，boss武將率最後大軍傾巢而出，每一局都以戰鬥收場。",
+    "f3.h":"單挑 — 武力的浪漫",
+    "f3.p":"兩名武將相遇時時間放緩，展開一對一的較量。呂布的方天畫戟、關羽的青龍偃月刀。軍勢再大，武力高下仍由一騎定奪。",
+    "f4.h":"58個領域的天下地圖",
+    "f4.p":"虎牢關、洛陽、鄴、成都、建業。攻下的城池會在天下地圖上染成我方顏色，染滿58個領域即為天下統一。",
+    "depth.kicker":"改變戰局的變數",
+    "depth.h2":"三分鐘一局，每局都是不同的戰場",
+    "c1.h":"出征前編成",
+    "c1.p":"騎兵>弓兵>步兵>騎兵。讀懂相剋並排出陣形。地形、士氣、糧草、名馬與兵法書，每局都會翻盤。",
+    "c2.h":"宿敵",
+    "c2.p":"擊敗你的武將會被記為宿敵，下一局必定登場。雪恥的獎勵超過兩倍。可從結算畫面直接再戰，零等待。",
+    "c3.h":"戰場上的寶物",
+    "c3.p":"名馬、兵法書、華佗的醫者。散落戰場的寶物僅在該局有效，先撿哪一個本身就是策略。",
+    "gen.kicker":"武將",
+    "gen.h2":"51名武將，外加10位跨時代名將",
+    "gen.p":"從劉備開始，以名聲解開封印：夏侯惇、黃忠、張飛、趙雲、諸葛亮、關羽，免費線的終點是呂布。另有十位跨時代名將（李舜臣、項羽、成吉思汗等）同場競技。",
+    "shots.kicker":"遊戲畫面",
+    "shots.h2":"實機畫面",
+    "off.kicker":"承諾",
+    "off.h2":"連網路權限都不要求",
+    "off.p":"沒有帳號、沒有登入、沒有伺服器。所有進度僅保存在您的裝置中，不會外流。",
+    "off.t1":"廣告",
+    "off.t2":"內購",
+    "off.t3":"註冊",
+    "off.t4":"要求權限",
+    "faq.kicker":"常見問題",
+    "faq.h2":"先為您解答",
+    "q1.q":"一局要玩多久？",
+    "q1.a":"3〜5分鐘。第3分鐘城門開啟進入決戰，並可從結算畫面直接開始下一局。",
+    "q2.q":"需要網路連線嗎？",
+    "q2.a":"不需要。發行版本完全未宣告網路權限，在飛航模式下所有功能照常運作。",
+    "q3.q":"有付費項目嗎？",
+    "q3.a":"目前版本沒有內購也沒有廣告。武將僅能透過遊玩累積的名聲解鎖。",
+    "q4.q":"支援哪些語言？",
+    "q4.a":"遊戲內顯示語言目前僅有韓文。商店資訊提供韓文、英文、日文與中文。",
+    "foot.privacy":"隱私權政策",
+    "foot.contact":"聯絡我們",
+    "foot.disclaimer":"本作品取材自小說《三國演義》，屬創作內容，與史實未必相符。人物與事件的描寫皆為遊戲改編。"
+  }
+};
+
+const SHOTS = [
+  {file:"06_select.webp", ko:"장수와 진형을 고르고 출진", en:"Pick a general and a formation", ja:"武将と陣形を選んで出陣", zh:"選定武將與陣形出征"},
+  {file:"01_battle.webp", ko:"화면을 채우는 군단", en:"A screen-filling horde", ja:"画面を埋める軍団", zh:"塞滿畫面的軍團"},
+  {file:"02_convert.webp", ko:"지형을 끼고 벌이는 교전", en:"Fighting with the terrain", ja:"地形を活かした交戦", zh:"依地形展開的交戰"},
+  {file:"04_duel.webp", ko:"일기토 — 수를 골라라", en:"Duel — choose your move", ja:"一騎討ち — 手を選べ", zh:"單挑 — 選擇你的招"},
+  {file:"03_gate.webp", ko:"개문 결전 — 대군이 쏟아진다", en:"The gate opens and the host pours out", ja:"開門決戦 — 大軍が押し寄せる", zh:"開門決戰 — 大軍傾巢而出"},
+  {file:"05_map.webp", ko:"58개 영역의 천하 지도", en:"58 territories", ja:"58領域の天下地図", zh:"58個領域的天下地圖"},
+  {file:"08_result.webp", ko:"결과, 그리고 즉시 재도전", en:"Results, then instant retry", ja:"結果、そして即再挑戦", zh:"結算後立即再戰"}
+];
+
+const GENERALS = ["liubei","guanyu","zhangfei","zhaoyun","zhugeliang","caocao","xiahoudun","simayi","sunce","zhouyu","huangzhong","lubu"];
+
+function buildGenerals(){
+  const track = document.getElementById('genTrack');
+  const html = GENERALS.map(g => `<img class="gen" src="assets/portraits/${g}.webp" alt="" loading="lazy" onerror="this.remove()">`).join('');
+  track.innerHTML = html + html; // duplicated for seamless loop
+}
+
+function buildShots(lang){
+  const strip = document.getElementById('shotStrip');
+  strip.innerHTML = SHOTS.map(s => `
+    <figure class="shot" style="margin:0">
+      <div class="phone"><img src="assets/shots/${s.file}" alt="${s[lang]}" loading="lazy"></div>
+      <figcaption class="cap">${s[lang]}</figcaption>
+    </figure>`).join('');
+  strip.querySelectorAll('img').forEach(img => {
+    img.onerror = () => img.closest('.shot').remove();
+  });
+}
+
+function apply(lang){
+  const dict = I18N[lang];
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const v = dict[el.dataset.i18n];
+    if (v !== undefined) el.innerHTML = v;
+  });
+  document.title = dict['html.title'];
+  document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : lang;
+  document.querySelectorAll('.langs button').forEach(b =>
+    b.setAttribute('aria-selected', String(b.dataset.lang === lang)));
+  buildShots(lang);
+  history.replaceState(null, '', '#' + lang);
+}
+
+document.querySelectorAll('.langs button').forEach(b =>
+  b.addEventListener('click', () => apply(b.dataset.lang)));
+
+buildGenerals();
+const hash = location.hash.replace('#','');
+if (I18N[hash]) {
+  apply(hash);
+} else {
+  const n = (navigator.language || 'ko').toLowerCase();
+  apply(n.startsWith('ja') ? 'ja' : n.startsWith('zh') ? 'zh' : n.startsWith('en') ? 'en' : 'ko');
+}
+</script>
+</body>
+</html>
