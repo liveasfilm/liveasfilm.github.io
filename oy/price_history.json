@@ -37,6 +37,25 @@
   },
   "oyPrice": 34700
  },
+ "A000000231293": {
+  "brand": "프리메라",
+  "name": "[스테디셀러 특가][탄력광채세럼] 프리메라 비타티놀 바운시 리프트 세럼 25g 기획/단품",
+  "days": {
+   "2026-09-04": {
+    "oy": 22600,
+    "bjMedian": 38000,
+    "bjMin": 16000,
+    "bjMax": 39000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.68
+   }
+  },
+  "oyPrice": 22600
+ },
  "A000000200391": {
   "brand": "제니퍼로페즈",
   "name": "[단독기획] 제니퍼로페즈 글로우 바이제이로 EDT 100ml 기획(+프로미스 바디로션)",
@@ -63,9 +82,9 @@
    "2026-09-04": {
     "oy": 22610,
     "bjMedian": 29000,
-    "bjMin": 10000,
+    "bjMin": 13500,
     "bjMax": 55000,
-    "bjCount": 37,
+    "bjCount": 36,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": 28000,
@@ -75,6 +94,25 @@
   },
   "oyPrice": 22610
  },
+ "A000000242720": {
+  "brand": "차앤박",
+  "name": "[보습광채/화잘먹앰플] 차앤박 프로폴리스 에너지 액티브 앰플 30ml 2입 기획 (+15ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 28330,
+    "bjMedian": 35000,
+    "bjMin": 28000,
+    "bjMax": 37000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.24
+   }
+  },
+  "oyPrice": 28330
+ },
  "A000000203759": {
   "brand": "바이오힐보",
   "name": "[모공패드] 바이오힐보 프로바이오덤 콜라겐 리모델링 세럼 패드 70매",
@@ -82,9 +120,9 @@
    "2026-09-04": {
     "oy": 9920,
     "bjMedian": 12000,
-    "bjMin": 2500,
-    "bjMax": 80000,
-    "bjCount": 17,
+    "bjMin": 5500,
+    "bjMax": 25000,
+    "bjCount": 14,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": 10000,
@@ -94,59 +132,21 @@
   },
   "oyPrice": 9920
  },
- "A000000231293": {
-  "brand": "프리메라",
-  "name": "[스테디셀러 특가][탄력광채세럼] 프리메라 비타티놀 바운시 리프트 세럼 25g 기획/단품",
-  "days": {
-   "2026-09-04": {
-    "oy": 22600,
-    "bjMedian": 27000,
-    "bjMin": 8000,
-    "bjMax": 39000,
-    "bjCount": 4,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 1.19
-   }
-  },
-  "oyPrice": 22600
- },
- "A000000113585": {
-  "brand": "바디럽",
-  "name": "바디럽 퓨어썸 샤워기",
-  "days": {
-   "2026-09-04": {
-    "oy": 19980,
-    "bjMedian": 23319,
-    "bjMin": 6900,
-    "bjMax": 44000,
-    "bjCount": 4,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": 3000,
-    "kSoldCount": 1,
-    "premium": 1.17
-   }
-  },
-  "oyPrice": 19980
- },
  "A000000249451": {
   "brand": "비오레",
   "name": "[올영단독]비오레 UV 아쿠아 리치 워터리 에센스 50g 단품/더블기획추가20g증정",
   "days": {
    "2026-09-04": {
     "oy": 13830,
-    "bjMedian": 15450,
-    "bjMin": 4500,
+    "bjMedian": 15900,
+    "bjMin": 15000,
     "bjMax": 16000,
-    "bjCount": 4,
+    "bjCount": 3,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 1.12
+    "premium": 1.15
    }
   },
   "oyPrice": 13830
@@ -272,9 +272,9 @@
    "2026-09-04": {
     "oy": 9500,
     "bjMedian": 10000,
-    "bjMin": 2500,
+    "bjMin": 5500,
     "bjMax": 12000,
-    "bjCount": 7,
+    "bjCount": 6,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -322,6 +322,25 @@
   },
   "oyPrice": 29200
  },
+ "A000000262992": {
+  "brand": "필리밀리",
+  "name": "필리밀리 부착형 미니 피규어 히퍼 (7종 랜덤) [산리오캐릭터즈]",
+  "days": {
+   "2026-09-04": {
+    "oy": 11900,
+    "bjMedian": 12250,
+    "bjMin": 10000,
+    "bjMax": 17500,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.03
+   }
+  },
+  "oyPrice": 11900
+ },
  "A000000136484": {
   "brand": "제니퍼로페즈",
   "name": "제니퍼로페즈 글로우 바이제이로 EDT 100ml",
@@ -340,6 +359,25 @@
    }
   },
   "oyPrice": 49320
+ },
+ "A000000217766": {
+  "brand": "일리윤",
+  "name": "일리윤 세라마이드 아토 집중크림 150ML",
+  "days": {
+   "2026-09-04": {
+    "oy": 8910,
+    "bjMedian": 9000,
+    "bjMin": 7000,
+    "bjMax": 11000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.01
+   }
+  },
+  "oyPrice": 8910
  },
  "A000000250020": {
   "brand": "리무브",
@@ -360,44 +398,6 @@
   },
   "oyPrice": 12900
  },
- "A000000262992": {
-  "brand": "필리밀리",
-  "name": "필리밀리 부착형 미니 피규어 히퍼 (7종 랜덤) [산리오캐릭터즈]",
-  "days": {
-   "2026-09-04": {
-    "oy": 11900,
-    "bjMedian": 12000,
-    "bjMin": 500,
-    "bjMax": 17500,
-    "bjCount": 9,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 1.01
-   }
-  },
-  "oyPrice": 11900
- },
- "A000000242720": {
-  "brand": "차앤박",
-  "name": "[보습광채/화잘먹앰플] 차앤박 프로폴리스 에너지 액티브 앰플 30ml 2입 기획 (+15ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 28330,
-    "bjMedian": 28000,
-    "bjMin": 8000,
-    "bjMax": 37000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.99
-   }
-  },
-  "oyPrice": 28330
- },
  "A000000248339": {
   "brand": "폰즈",
   "name": "[NEW/한정기획] 폰즈 립&아이리무버 300ml 기획 (+50ML 리무버 +화장솜 30매 증정)",
@@ -417,6 +417,25 @@
   },
   "oyPrice": 11790
  },
+ "A000000175954": {
+  "brand": "네이밍",
+  "name": "[올영세일/수부지쿠션] 네이밍 레이어드 핏 쿠션 기획(본품+리필)",
+  "days": {
+   "2026-09-04": {
+    "oy": 25200,
+    "bjMedian": 24000,
+    "bjMin": 18000,
+    "bjMax": 24000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.95
+   }
+  },
+  "oyPrice": 25200
+ },
  "A000000137487": {
   "brand": "아리아나그란데",
   "name": "아리아나그란데 땡큐 넥스트 EDP 50ml",
@@ -435,25 +454,6 @@
    }
   },
   "oyPrice": 54910
- },
- "A000000217766": {
-  "brand": "일리윤",
-  "name": "일리윤 세라마이드 아토 집중크림 150ML",
-  "days": {
-   "2026-09-04": {
-    "oy": 8910,
-    "bjMedian": 8500,
-    "bjMin": 1000,
-    "bjMax": 11000,
-    "bjCount": 6,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.95
-   }
-  },
-  "oyPrice": 8910
  },
  "A000000161165": {
   "brand": "에스트라",
@@ -607,16 +607,16 @@
   },
   "oyPrice": 6900
  },
- "B000000266839": {
-  "brand": "레고",
-  "name": "레고 스타워즈 75375 밀레니엄 팔콘",
+ "B000000211375": {
+  "brand": "브랜든",
+  "name": "브랜든 여행 압축 파우치 세트 28인치 S+S+M+M+L (5 colors)",
   "days": {
    "2026-09-04": {
-    "oy": 95920,
-    "bjMedian": 85000,
-    "bjMin": 50000,
-    "bjMax": 106000,
-    "bjCount": 5,
+    "oy": 81260,
+    "bjMedian": 72500,
+    "bjMin": 30000,
+    "bjMax": 100000,
+    "bjCount": 6,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -624,7 +624,26 @@
     "premium": 0.89
    }
   },
-  "oyPrice": 95920
+  "oyPrice": 81260
+ },
+ "A000000184697": {
+  "brand": "아이오페",
+  "name": "[10년 연속 1위] 아이오페 맨 올데이 퍼펙트 올인원 120ml 기획 (+30ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 22800,
+    "bjMedian": 20000,
+    "bjMin": 16000,
+    "bjMax": 21500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.88
+   }
+  },
+  "oyPrice": 22800
  },
  "A000000261364": {
   "brand": "릴리이브",
@@ -664,24 +683,43 @@
   },
   "oyPrice": 29050
  },
- "B000000208368": {
-  "brand": "스탠리",
-  "name": "[신규컬러]스탠리 퀜처 H2.0 플로우스테이트 텀블러 591ml",
+ "A000000198321": {
+  "brand": "에스트라",
+  "name": "에스트라 아토베리어365 로션 150ml",
   "days": {
    "2026-09-04": {
-    "oy": 39600,
-    "bjMedian": 35000,
-    "bjMin": 29000,
-    "bjMax": 140000,
-    "bjCount": 11,
+    "oy": 24060,
+    "bjMedian": 20940,
+    "bjMin": 15000,
+    "bjMax": 22000,
+    "bjCount": 7,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 0.88
+    "premium": 0.87
    }
   },
-  "oyPrice": 39600
+  "oyPrice": 24060
+ },
+ "A000000260005": {
+  "brand": "주미소",
+  "name": "[장벽케어/대용량] 주미소 디 판테놀 베리어 수딩 클렌징밀크 300ml 리필기획 (+리필 100ml +클렌징폼 20g)",
+  "days": {
+   "2026-09-04": {
+    "oy": 18900,
+    "bjMedian": 16250,
+    "bjMin": 10000,
+    "bjMax": 19800,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.86
+   }
+  },
+  "oyPrice": 18900
  },
  "B000000242216": {
   "brand": "브랜든",
@@ -702,6 +740,44 @@
   },
   "oyPrice": 40800
  },
+ "A000000181343": {
+  "brand": "바이오던스",
+  "name": "[리센느 원이PICK/1등 3시간팩] 바이오던스 리얼 딥 마스크 4매 (콜라겐/PDRN/세라놀/씨켈프/비타)",
+  "days": {
+   "2026-09-04": {
+    "oy": 17010,
+    "bjMedian": 14500,
+    "bjMin": 10000,
+    "bjMax": 20000,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.85
+   }
+  },
+  "oyPrice": 17010
+ },
+ "A000000261632": {
+  "brand": "셀리맥스",
+  "name": "셀리맥스 더 비타 A 레티날 샷 타이트닝 투스텝 겔 마스크 4매",
+  "days": {
+   "2026-09-04": {
+    "oy": 17000,
+    "bjMedian": 14500,
+    "bjMin": 12500,
+    "bjMax": 30000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.85
+   }
+  },
+  "oyPrice": 17000
+ },
  "A000000263008": {
   "brand": "유세린",
   "name": "[9월 올영픽] 유세린 하이알루론 3X 나이트크림 50ml 기획 (+진정장벽 마스크팩 1매+팩 브러쉬)",
@@ -720,6 +796,25 @@
    }
   },
   "oyPrice": 34690
+ },
+ "B000000254463": {
+  "brand": "로지텍",
+  "name": "로지텍 게이밍 G PRO X SUPERLIGHT 2C (Compact)",
+  "days": {
+   "2026-09-04": {
+    "oy": 188900,
+    "bjMedian": 160000,
+    "bjMin": 60000,
+    "bjMax": 300000,
+    "bjCount": 28,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.85
+   }
+  },
+  "oyPrice": 188900
  },
  "A000000253342": {
   "brand": "블랑네이처",
@@ -778,25 +873,6 @@
   },
   "oyPrice": 24130
  },
- "A000000258834": {
-  "brand": "에스트라",
-  "name": "에스트라 아토베리어365 하이드로 수딩크림 80ml 기획 (+수딩크림 10ml+클렌징폼 30g)",
-  "days": {
-   "2026-09-04": {
-    "oy": 25250,
-    "bjMedian": 21000,
-    "bjMin": 13000,
-    "bjMax": 700000,
-    "bjCount": 23,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.83
-   }
-  },
-  "oyPrice": 25250
- },
  "A000000237394": {
   "brand": "메디힐",
   "name": "[장도연 PICK/미니어처 증정] 메디힐 더마 크림 팩클렌저 120ml 단품/기획 2종 (+20ml 추가증정)",
@@ -804,9 +880,9 @@
    "2026-09-04": {
     "oy": 15580,
     "bjMedian": 13000,
-    "bjMin": 5000,
+    "bjMin": 7000,
     "bjMax": 16000,
-    "bjCount": 5,
+    "bjCount": 4,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -854,6 +930,25 @@
   },
   "oyPrice": 14540
  },
+ "A000000262987": {
+  "brand": "라로슈포제",
+  "name": "[9월 올영픽/모공결데일리앰플] 라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼 30ml (+에빠끌라 폼 50ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 36320,
+    "bjMedian": 30000,
+    "bjMin": 25000,
+    "bjMax": 44000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.83
+   }
+  },
+  "oyPrice": 36320
+ },
  "A000000244023": {
   "brand": "나르시소 로드리게즈",
   "name": "[타잔PICK] 나르시소 로드리게즈 퓨어 머스크/포 허 EDT/블루 누와르/상탈",
@@ -861,9 +956,9 @@
    "2026-09-04": {
     "oy": 59500,
     "bjMedian": 49500,
-    "bjMin": 11000,
-    "bjMax": 999999999,
-    "bjCount": 30,
+    "bjMin": 21000,
+    "bjMax": 100000,
+    "bjCount": 28,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -872,6 +967,25 @@
    }
   },
   "oyPrice": 59500
+ },
+ "B000000208368": {
+  "brand": "스탠리",
+  "name": "[신규컬러]스탠리 퀜처 H2.0 플로우스테이트 텀블러 591ml",
+  "days": {
+   "2026-09-04": {
+    "oy": 39600,
+    "bjMedian": 33000,
+    "bjMin": 29000,
+    "bjMax": 39000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.83
+   }
+  },
+  "oyPrice": 39600
  },
  "A000000248829": {
   "brand": "이옴",
@@ -892,16 +1006,16 @@
   },
   "oyPrice": 13430
  },
- "A000000181343": {
-  "brand": "바이오던스",
-  "name": "[리센느 원이PICK/1등 3시간팩] 바이오던스 리얼 딥 마스크 4매 (콜라겐/PDRN/세라놀/씨켈프/비타)",
+ "A000000161681": {
+  "brand": "메디큐브",
+  "name": "[1등모공패드] 메디큐브 제로 모공 패드 2.0 70매",
   "days": {
    "2026-09-04": {
     "oy": 17010,
     "bjMedian": 14000,
-    "bjMin": 10000,
+    "bjMin": 9900,
     "bjMax": 20000,
-    "bjCount": 17,
+    "bjCount": 7,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -910,25 +1024,6 @@
    }
   },
   "oyPrice": 17010
- },
- "A000000261632": {
-  "brand": "셀리맥스",
-  "name": "셀리맥스 더 비타 A 레티날 샷 타이트닝 투스텝 겔 마스크 4매",
-  "days": {
-   "2026-09-04": {
-    "oy": 17000,
-    "bjMedian": 14000,
-    "bjMin": 5000,
-    "bjMax": 30000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.82
-   }
-  },
-  "oyPrice": 17000
  },
  "A000000225801": {
   "brand": "비플레인",
@@ -948,25 +1043,6 @@
    }
   },
   "oyPrice": 18200
- },
- "A000000260005": {
-  "brand": "주미소",
-  "name": "[장벽케어/대용량] 주미소 디 판테놀 베리어 수딩 클렌징밀크 300ml 리필기획 (+리필 100ml +클렌징폼 20g)",
-  "days": {
-   "2026-09-04": {
-    "oy": 18900,
-    "bjMedian": 15500,
-    "bjMin": 4000,
-    "bjMax": 19800,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.82
-   }
-  },
-  "oyPrice": 18900
  },
  "A000000230092": {
   "brand": "필리밀리",
@@ -1044,16 +1120,16 @@
   },
   "oyPrice": 29400
  },
- "A000000161681": {
-  "brand": "메디큐브",
-  "name": "[1등모공패드] 메디큐브 제로 모공 패드 2.0 70매",
+ "A000000258834": {
+  "brand": "에스트라",
+  "name": "에스트라 아토베리어365 하이드로 수딩크림 80ml 기획 (+수딩크림 10ml+클렌징폼 30g)",
   "days": {
    "2026-09-04": {
-    "oy": 17010,
-    "bjMedian": 13750,
-    "bjMin": 5310,
-    "bjMax": 20000,
-    "bjCount": 8,
+    "oy": 25250,
+    "bjMedian": 20500,
+    "bjMin": 13000,
+    "bjMax": 27000,
+    "bjCount": 22,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1061,7 +1137,7 @@
     "premium": 0.81
    }
   },
-  "oyPrice": 17010
+  "oyPrice": 25250
  },
  "A000000140263": {
   "brand": "페리페라",
@@ -1070,9 +1146,9 @@
    "2026-09-04": {
     "oy": 6020,
     "bjMedian": 4900,
-    "bjMin": 1500,
-    "bjMax": 16000,
-    "bjCount": 37,
+    "bjMin": 2500,
+    "bjMax": 12000,
+    "bjCount": 35,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1101,25 +1177,6 @@
   },
   "oyPrice": 18610
  },
- "A000000198321": {
-  "brand": "에스트라",
-  "name": "에스트라 아토베리어365 로션 150ml",
-  "days": {
-   "2026-09-04": {
-    "oy": 24060,
-    "bjMedian": 19470,
-    "bjMin": 5000,
-    "bjMax": 22000,
-    "bjCount": 8,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.81
-   }
-  },
-  "oyPrice": 24060
- },
  "A000000207494": {
   "brand": "아로마티카",
   "name": "아로마티카 퓨어 앤 소프트 여성청결제 300ml 리필",
@@ -1147,8 +1204,8 @@
     "oy": 17600,
     "bjMedian": 14000,
     "bjMin": 10000,
-    "bjMax": 55000,
-    "bjCount": 28,
+    "bjMax": 30000,
+    "bjCount": 27,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1158,35 +1215,16 @@
   },
   "oyPrice": 17600
  },
- "A000000262987": {
-  "brand": "라로슈포제",
-  "name": "[9월 올영픽/모공결데일리앰플] 라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼 30ml (+에빠끌라 폼 50ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 36320,
-    "bjMedian": 29000,
-    "bjMin": 5000,
-    "bjMax": 44000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.8
-   }
-  },
-  "oyPrice": 36320
- },
  "A000000250320": {
   "brand": "피노",
   "name": "[영양착붙 젤리헤어팩] 피노 프리미엄 터치 헤어 마스크 230g",
   "days": {
    "2026-09-04": {
     "oy": 10640,
-    "bjMedian": 8510,
+    "bjMedian": 8505,
     "bjMin": 7000,
-    "bjMax": 28000,
-    "bjCount": 21,
+    "bjMax": 16000,
+    "bjCount": 20,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1234,6 +1272,25 @@
   },
   "oyPrice": 50760
  },
+ "A000000212749": {
+  "brand": "프레시안",
+  "name": "[스테디셀러 특가/1등품절템/웜쿨대통합] 프레시안 에그라이크 크림 블러쉬 (단독 기획)",
+  "days": {
+   "2026-09-04": {
+    "oy": 18400,
+    "bjMedian": 14500,
+    "bjMin": 8000,
+    "bjMax": 23000,
+    "bjCount": 32,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
+   }
+  },
+  "oyPrice": 18400
+ },
  "A000000213461": {
   "brand": "아도르",
   "name": "[올영단독] 아도르 퍼퓸 헤어 트리트먼트 380ml 기획 4종 (+50ml 증정)",
@@ -1253,35 +1310,16 @@
   },
   "oyPrice": 23870
  },
- "B000000254463": {
-  "brand": "로지텍",
-  "name": "로지텍 게이밍 G PRO X SUPERLIGHT 2C (Compact)",
+ "A000000216520": {
+  "brand": "리쥬란",
+  "name": "[스테디셀러 특가][오리지널 c-PDRN] 리쥬란 힐러 턴오버 앰플 듀얼 이펙트 10ml 더블 기획",
   "days": {
    "2026-09-04": {
-    "oy": 188900,
-    "bjMedian": 150000,
-    "bjMin": 40000,
-    "bjMax": 300000,
-    "bjCount": 29,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.79
-   }
-  },
-  "oyPrice": 188900
- },
- "A000000185308": {
-  "brand": "이즈앤트리",
-  "name": "[NCT 재민PICK/단독기획] 이즈앤트리 참마 비건 밀크 클렌저 220ml 리필기획 (+리필100ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 16070,
-    "bjMedian": 12500,
-    "bjMin": 5000,
-    "bjMax": 38500,
-    "bjCount": 12,
+    "oy": 36000,
+    "bjMedian": 28000,
+    "bjMin": 19000,
+    "bjMax": 37000,
+    "bjCount": 11,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1289,7 +1327,7 @@
     "premium": 0.78
    }
   },
-  "oyPrice": 16070
+  "oyPrice": 36000
  },
  "A000000145581": {
   "brand": "라곰",
@@ -1298,9 +1336,9 @@
    "2026-09-04": {
     "oy": 12830,
     "bjMedian": 10000,
-    "bjMin": 3000,
+    "bjMin": 6000,
     "bjMax": 20000,
-    "bjCount": 19,
+    "bjCount": 17,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1386,25 +1424,6 @@
   },
   "oyPrice": 63750
  },
- "A000000216520": {
-  "brand": "리쥬란",
-  "name": "[스테디셀러 특가][오리지널 c-PDRN] 리쥬란 힐러 턴오버 앰플 듀얼 이펙트 10ml 더블 기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 36000,
-    "bjMedian": 27750,
-    "bjMin": 11000,
-    "bjMax": 37000,
-    "bjCount": 12,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.77
-   }
-  },
-  "oyPrice": 36000
- },
  "A000000263011": {
   "brand": "유세린",
   "name": "[썸머썸머PICK/9월 올영픽] 유세린 티아미돌 부스터 세럼 30ml 기획 (+광채 세럼 7ml)",
@@ -1431,9 +1450,9 @@
    "2026-09-04": {
     "oy": 25850,
     "bjMedian": 20000,
-    "bjMin": 5000,
+    "bjMin": 10000,
     "bjMax": 37000,
-    "bjCount": 11,
+    "bjCount": 10,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1443,16 +1462,16 @@
   },
   "oyPrice": 25850
  },
- "A000000184697": {
-  "brand": "아이오페",
-  "name": "[10년 연속 1위] 아이오페 맨 올데이 퍼펙트 올인원 120ml 기획 (+30ml)",
+ "A000000221675": {
+  "brand": "포맨트",
+  "name": "[스테디셀러 특가/올영1위/박지훈 포카증정] 포맨트 시그니처 퍼퓸 코튼허그 50ml",
   "days": {
    "2026-09-04": {
-    "oy": 22800,
-    "bjMedian": 17500,
-    "bjMin": 500,
-    "bjMax": 21500,
-    "bjCount": 6,
+    "oy": 35100,
+    "bjMedian": 27100,
+    "bjMin": 12000,
+    "bjMax": 32000,
+    "bjCount": 9,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1460,7 +1479,7 @@
     "premium": 0.77
    }
   },
-  "oyPrice": 22800
+  "oyPrice": 35100
  },
  "A000000186037": {
   "brand": "닥터포헤어",
@@ -1508,8 +1527,8 @@
     "oy": 24900,
     "bjMedian": 19000,
     "bjMin": 11000,
-    "bjMax": 63000,
-    "bjCount": 23,
+    "bjMax": 40000,
+    "bjCount": 22,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1537,25 +1556,6 @@
    }
   },
   "oyPrice": 11790
- },
- "A000000150361": {
-  "brand": "홀리카홀리카",
-  "name": "[9월올영픽/NEW컬러] 홀리카홀리카 마이페이브 무드 아이 팔레트",
-  "days": {
-   "2026-09-04": {
-    "oy": 20400,
-    "bjMedian": 15500,
-    "bjMin": 8000,
-    "bjMax": 21800,
-    "bjCount": 40,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.76
-   }
-  },
-  "oyPrice": 20400
  },
  "A000000202780": {
   "brand": "헤라",
@@ -1595,25 +1595,6 @@
   },
   "oyPrice": 36660
  },
- "A000000221675": {
-  "brand": "포맨트",
-  "name": "[스테디셀러 특가/올영1위/박지훈 포카증정] 포맨트 시그니처 퍼퓸 코튼허그 50ml",
-  "days": {
-   "2026-09-04": {
-    "oy": 35100,
-    "bjMedian": 26550,
-    "bjMin": 1000,
-    "bjMax": 32000,
-    "bjCount": 10,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.76
-   }
-  },
-  "oyPrice": 35100
- },
  "A000000189526": {
   "brand": "몽블랑",
   "name": "몽블랑 익스플로러 EDP 100ml",
@@ -1632,6 +1613,44 @@
    }
   },
   "oyPrice": 105330
+ },
+ "A000000232098": {
+  "brand": "클리오",
+  "name": "[9/4 하루특가] 클리오 킬 커버 파운웨어 쿠션 단품/기획(+리필+프레쉬 프렙 베이스 증정)",
+  "days": {
+   "2026-09-04": {
+    "oy": 23900,
+    "bjMedian": 18000,
+    "bjMin": 7000,
+    "bjMax": 27000,
+    "bjCount": 35,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.75
+   }
+  },
+  "oyPrice": 23900
+ },
+ "A000000263019": {
+  "brand": "라로슈포제",
+  "name": "[9월 올영픽/데일리장벽케어] 라로슈포제 시카플라스트 멀티 리페어 크림 100ml 기획 (+시카에센스 7.5ml*2)",
+  "days": {
+   "2026-09-04": {
+    "oy": 37440,
+    "bjMedian": 28000,
+    "bjMin": 17000,
+    "bjMax": 38000,
+    "bjCount": 25,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.75
+   }
+  },
+  "oyPrice": 37440
  },
  "A000000231315": {
   "brand": "프리메라",
@@ -1716,9 +1735,9 @@
    "2026-09-04": {
     "oy": 22850,
     "bjMedian": 17000,
-    "bjMin": 500,
+    "bjMin": 7600,
     "bjMax": 40000,
-    "bjCount": 30,
+    "bjCount": 29,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1727,25 +1746,6 @@
    }
   },
   "oyPrice": 22850
- },
- "A000000261442": {
-  "brand": "블랑네이처",
-  "name": "[쿨링진정/대용량]블랑네이처 9배 고농축 어성초 토너 300ml 기획 (+30ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 20900,
-    "bjMedian": 15500,
-    "bjMin": 10000,
-    "bjMax": 47600,
-    "bjCount": 8,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.74
-   }
-  },
-  "oyPrice": 20900
  },
  "A000000245794": {
   "brand": "폴라초이스",
@@ -1785,25 +1785,6 @@
   },
   "oyPrice": 11500
  },
- "A000000207640": {
-  "brand": "닥터지",
-  "name": "[블랙헤드/모공세정] 닥터지 그린딥 포어 클렌징밤 100ml",
-  "days": {
-   "2026-09-04": {
-    "oy": 13500,
-    "bjMedian": 10000,
-    "bjMin": 8510,
-    "bjMax": 11900,
-    "bjCount": 3,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.74
-   }
-  },
-  "oyPrice": 13500
- },
  "A000000223423": {
   "brand": "메디힐",
   "name": "[산뜻촉촉 선크림] 메디힐 마데카소사이드 수분 선세럼 흔적 리페어 50g",
@@ -1823,6 +1804,25 @@
   },
   "oyPrice": 13400
  },
+ "A000000150361": {
+  "brand": "홀리카홀리카",
+  "name": "[9월올영픽/NEW컬러] 홀리카홀리카 마이페이브 무드 아이 팔레트",
+  "days": {
+   "2026-09-04": {
+    "oy": 20400,
+    "bjMedian": 15000,
+    "bjMin": 8000,
+    "bjMax": 21800,
+    "bjCount": 39,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
+   }
+  },
+  "oyPrice": 20400
+ },
  "A000000171538": {
   "brand": "디어에이",
   "name": "[NEW] 디어에이 샤인 온 미 네일 컬러 37colors",
@@ -1830,9 +1830,9 @@
    "2026-09-04": {
     "oy": 6750,
     "bjMedian": 5000,
-    "bjMin": 1000,
+    "bjMin": 2500,
     "bjMax": 8800,
-    "bjCount": 23,
+    "bjCount": 21,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -1879,44 +1879,6 @@
    }
   },
   "oyPrice": 27900
- },
- "A000000263019": {
-  "brand": "라로슈포제",
-  "name": "[9월 올영픽/데일리장벽케어] 라로슈포제 시카플라스트 멀티 리페어 크림 100ml 기획 (+시카에센스 7.5ml*2)",
-  "days": {
-   "2026-09-04": {
-    "oy": 37440,
-    "bjMedian": 27500,
-    "bjMin": 6000,
-    "bjMax": 38000,
-    "bjCount": 26,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.73
-   }
-  },
-  "oyPrice": 37440
- },
- "A000000212749": {
-  "brand": "프레시안",
-  "name": "[스테디셀러 특가/1등품절템/웜쿨대통합] 프레시안 에그라이크 크림 블러쉬 (단독 기획)",
-  "days": {
-   "2026-09-04": {
-    "oy": 18400,
-    "bjMedian": 13500,
-    "bjMin": 500,
-    "bjMax": 23000,
-    "bjCount": 34,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.73
-   }
-  },
-  "oyPrice": 18400
  },
  "A000000190494": {
   "brand": "에스네이처",
@@ -1975,25 +1937,6 @@
   },
   "oyPrice": 17600
  },
- "B000000211375": {
-  "brand": "브랜든",
-  "name": "브랜든 여행 압축 파우치 세트 28인치 S+S+M+M+L (5 colors)",
-  "days": {
-   "2026-09-04": {
-    "oy": 81260,
-    "bjMedian": 59000,
-    "bjMin": 15000,
-    "bjMax": 100000,
-    "bjCount": 7,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.73
-   }
-  },
-  "oyPrice": 81260
- },
  "A000000234394": {
   "brand": "얼터너티브스테레오",
   "name": "[스테디셀러 특가] [NEW/단독선런칭] 얼터너티브스테레오 립 포션 카라멜 글레이즈 8ml",
@@ -2001,9 +1944,9 @@
    "2026-09-04": {
     "oy": 15200,
     "bjMedian": 11000,
-    "bjMin": 1000,
+    "bjMin": 5000,
     "bjMax": 23000,
-    "bjCount": 39,
+    "bjCount": 37,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2012,6 +1955,25 @@
    }
   },
   "oyPrice": 15200
+ },
+ "A000000261442": {
+  "brand": "블랑네이처",
+  "name": "[쿨링진정/대용량]블랑네이처 9배 고농축 어성초 토너 300ml 기획 (+30ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 20900,
+    "bjMedian": 15000,
+    "bjMin": 10000,
+    "bjMax": 25000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   }
+  },
+  "oyPrice": 20900
  },
  "A000000247215": {
   "brand": "바이오더마",
@@ -2070,6 +2032,25 @@
   },
   "oyPrice": 31960
  },
+ "A000000190668": {
+  "brand": "헤라",
+  "name": "[9월 올영픽] 헤라 실키 스테이 24H 롱웨어 파운데이션 30g 9 Colors",
+  "days": {
+   "2026-09-04": {
+    "oy": 55930,
+    "bjMedian": 40000,
+    "bjMin": 30000,
+    "bjMax": 53900,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   }
+  },
+  "oyPrice": 55930
+ },
  "A000000156111": {
   "brand": "라네즈",
   "name": "[9월 올영픽/+미니3종] 라네즈 립 슬리핑 마스크 20g",
@@ -2077,9 +2058,9 @@
    "2026-09-04": {
     "oy": 15200,
     "bjMedian": 11000,
-    "bjMin": 3000,
-    "bjMax": 100001,
-    "bjCount": 27,
+    "bjMin": 6500,
+    "bjMax": 25000,
+    "bjCount": 24,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2108,6 +2089,25 @@
   },
   "oyPrice": 69750
  },
+ "B000000266839": {
+  "brand": "레고",
+  "name": "레고 스타워즈 75375 밀레니엄 팔콘",
+  "days": {
+   "2026-09-04": {
+    "oy": 95920,
+    "bjMedian": 69250,
+    "bjMin": 50000,
+    "bjMax": 106000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   }
+  },
+  "oyPrice": 95920
+ },
  "A000000203971": {
   "brand": "셀리맥스",
   "name": "[속보습/속광/진정] 셀리맥스 더 리얼 노니 에너지 앰플 80ml 기획(+10ml)",
@@ -2115,9 +2115,9 @@
    "2026-09-04": {
     "oy": 28220,
     "bjMedian": 20000,
-    "bjMin": 6000,
+    "bjMin": 11000,
     "bjMax": 29000,
-    "bjCount": 10,
+    "bjCount": 9,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2165,44 +2165,6 @@
   },
   "oyPrice": 22610
  },
- "A000000175954": {
-  "brand": "네이밍",
-  "name": "[올영세일/수부지쿠션] 네이밍 레이어드 핏 쿠션 기획(본품+리필)",
-  "days": {
-   "2026-09-04": {
-    "oy": 25200,
-    "bjMedian": 18000,
-    "bjMin": 1060,
-    "bjMax": 24000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.71
-   }
-  },
-  "oyPrice": 25200
- },
- "A000000190668": {
-  "brand": "헤라",
-  "name": "[9월 올영픽] 헤라 실키 스테이 24H 롱웨어 파운데이션 30g 9 Colors",
-  "days": {
-   "2026-09-04": {
-    "oy": 55930,
-    "bjMedian": 39500,
-    "bjMin": 500,
-    "bjMax": 53900,
-    "bjCount": 16,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.71
-   }
-  },
-  "oyPrice": 55930
- },
  "A000000263538": {
   "brand": "피지오겔",
   "name": "[9월올영픽/72시간수분] 피지오겔 DMT 페이셜 로션 200ml 기획(+크림10ml+데일리뮨앰플4ml)",
@@ -2241,24 +2203,24 @@
   },
   "oyPrice": 47410
  },
- "A000000232098": {
-  "brand": "클리오",
-  "name": "[9/4 하루특가] 클리오 킬 커버 파운웨어 쿠션 단품/기획(+리필+프레쉬 프렙 베이스 증정)",
+ "A000000175792": {
+  "brand": "롬앤",
+  "name": "[NEW] 롬앤 | 미피 베어 워터 쿠션 기획/단품",
   "days": {
    "2026-09-04": {
-    "oy": 23900,
-    "bjMedian": 16500,
-    "bjMin": 2000,
-    "bjMax": 27000,
-    "bjCount": 38,
+    "oy": 25560,
+    "bjMedian": 18000,
+    "bjMin": 11000,
+    "bjMax": 20000,
+    "bjCount": 5,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 0.69
+    "premium": 0.7
    }
   },
-  "oyPrice": 23900
+  "oyPrice": 25560
  },
  "A000000262817": {
   "brand": "이니스프리",
@@ -2342,10 +2304,10 @@
   "days": {
    "2026-09-04": {
     "oy": 14400,
-    "bjMedian": 9950,
+    "bjMedian": 9900,
     "bjMin": 8000,
-    "bjMax": 29000,
-    "bjCount": 6,
+    "bjMax": 13000,
+    "bjCount": 5,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2431,16 +2393,16 @@
   },
   "oyPrice": 7200
  },
- "A000000262953": {
-  "brand": "에뛰드",
-  "name": "[NEW] 에뛰드 듀오 픽싱 틴트",
+ "A000000205485": {
+  "brand": "토니모리",
+  "name": "[멀멀착색립] 토니모리 퍼펙트 립스 쇼킹 립",
   "days": {
    "2026-09-04": {
-    "oy": 11050,
-    "bjMedian": 7500,
-    "bjMin": 5000,
-    "bjMax": 12345678,
-    "bjCount": 14,
+    "oy": 10130,
+    "bjMedian": 6900,
+    "bjMin": 4000,
+    "bjMax": 14900,
+    "bjCount": 26,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2448,7 +2410,7 @@
     "premium": 0.68
    }
   },
-  "oyPrice": 11050
+  "oyPrice": 10130
  },
  "A000000253243": {
   "brand": "에스쁘아",
@@ -2526,6 +2488,25 @@
   },
   "oyPrice": 16280
  },
+ "A000000148564": {
+  "brand": "힌스",
+  "name": "[1등 하이라이터/FW 신규컬러] 힌스 트루 디멘션 래디언스 밤 11 Colors 한정 기획 (+레몬 브라이트너)",
+  "days": {
+   "2026-09-04": {
+    "oy": 20880,
+    "bjMedian": 14250,
+    "bjMin": 6500,
+    "bjMax": 21900,
+    "bjCount": 30,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
+   }
+  },
+  "oyPrice": 20880
+ },
  "A000000259221": {
   "brand": "바이오던스",
   "name": "[60ml 대용량/한정기획한정수량] 바이오던스 포어 퍼펙팅 콜라겐 펩타이드 세럼 30ml 리필기획(+퍼글러 인형 키링)",
@@ -2551,10 +2532,10 @@
   "days": {
    "2026-09-04": {
     "oy": 17400,
-    "bjMedian": 11800,
-    "bjMin": 2500,
+    "bjMedian": 11900,
+    "bjMin": 5000,
     "bjMax": 16500,
-    "bjCount": 31,
+    "bjCount": 30,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2591,8 +2572,8 @@
     "oy": 16500,
     "bjMedian": 11000,
     "bjMin": 6900,
-    "bjMax": 31000,
-    "bjCount": 21,
+    "bjMax": 16500,
+    "bjCount": 19,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2666,9 +2647,9 @@
    "2026-09-04": {
     "oy": 11900,
     "bjMedian": 8000,
-    "bjMin": 3000,
+    "bjMin": 3500,
     "bjMax": 13500,
-    "bjCount": 35,
+    "bjCount": 34,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2678,16 +2659,16 @@
   },
   "oyPrice": 11900
  },
- "A000000205485": {
-  "brand": "토니모리",
-  "name": "[멀멀착색립] 토니모리 퍼펙트 립스 쇼킹 립",
+ "A000000169711": {
+  "brand": "무지개맨션",
+  "name": "[NEW/미니틴트증정] 무지개맨션 오브제 리퀴드 틴트",
   "days": {
    "2026-09-04": {
-    "oy": 10130,
-    "bjMedian": 6800,
-    "bjMin": 1000,
-    "bjMax": 14900,
-    "bjCount": 27,
+    "oy": 13200,
+    "bjMedian": 8800,
+    "bjMin": 4000,
+    "bjMax": 15000,
+    "bjCount": 30,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -2695,7 +2676,7 @@
     "premium": 0.67
    }
   },
-  "oyPrice": 10130
+  "oyPrice": 13200
  },
  "A000000240816": {
   "brand": "필리밀리",
@@ -2735,24 +2716,24 @@
   },
   "oyPrice": 26900
  },
- "A000000259416": {
-  "brand": "어바웃톤",
-  "name": "[9월올영픽/OY단독컬러] 어바웃톤 스킨 레이어 핏 블러셔 22종 (커버핏/워터핏)",
+ "A000000221848": {
+  "brand": "이니스프리",
+  "name": "[1+1/피치톤업] 이니스프리 비타민C 피치 톤업 선크림 50+50ml 1+1기획",
   "days": {
    "2026-09-04": {
-    "oy": 11100,
-    "bjMedian": 7295,
-    "bjMin": 3000,
-    "bjMax": 30000,
-    "bjCount": 32,
+    "oy": 19430,
+    "bjMedian": 13000,
+    "bjMin": 8000,
+    "bjMax": 22000,
+    "bjCount": 5,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 0.66
+    "premium": 0.67
    }
   },
-  "oyPrice": 11100
+  "oyPrice": 19430
  },
  "A000000264389": {
   "brand": "바이오던스",
@@ -2791,25 +2772,6 @@
    }
   },
   "oyPrice": 15200
- },
- "A000000173774": {
-  "brand": "토리든",
-  "name": "[무기자차/단독증량기획] 토리든 다이브인 무기자차 마일드 선크림 60ml 기획 (+20ml 추가 증정)",
-  "days": {
-   "2026-09-04": {
-    "oy": 16630,
-    "bjMedian": 11000,
-    "bjMin": 5500,
-    "bjMax": 40000,
-    "bjCount": 8,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.66
-   }
-  },
-  "oyPrice": 16630
  },
  "A000000238601": {
   "brand": "어바웃톤",
@@ -2944,25 +2906,6 @@
   },
   "oyPrice": 19770
  },
- "A000000223922": {
-  "brand": "토니모리",
-  "name": "[리뷰이벤트/한정기획] 토니모리 겟잇 틴트 워터풀 시럽",
-  "days": {
-   "2026-09-04": {
-    "oy": 10500,
-    "bjMedian": 6800,
-    "bjMin": 4000,
-    "bjMax": 123333,
-    "bjCount": 28,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.65
-   }
-  },
-  "oyPrice": 10500
- },
  "A000000255430": {
   "brand": "스킨1004",
   "name": "[대용량]스킨1004 마다가스카르 센텔라 앰플 100ml",
@@ -2970,9 +2913,9 @@
    "2026-09-04": {
     "oy": 19890,
     "bjMedian": 13000,
-    "bjMin": 2000,
+    "bjMin": 9000,
     "bjMax": 20000,
-    "bjCount": 15,
+    "bjCount": 14,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3019,6 +2962,25 @@
    }
   },
   "oyPrice": 17010
+ },
+ "A000000171820": {
+  "brand": "일소",
+  "name": "[1등코팩/피지순삭] 일소 네추럴 마일드 클리어 노우즈 팩 5매",
+  "days": {
+   "2026-09-04": {
+    "oy": 10710,
+    "bjMedian": 7000,
+    "bjMin": 4000,
+    "bjMax": 12000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.65
+   }
+  },
+  "oyPrice": 10710
  },
  "A000000263383": {
   "brand": "마녀공장",
@@ -3077,25 +3039,6 @@
   },
   "oyPrice": 8460
  },
- "A000000169711": {
-  "brand": "무지개맨션",
-  "name": "[NEW/미니틴트증정] 무지개맨션 오브제 리퀴드 틴트",
-  "days": {
-   "2026-09-04": {
-    "oy": 13200,
-    "bjMedian": 8600,
-    "bjMin": 3000,
-    "bjMax": 15000,
-    "bjCount": 34,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.65
-   }
-  },
-  "oyPrice": 13200
- },
  "A000000260580": {
   "brand": "제로이드",
   "name": "[트러블피부 추천] 제로이드 핌프로브 레드 컨트롤 크림 pH4 80ml 기획 (+토너 25ml +크림 10ml)",
@@ -3153,25 +3096,6 @@
   },
   "oyPrice": 138570
  },
- "B000000248474": {
-  "brand": "미닉스",
-  "name": "미닉스 음식물처리기 더플렌더 MAX 가정용 분쇄기 건조기 MNFD-200G (사은품 필터증정)",
-  "days": {
-   "2026-09-04": {
-    "oy": 459000,
-    "bjMedian": 300000,
-    "bjMin": 260000,
-    "bjMax": 840000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.65
-   }
-  },
-  "oyPrice": 459000
- },
  "A000000201778": {
   "brand": "컬러그램",
   "name": "[듀오기획/입체감 창조]컬러그램 입체 창조 쉐딩 스틱 3COLOR",
@@ -3191,24 +3115,24 @@
   },
   "oyPrice": 8280
  },
- "A000000228696": {
-  "brand": "컬러그램",
-  "name": "[착색블러]컬러그램 쥬시 잼 블러 틴트 8COLOR",
+ "A000000259416": {
+  "brand": "어바웃톤",
+  "name": "[9월올영픽/OY단독컬러] 어바웃톤 스킨 레이어 핏 블러셔 22종 (커버핏/워터핏)",
   "days": {
    "2026-09-04": {
-    "oy": 8190,
-    "bjMedian": 5310,
+    "oy": 11100,
+    "bjMedian": 7150,
     "bjMin": 3000,
     "bjMax": 18000,
-    "bjCount": 9,
+    "bjCount": 31,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 0.65
+    "premium": 0.64
    }
   },
-  "oyPrice": 8190
+  "oyPrice": 11100
  },
  "A000000242719": {
   "brand": "차앤박",
@@ -3217,9 +3141,9 @@
    "2026-09-04": {
     "oy": 23310,
     "bjMedian": 15000,
-    "bjMin": 5500,
+    "bjMin": 8500,
     "bjMax": 35000,
-    "bjCount": 20,
+    "bjCount": 19,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3266,25 +3190,6 @@
    }
   },
   "oyPrice": 10900
- },
- "A000000222839": {
-  "brand": "에스트라",
-  "name": "에스트라 에이시카365 흔적진정세럼 pH4.5 40ml 기획 (+세럼 20ml+크림 1ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 28110,
-    "bjMedian": 18000,
-    "bjMin": 7500,
-    "bjMax": 28000,
-    "bjCount": 6,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.64
-   }
-  },
-  "oyPrice": 28110
  },
  "A000000254926": {
   "brand": "티르티르",
@@ -3362,6 +3267,25 @@
   },
   "oyPrice": 20730
  },
+ "A000000262953": {
+  "brand": "에뛰드",
+  "name": "[NEW] 에뛰드 듀오 픽싱 틴트",
+  "days": {
+   "2026-09-04": {
+    "oy": 11050,
+    "bjMedian": 7000,
+    "bjMin": 5000,
+    "bjMax": 11050,
+    "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
+   }
+  },
+  "oyPrice": 11050
+ },
  "A000000207822": {
   "brand": "일소",
   "name": "[피지순삭] 일소 딥 클린 마스터 (블랙헤드 제거기)",
@@ -3381,16 +3305,16 @@
   },
   "oyPrice": 7130
  },
- "A000000226505": {
-  "brand": "바이브랩",
-  "name": "[한정기획]바이브랩 리바이브 테라피 헤어 스칼프 앤 브로우 앰플 더블기획/단품",
+ "B000000248474": {
+  "brand": "미닉스",
+  "name": "미닉스 음식물처리기 더플렌더 MAX 가정용 분쇄기 건조기 MNFD-200G (사은품 필터증정)",
   "days": {
    "2026-09-04": {
-    "oy": 30270,
-    "bjMedian": 19000,
-    "bjMin": 11500,
-    "bjMax": 111111,
-    "bjCount": 8,
+    "oy": 459000,
+    "bjMedian": 290000,
+    "bjMin": 260000,
+    "bjMax": 340000,
+    "bjCount": 4,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3398,7 +3322,26 @@
     "premium": 0.63
    }
   },
-  "oyPrice": 30270
+  "oyPrice": 459000
+ },
+ "A000000185308": {
+  "brand": "이즈앤트리",
+  "name": "[NCT 재민PICK/단독기획] 이즈앤트리 참마 비건 밀크 클렌저 220ml 리필기획 (+리필100ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 16070,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 30000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.62
+   }
+  },
+  "oyPrice": 16070
  },
  "B000000233563": {
   "brand": "로지텍",
@@ -3419,44 +3362,6 @@
   },
   "oyPrice": 88900
  },
- "A000000148564": {
-  "brand": "힌스",
-  "name": "[1등 하이라이터/FW 신규컬러] 힌스 트루 디멘션 래디언스 밤 11 Colors 한정 기획 (+레몬 브라이트너)",
-  "days": {
-   "2026-09-04": {
-    "oy": 20880,
-    "bjMedian": 13000,
-    "bjMin": 2200,
-    "bjMax": 21900,
-    "bjCount": 33,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.62
-   }
-  },
-  "oyPrice": 20880
- },
- "A000000221848": {
-  "brand": "이니스프리",
-  "name": "[1+1/피치톤업] 이니스프리 비타민C 피치 톤업 선크림 50+50ml 1+1기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 19430,
-    "bjMedian": 12000,
-    "bjMin": 4500,
-    "bjMax": 22000,
-    "bjCount": 6,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.62
-   }
-  },
-  "oyPrice": 19430
- },
  "A000000127771": {
   "brand": "롬앤",
   "name": "[NEW컬러] 롬앤 | 미피 베러 댄 아이즈 기획/단품",
@@ -3464,9 +3369,9 @@
    "2026-09-04": {
     "oy": 12920,
     "bjMedian": 8000,
-    "bjMin": 2500,
-    "bjMax": 22000,
-    "bjCount": 19,
+    "bjMin": 3500,
+    "bjMax": 15000,
+    "bjCount": 17,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3476,16 +3381,16 @@
   },
   "oyPrice": 12920
  },
- "A000000171820": {
-  "brand": "일소",
-  "name": "[1등코팩/피지순삭] 일소 네추럴 마일드 클리어 노우즈 팩 5매",
+ "A000000180158": {
+  "brand": "닥터지",
+  "name": "[보송톤업] 닥터지 브라이트닝 업 선 플러스 50ml 기획 2종 (50+20/50+50+10) (선크림)",
   "days": {
    "2026-09-04": {
-    "oy": 10710,
-    "bjMedian": 6500,
-    "bjMin": 2100,
-    "bjMax": 12000,
-    "bjCount": 10,
+    "oy": 15400,
+    "bjMedian": 9400,
+    "bjMin": 8000,
+    "bjMax": 14900,
+    "bjCount": 4,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3493,7 +3398,26 @@
     "premium": 0.61
    }
   },
-  "oyPrice": 10710
+  "oyPrice": 15400
+ },
+ "A000000253093": {
+  "brand": "바닐라코",
+  "name": "[1등 파우더] 바닐라코 프라임 프라이머 피니쉬 파우더 12g",
+  "days": {
+   "2026-09-04": {
+    "oy": 15140,
+    "bjMedian": 9300,
+    "bjMin": 5000,
+    "bjMax": 12000,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
+   }
+  },
+  "oyPrice": 15140
  },
  "A000000199684": {
   "brand": "에스쁘아",
@@ -3533,6 +3457,25 @@
   },
   "oyPrice": 23200
  },
+ "A000000223922": {
+  "brand": "토니모리",
+  "name": "[리뷰이벤트/한정기획] 토니모리 겟잇 틴트 워터풀 시럽",
+  "days": {
+   "2026-09-04": {
+    "oy": 10500,
+    "bjMedian": 6350,
+    "bjMin": 4000,
+    "bjMax": 15000,
+    "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   }
+  },
+  "oyPrice": 10500
+ },
  "A000000231589": {
   "brand": "제로이드",
   "name": "[대용량] 제로이드 수딩 크림 80ml + 50ml 기획",
@@ -3551,6 +3494,25 @@
    }
   },
   "oyPrice": 28500
+ },
+ "A000000255852": {
+  "brand": "레이어랩",
+  "name": "[1+1/속보습 장벽개선] 레이어랩 니오좀 판테놀 5% 세럼 30ml+30ml 더블 기획",
+  "days": {
+   "2026-09-04": {
+    "oy": 34900,
+    "bjMedian": 21000,
+    "bjMin": 8500,
+    "bjMax": 40000,
+    "bjCount": 30,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   }
+  },
+  "oyPrice": 34900
  },
  "A000000253919": {
   "brand": "쥬베룩",
@@ -3571,6 +3533,25 @@
   },
   "oyPrice": 30060
  },
+ "A000000173774": {
+  "brand": "토리든",
+  "name": "[무기자차/단독증량기획] 토리든 다이브인 무기자차 마일드 선크림 60ml 기획 (+20ml 추가 증정)",
+  "days": {
+   "2026-09-04": {
+    "oy": 16630,
+    "bjMedian": 10000,
+    "bjMin": 5500,
+    "bjMax": 20000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   }
+  },
+  "oyPrice": 16630
+ },
  "A000000248671": {
   "brand": "바닐라코",
   "name": "[무결점커버] 바닐라코 얼티밋 화이트 쿠션 기획(본품+리필+세럼)",
@@ -3589,6 +3570,44 @@
    }
   },
   "oyPrice": 28280
+ },
+ "A000000222839": {
+  "brand": "에스트라",
+  "name": "에스트라 에이시카365 흔적진정세럼 pH4.5 40ml 기획 (+세럼 20ml+크림 1ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 28110,
+    "bjMedian": 17000,
+    "bjMin": 7500,
+    "bjMax": 28000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   }
+  },
+  "oyPrice": 28110
+ },
+ "A000000217567": {
+  "brand": "츠바키",
+  "name": "[이시안 PICK] 츠바키 프리미엄 EX 리페어 마스크 180g 더블 기획 (+펌프 증정)",
+  "days": {
+   "2026-09-04": {
+    "oy": 20900,
+    "bjMedian": 12450,
+    "bjMin": 9000,
+    "bjMax": 15000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   }
+  },
+  "oyPrice": 20900
  },
  "A000000244064": {
   "brand": "트리셀",
@@ -3799,6 +3818,25 @@
   },
   "oyPrice": 45570
  },
+ "A000000226505": {
+  "brand": "바이브랩",
+  "name": "[한정기획]바이브랩 리바이브 테라피 헤어 스칼프 앤 브로우 앰플 더블기획/단품",
+  "days": {
+   "2026-09-04": {
+    "oy": 30270,
+    "bjMedian": 18000,
+    "bjMin": 11500,
+    "bjMax": 23500,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   }
+  },
+  "oyPrice": 30270
+ },
  "A000000223270": {
   "brand": "약손명가",
   "name": "약손명가 골기 프로그램 리프팅 밴드 기획(+ 패치 2매증정)",
@@ -3817,25 +3855,6 @@
    }
   },
   "oyPrice": 35010
- },
- "A000000175792": {
-  "brand": "롬앤",
-  "name": "[NEW] 롬앤 | 미피 베어 워터 쿠션 기획/단품",
-  "days": {
-   "2026-09-04": {
-    "oy": 25560,
-    "bjMedian": 15000,
-    "bjMin": 3000,
-    "bjMax": 20000,
-    "bjCount": 7,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.59
-   }
-  },
-  "oyPrice": 25560
  },
  "A000000263562": {
   "brand": "구달",
@@ -3875,16 +3894,16 @@
   },
   "oyPrice": 25650
  },
- "A000000180158": {
-  "brand": "닥터지",
-  "name": "[보송톤업] 닥터지 브라이트닝 업 선 플러스 50ml 기획 2종 (50+20/50+50+10) (선크림)",
+ "A000000206826": {
+  "brand": "에스트라",
+  "name": "[50%용량증정] 에스트라 더마UV365 장벽수분 무기자차 선크림 40ml+20ml",
   "days": {
    "2026-09-04": {
-    "oy": 15400,
-    "bjMedian": 9000,
-    "bjMin": 3000,
-    "bjMax": 14900,
-    "bjCount": 5,
+    "oy": 20650,
+    "bjMedian": 11950,
+    "bjMin": 9000,
+    "bjMax": 14000,
+    "bjCount": 4,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3892,7 +3911,7 @@
     "premium": 0.58
    }
   },
-  "oyPrice": 15400
+  "oyPrice": 20650
  },
  "A000000250210": {
   "brand": "AHC",
@@ -3913,25 +3932,6 @@
   },
   "oyPrice": 15400
  },
- "A000000252728": {
-  "brand": "브링그린",
-  "name": "[예보링마켓] 브링그린 징크테카 파이토 선 젤 or BB선 50ml+20ml 기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 13900,
-    "bjMedian": 8000,
-    "bjMin": 7000,
-    "bjMax": 48000,
-    "bjCount": 6,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.58
-   }
-  },
-  "oyPrice": 13900
- },
  "A000000221676": {
   "brand": "포맨트",
   "name": "[박지훈 포카증정] 포맨트 시그니처 퍼퓸 코튼메모리 50ml 단품/기획",
@@ -3950,6 +3950,25 @@
    }
   },
   "oyPrice": 45570
+ },
+ "A000000255752": {
+  "brand": "닥터지",
+  "name": "[수분진정/세럼증정] 닥터지 레드블레미쉬 클리어 수딩크림 EX 70ml기획 (+30ml+세럼10ml*2ea)",
+  "days": {
+   "2026-09-04": {
+    "oy": 26500,
+    "bjMedian": 15000,
+    "bjMin": 9000,
+    "bjMax": 28000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   }
+  },
+  "oyPrice": 26500
  },
  "A000000245091": {
   "brand": "에스트라",
@@ -3970,16 +3989,16 @@
   },
   "oyPrice": 34320
  },
- "A000000255852": {
-  "brand": "레이어랩",
-  "name": "[1+1/속보습 장벽개선] 레이어랩 니오좀 판테놀 5% 세럼 30ml+30ml 더블 기획",
+ "A000000247819": {
+  "brand": "바이오던스",
+  "name": "[1+1/온라인 단독 기획] 바이오던스 바이오 겔 토너 패드 60매 더블기획 (콜라겐/세라놀)",
   "days": {
    "2026-09-04": {
-    "oy": 34900,
-    "bjMedian": 20000,
-    "bjMin": 5000,
-    "bjMax": 40000,
-    "bjCount": 31,
+    "oy": 26510,
+    "bjMedian": 15000,
+    "bjMin": 13000,
+    "bjMax": 24900,
+    "bjCount": 10,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3987,7 +4006,26 @@
     "premium": 0.57
    }
   },
-  "oyPrice": 34900
+  "oyPrice": 26510
+ },
+ "A000000223207": {
+  "brand": "AHC",
+  "name": "[레올영PICK] AHC 마스터즈 아쿠아리치 선크림 50ml 1+1 기획",
+  "days": {
+   "2026-09-04": {
+    "oy": 22910,
+    "bjMedian": 13000,
+    "bjMin": 7000,
+    "bjMax": 18000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   }
+  },
+  "oyPrice": 22910
  },
  "A000000012239": {
   "brand": "루나",
@@ -4027,6 +4065,25 @@
   },
   "oyPrice": 14880
  },
+ "A000000228696": {
+  "brand": "컬러그램",
+  "name": "[착색블러]컬러그램 쥬시 잼 블러 틴트 8COLOR",
+  "days": {
+   "2026-09-04": {
+    "oy": 8190,
+    "bjMedian": 4655,
+    "bjMin": 3000,
+    "bjMax": 10000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   }
+  },
+  "oyPrice": 8190
+ },
  "A000000232212": {
   "brand": "VT",
   "name": "[1등모공에센스] VT 리들샷 100 에센스 30ml 더블 기획(+피디알엔 에센스 100 1.5ml*3ea)",
@@ -4035,8 +4092,8 @@
     "oy": 19800,
     "bjMedian": 11000,
     "bjMin": 5000,
-    "bjMax": 28000,
-    "bjCount": 17,
+    "bjMax": 15900,
+    "bjCount": 16,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4083,25 +4140,6 @@
    }
   },
   "oyPrice": 14730
- },
- "A000000247859": {
-  "brand": "원더바스",
-  "name": "[성한빈 PICK 오토 버블] 원더바스 레몬청 팩클렌저 200ml 기획 (+50ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 15050,
-    "bjMedian": 8500,
-    "bjMin": 4400,
-    "bjMax": 42500,
-    "bjCount": 6,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.56
-   }
-  },
-  "oyPrice": 15050
  },
  "A000000169499": {
   "brand": "스킨1004",
@@ -4166,10 +4204,10 @@
   "days": {
    "2026-09-04": {
     "oy": 9500,
-    "bjMedian": 5300,
-    "bjMin": 2000,
+    "bjMedian": 5305,
+    "bjMin": 3000,
     "bjMax": 10000,
-    "bjCount": 35,
+    "bjCount": 34,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4178,25 +4216,6 @@
    }
   },
   "oyPrice": 9500
- },
- "A000000247819": {
-  "brand": "바이오던스",
-  "name": "[1+1/온라인 단독 기획] 바이오던스 바이오 겔 토너 패드 60매 더블기획 (콜라겐/세라놀)",
-  "days": {
-   "2026-09-04": {
-    "oy": 26510,
-    "bjMedian": 14500,
-    "bjMin": 1200,
-    "bjMax": 24900,
-    "bjCount": 12,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.55
-   }
-  },
-  "oyPrice": 26510
  },
  "A000000257095": {
   "brand": "넘버즈인",
@@ -4243,9 +4262,9 @@
    "2026-09-04": {
     "oy": 12830,
     "bjMedian": 7000,
-    "bjMin": 500,
-    "bjMax": 39000,
-    "bjCount": 33,
+    "bjMin": 3000,
+    "bjMax": 12000,
+    "bjCount": 31,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4262,9 +4281,9 @@
    "2026-09-04": {
     "oy": 18500,
     "bjMedian": 10000,
-    "bjMin": 2000,
+    "bjMin": 4000,
     "bjMax": 22000,
-    "bjCount": 34,
+    "bjCount": 32,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4273,6 +4292,44 @@
    }
   },
   "oyPrice": 18500
+ },
+ "A000000219556": {
+  "brand": "구달",
+  "name": "[핑크톤업] 구달 맑은 어성초 진정 수분 톤업 선크림 50ml 1+1 기획",
+  "days": {
+   "2026-09-04": {
+    "oy": 17010,
+    "bjMedian": 9200,
+    "bjMin": 4000,
+    "bjMax": 17000,
+    "bjCount": 38,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   }
+  },
+  "oyPrice": 17010
+ },
+ "A000000252728": {
+  "brand": "브링그린",
+  "name": "[예보링마켓] 브링그린 징크테카 파이토 선 젤 or BB선 50ml+20ml 기획",
+  "days": {
+   "2026-09-04": {
+    "oy": 13900,
+    "bjMedian": 7500,
+    "bjMin": 7000,
+    "bjMax": 8000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   }
+  },
+  "oyPrice": 13900
  },
  "A000000148390": {
   "brand": "롬앤",
@@ -4312,16 +4369,16 @@
   },
   "oyPrice": 18360
  },
- "A000000255752": {
-  "brand": "닥터지",
-  "name": "[수분진정/세럼증정] 닥터지 레드블레미쉬 클리어 수딩크림 EX 70ml기획 (+30ml+세럼10ml*2ea)",
+ "A000000230854": {
+  "brand": "리덴스",
+  "name": "[나이아신아마이드] 리덴스 톤앤스팟 코렉터 앰플 30ml 더블기획",
   "days": {
    "2026-09-04": {
-    "oy": 26500,
-    "bjMedian": 14000,
-    "bjMin": 1500,
-    "bjMax": 28000,
-    "bjCount": 16,
+    "oy": 20900,
+    "bjMedian": 11000,
+    "bjMin": 6000,
+    "bjMax": 22900,
+    "bjCount": 14,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4329,37 +4386,18 @@
     "premium": 0.53
    }
   },
-  "oyPrice": 26500
+  "oyPrice": 20900
  },
- "A000000219556": {
-  "brand": "구달",
-  "name": "[핑크톤업] 구달 맑은 어성초 진정 수분 톤업 선크림 50ml 1+1 기획",
+ "A000000247859": {
+  "brand": "원더바스",
+  "name": "[성한빈 PICK 오토 버블] 원더바스 레몬청 팩클렌저 200ml 기획 (+50ml)",
   "days": {
    "2026-09-04": {
-    "oy": 17010,
-    "bjMedian": 9000,
-    "bjMin": 1000,
-    "bjMax": 17000,
-    "bjCount": 39,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.53
-   }
-  },
-  "oyPrice": 17010
- },
- "A000000253093": {
-  "brand": "바닐라코",
-  "name": "[1등 파우더] 바닐라코 프라임 프라이머 피니쉬 파우더 12g",
-  "days": {
-   "2026-09-04": {
-    "oy": 15140,
+    "oy": 15050,
     "bjMedian": 8000,
-    "bjMin": 2000,
-    "bjMax": 12000,
-    "bjCount": 23,
+    "bjMin": 4400,
+    "bjMax": 11000,
+    "bjCount": 5,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4367,7 +4405,7 @@
     "premium": 0.53
    }
   },
-  "oyPrice": 15140
+  "oyPrice": 15050
  },
  "A000000185903": {
   "brand": "VDL",
@@ -4376,9 +4414,9 @@
    "2026-09-04": {
     "oy": 26490,
     "bjMedian": 14000,
-    "bjMin": 5000,
+    "bjMin": 6000,
     "bjMax": 35000,
-    "bjCount": 30,
+    "bjCount": 29,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4407,16 +4445,16 @@
   },
   "oyPrice": 16980
  },
- "A000000155336": {
-  "brand": "바이오힐보",
-  "name": "[멀티유즈|냉동쿨링] 바이오힐보 쿨링 마사저",
+ "A000000113585": {
+  "brand": "바디럽",
+  "name": "바디럽 퓨어썸 샤워기",
   "days": {
    "2026-09-04": {
-    "oy": 9000,
-    "bjMedian": 4800,
-    "bjMin": 4000,
-    "bjMax": 8000,
-    "bjCount": 5,
+    "oy": 19980,
+    "bjMedian": 10638,
+    "bjMin": 6900,
+    "bjMax": 36000,
+    "bjCount": 3,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4424,7 +4462,7 @@
     "premium": 0.53
    }
   },
-  "oyPrice": 9000
+  "oyPrice": 19980
  },
  "B000000253390": {
   "brand": "로지텍",
@@ -4491,8 +4529,8 @@
     "oy": 9410,
     "bjMedian": 5000,
     "bjMin": 3000,
-    "bjMax": 13000,
-    "bjCount": 37,
+    "bjMax": 10700,
+    "bjCount": 36,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4521,25 +4559,6 @@
   },
   "oyPrice": 11400
  },
- "A000000249419": {
-  "brand": "루나",
-  "name": "[프렙 미니 증정 기획] 루나 롱래스팅 컨실 쿠션(본품+리필)",
-  "days": {
-   "2026-09-04": {
-    "oy": 24210,
-    "bjMedian": 12500,
-    "bjMin": 5000,
-    "bjMax": 22000,
-    "bjCount": 35,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.52
-   }
-  },
-  "oyPrice": 24210
- },
  "A000000178092": {
   "brand": "비레디",
   "name": "[남성파데1위] 비레디 블루 파운데이션 35ml",
@@ -4559,25 +4578,6 @@
   },
   "oyPrice": 23200
  },
- "A000000217567": {
-  "brand": "츠바키",
-  "name": "[이시안 PICK] 츠바키 프리미엄 EX 리페어 마스크 180g 더블 기획 (+펌프 증정)",
-  "days": {
-   "2026-09-04": {
-    "oy": 20900,
-    "bjMedian": 10900,
-    "bjMin": 3500,
-    "bjMax": 15000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.52
-   }
-  },
-  "oyPrice": 20900
- },
  "A000000248226": {
   "brand": "아비브",
   "name": "[1+1/파데프리톤업] 아비브 글루타치온좀 CC 선크림 토닝 튜브 50ml 더블 기획 (+어성초 패드 2매x2)",
@@ -4596,6 +4596,25 @@
    }
   },
   "oyPrice": 24610
+ },
+ "A000000249419": {
+  "brand": "루나",
+  "name": "[프렙 미니 증정 기획] 루나 롱래스팅 컨실 쿠션(본품+리필)",
+  "days": {
+   "2026-09-04": {
+    "oy": 24210,
+    "bjMedian": 12250,
+    "bjMin": 5000,
+    "bjMax": 22000,
+    "bjCount": 34,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
+   }
+  },
+  "oyPrice": 24210
  },
  "A000000254661": {
   "brand": "아렌시아",
@@ -4623,9 +4642,9 @@
    "2026-09-04": {
     "oy": 25850,
     "bjMedian": 13000,
-    "bjMin": 1000,
-    "bjMax": 170000,
-    "bjCount": 32,
+    "bjMin": 7500,
+    "bjMax": 25000,
+    "bjCount": 30,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4711,25 +4730,6 @@
   },
   "oyPrice": 12960
  },
- "A000000223207": {
-  "brand": "AHC",
-  "name": "[레올영PICK] AHC 마스터즈 아쿠아리치 선크림 50ml 1+1 기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 22910,
-    "bjMedian": 11500,
-    "bjMin": 4000,
-    "bjMax": 18000,
-    "bjCount": 12,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.5
-   }
-  },
-  "oyPrice": 22910
- },
  "A000000234315": {
   "brand": "필리밀리",
   "name": "[열감&붓기케어] 필리밀리 쿨링 냉매 마사저",
@@ -4756,9 +4756,9 @@
    "2026-09-04": {
     "oy": 18240,
     "bjMedian": 9000,
-    "bjMin": 500,
-    "bjMax": 24000,
-    "bjCount": 13,
+    "bjMin": 4250,
+    "bjMax": 14000,
+    "bjCount": 10,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4767,6 +4767,25 @@
    }
   },
   "oyPrice": 18240
+ },
+ "A000000198739": {
+  "brand": "셀퓨전씨",
+  "name": "[매끈밀착썬/조앤프렌즈 콜라보] 셀퓨전씨 레이저 UV 썬스크린 35ml 더블 기획 (+조앤프렌즈 피규어 선크림 집게)",
+  "days": {
+   "2026-09-04": {
+    "oy": 18740,
+    "bjMedian": 9250,
+    "bjMin": 5500,
+    "bjMax": 13500,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.49
+   }
+  },
+  "oyPrice": 18740
  },
  "A000000232884": {
   "brand": "어테이션",
@@ -4832,9 +4851,9 @@
    "2026-09-04": {
     "oy": 29300,
     "bjMedian": 14000,
-    "bjMin": 5000,
+    "bjMin": 6000,
     "bjMax": 26000,
-    "bjCount": 28,
+    "bjCount": 27,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4843,25 +4862,6 @@
    }
   },
   "oyPrice": 29300
- },
- "A000000230854": {
-  "brand": "리덴스",
-  "name": "[나이아신아마이드] 리덴스 톤앤스팟 코렉터 앰플 30ml 더블기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 20900,
-    "bjMedian": 10000,
-    "bjMin": 2500,
-    "bjMax": 22900,
-    "bjCount": 15,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.48
-   }
-  },
-  "oyPrice": 20900
  },
  "A000000223603": {
   "brand": "더마토리",
@@ -4901,44 +4901,6 @@
   },
   "oyPrice": 16720
  },
- "A000000206826": {
-  "brand": "에스트라",
-  "name": "[50%용량증정] 에스트라 더마UV365 장벽수분 무기자차 선크림 40ml+20ml",
-  "days": {
-   "2026-09-04": {
-    "oy": 20650,
-    "bjMedian": 9900,
-    "bjMin": 2900,
-    "bjMax": 14000,
-    "bjCount": 5,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.48
-   }
-  },
-  "oyPrice": 20650
- },
- "A000000260411": {
-  "brand": "트로이아르케",
-  "name": "트로이아르케 서울 엑토인 톤업 선세럼 50ml",
-  "days": {
-   "2026-09-04": {
-    "oy": 29450,
-    "bjMedian": 14000,
-    "bjMin": 8600,
-    "bjMax": 25000,
-    "bjCount": 11,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.48
-   }
-  },
-  "oyPrice": 29450
- },
  "A000000247241": {
   "brand": "이니스프리",
   "name": "[1+1/파데프리톤업선] 이니스프리 데일리 유브이 톤업 노세범 선크림 50ml 더블 기획",
@@ -4958,16 +4920,16 @@
   },
   "oyPrice": 17820
  },
- "A000000198739": {
-  "brand": "셀퓨전씨",
-  "name": "[매끈밀착썬/조앤프렌즈 콜라보] 셀퓨전씨 레이저 UV 썬스크린 35ml 더블 기획 (+조앤프렌즈 피규어 선크림 집게)",
+ "A000000205881": {
+  "brand": "클리오",
+  "name": "[1+1] 클리오 샤프 쏘 심플 워터프루프 펜슬라이너 더블 기획",
   "days": {
    "2026-09-04": {
-    "oy": 18740,
-    "bjMedian": 9000,
-    "bjMin": 3000,
-    "bjMax": 13500,
-    "bjCount": 7,
+    "oy": 12400,
+    "bjMedian": 5950,
+    "bjMin": 2500,
+    "bjMax": 13000,
+    "bjCount": 37,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -4975,7 +4937,7 @@
     "premium": 0.48
    }
   },
-  "oyPrice": 18740
+  "oyPrice": 12400
  },
  "A000000222849": {
   "brand": "파티온",
@@ -5098,9 +5060,9 @@
    "2026-09-04": {
     "oy": 21420,
     "bjMedian": 10000,
-    "bjMin": 2500,
-    "bjMax": 31000,
-    "bjCount": 17,
+    "bjMin": 5500,
+    "bjMax": 22900,
+    "bjCount": 15,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5117,9 +5079,9 @@
    "2026-09-04": {
     "oy": 15900,
     "bjMedian": 7500,
-    "bjMin": 1500,
+    "bjMin": 3000,
     "bjMax": 15900,
-    "bjCount": 34,
+    "bjCount": 32,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5136,9 +5098,9 @@
    "2026-09-04": {
     "oy": 32000,
     "bjMedian": 15000,
-    "bjMin": 4000,
-    "bjMax": 47500,
-    "bjCount": 31,
+    "bjMin": 6000,
+    "bjMax": 24000,
+    "bjCount": 28,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5148,25 +5110,6 @@
   },
   "oyPrice": 32000
  },
- "A000000260515": {
-  "brand": "VT",
-  "name": "[베일리pick/단독기획] VT 피디알엔 리들샷 아이 리프터 15ml 리필기획 (+리필 15ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 25900,
-    "bjMedian": 12000,
-    "bjMin": 8000,
-    "bjMax": 16000,
-    "bjCount": 9,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.46
-   }
-  },
-  "oyPrice": 25900
- },
  "A000000261234": {
   "brand": "헤브블루",
   "name": "[NEW 한정기획] 헤브블루 살몬 케어링 센텔라 크림 100ml 기획 (+20ml+토너 25ml)",
@@ -5175,8 +5118,8 @@
     "oy": 21900,
     "bjMedian": 10000,
     "bjMin": 5000,
-    "bjMax": 45000,
-    "bjCount": 34,
+    "bjMax": 24000,
+    "bjCount": 33,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5243,44 +5186,6 @@
   },
   "oyPrice": 17010
  },
- "A000000201172": {
-  "brand": "브링그린",
-  "name": "브링그린 티트리 시카 톤업 선쿠션 15g",
-  "days": {
-   "2026-09-04": {
-    "oy": 11990,
-    "bjMedian": 5500,
-    "bjMin": 2330,
-    "bjMax": 35000,
-    "bjCount": 14,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.46
-   }
-  },
-  "oyPrice": 11990
- },
- "A000000246781": {
-  "brand": "라운드랩",
-  "name": "[더블기획/트러블쏙] 라운드랩 소나무 진정 시카 앰플 30ml 리필기획 (+30ml 리필+마스크 1매)",
-  "days": {
-   "2026-09-04": {
-    "oy": 20840,
-    "bjMedian": 9500,
-    "bjMin": 4000,
-    "bjMax": 29000,
-    "bjCount": 25,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.46
-   }
-  },
-  "oyPrice": 20840
- },
  "A000000259260": {
   "brand": "AHC",
   "name": "AHC 마스터즈 에어리치 선스틱 22g 더블 기획",
@@ -5300,35 +5205,16 @@
   },
   "oyPrice": 30020
  },
- "A000000205881": {
-  "brand": "클리오",
-  "name": "[1+1] 클리오 샤프 쏘 심플 워터프루프 펜슬라이너 더블 기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 12400,
-    "bjMedian": 5630,
-    "bjMin": 1234,
-    "bjMax": 22000,
-    "bjCount": 40,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.45
-   }
-  },
-  "oyPrice": 12400
- },
  "A000000250328": {
   "brand": "피노",
   "name": "[젤리 헤어팩]피노 프리미엄 터치 헤어 마스크 230g 더블 기획",
   "days": {
    "2026-09-04": {
     "oy": 19100,
-    "bjMedian": 8510,
+    "bjMedian": 8505,
     "bjMin": 7000,
-    "bjMax": 28000,
-    "bjCount": 21,
+    "bjMax": 16000,
+    "bjCount": 20,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5357,6 +5243,25 @@
   },
   "oyPrice": 22800
  },
+ "A000000260515": {
+  "brand": "VT",
+  "name": "[베일리pick/단독기획] VT 피디알엔 리들샷 아이 리프터 15ml 리필기획 (+리필 15ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 25900,
+    "bjMedian": 11500,
+    "bjMin": 8000,
+    "bjMax": 16000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
+   }
+  },
+  "oyPrice": 25900
+ },
  "A000000264302": {
   "brand": "메디큐브",
   "name": "[청담샵화잘먹미스트] 메디큐브 PDRN 핑크 콜라겐 글로우 젤리 미스트 100ml 더블기획 (+화잘먹 대왕 퍼프)",
@@ -5383,9 +5288,9 @@
    "2026-09-04": {
     "oy": 27400,
     "bjMedian": 12000,
-    "bjMin": 500,
+    "bjMin": 7000,
     "bjMax": 30000,
-    "bjCount": 36,
+    "bjCount": 35,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5432,6 +5337,25 @@
    }
   },
   "oyPrice": 11290
+ },
+ "A000000155336": {
+  "brand": "바이오힐보",
+  "name": "[멀티유즈|냉동쿨링] 바이오힐보 쿨링 마사저",
+  "days": {
+   "2026-09-04": {
+    "oy": 9000,
+    "bjMedian": 4000,
+    "bjMin": 4000,
+    "bjMax": 8000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
+   }
+  },
+  "oyPrice": 9000
  },
  "A000000255729": {
   "brand": "동아제약",
@@ -5490,6 +5414,25 @@
   },
   "oyPrice": 41600
  },
+ "A000000246781": {
+  "brand": "라운드랩",
+  "name": "[더블기획/트러블쏙] 라운드랩 소나무 진정 시카 앰플 30ml 리필기획 (+30ml 리필+마스크 1매)",
+  "days": {
+   "2026-09-04": {
+    "oy": 20840,
+    "bjMedian": 9000,
+    "bjMin": 4000,
+    "bjMax": 23000,
+    "bjCount": 23,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
+   }
+  },
+  "oyPrice": 20840
+ },
  "A000000263510": {
   "brand": "라운드랩",
   "name": "[스테디셀러 특가/1+1/1등썬] 라운드랩 자작나무 수분 선크림 50ml 1+1 기획 (+수분 선세럼 8ml)",
@@ -5498,8 +5441,8 @@
     "oy": 23700,
     "bjMedian": 10000,
     "bjMin": 8000,
-    "bjMax": 34000,
-    "bjCount": 15,
+    "bjMax": 17000,
+    "bjCount": 14,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5508,44 +5451,6 @@
    }
   },
   "oyPrice": 23700
- },
- "A000000264301": {
-  "brand": "메디큐브",
-  "name": "[스테디셀러 특가] 메디큐브 PDRN 핑크 펩타이드 앰플 30ml 한정기획 (+리필팩 50ml+앰플 10ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 23900,
-    "bjMedian": 10000,
-    "bjMin": 5000,
-    "bjMax": 20000,
-    "bjCount": 37,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.42
-   }
-  },
-  "oyPrice": 23900
- },
- "A000000232213": {
-  "brand": "VT",
-  "name": "[애니pick/물먹광채] VT 피디알엔 에센스 100 30ml 더블 기획 (+리들샷 100 10ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 35400,
-    "bjMedian": 15000,
-    "bjMin": 9700,
-    "bjMax": 39000,
-    "bjCount": 19,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.42
-   }
-  },
-  "oyPrice": 35400
  },
  "A000000235178": {
   "brand": "성분에디터",
@@ -5650,8 +5555,8 @@
     "oy": 50260,
     "bjMedian": 21000,
     "bjMin": 15000,
-    "bjMax": 85000,
-    "bjCount": 10,
+    "bjMax": 44000,
+    "bjCount": 9,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5661,6 +5566,25 @@
   },
   "oyPrice": 50260
  },
+ "A000000201172": {
+  "brand": "브링그린",
+  "name": "브링그린 티트리 시카 톤업 선쿠션 15g",
+  "days": {
+   "2026-09-04": {
+    "oy": 11990,
+    "bjMedian": 5000,
+    "bjMin": 2330,
+    "bjMax": 10000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
+   }
+  },
+  "oyPrice": 11990
+ },
  "A000000233171": {
   "brand": "비디비치",
   "name": "[쿠션리필+블러시 증정] 비디비치 블랙 퍼펙션 커버 핏 쿠션 기획",
@@ -5668,9 +5592,9 @@
    "2026-09-04": {
     "oy": 35910,
     "bjMedian": 15000,
-    "bjMin": 1000,
+    "bjMin": 8000,
     "bjMax": 35000,
-    "bjCount": 36,
+    "bjCount": 33,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5718,6 +5642,44 @@
   },
   "oyPrice": 31490
  },
+ "A000000264301": {
+  "brand": "메디큐브",
+  "name": "[스테디셀러 특가] 메디큐브 PDRN 핑크 펩타이드 앰플 30ml 한정기획 (+리필팩 50ml+앰플 10ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 23900,
+    "bjMedian": 9750,
+    "bjMin": 5000,
+    "bjMax": 20000,
+    "bjCount": 36,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   }
+  },
+  "oyPrice": 23900
+ },
+ "A000000232213": {
+  "brand": "VT",
+  "name": "[애니pick/물먹광채] VT 피디알엔 에센스 100 30ml 더블 기획 (+리들샷 100 10ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 35400,
+    "bjMedian": 14500,
+    "bjMin": 9700,
+    "bjMax": 30000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   }
+  },
+  "oyPrice": 35400
+ },
  "A000000230206": {
   "brand": "이니스프리",
   "name": "[저자극비타민C세럼] 이니스프리 비타민C 캡슐 세럼 30ml 더블 기획",
@@ -5755,6 +5717,25 @@
    }
   },
   "oyPrice": 22910
+ },
+ "A000000260411": {
+  "brand": "트로이아르케",
+  "name": "트로이아르케 서울 엑토인 톤업 선세럼 50ml",
+  "days": {
+   "2026-09-04": {
+    "oy": 29450,
+    "bjMedian": 12000,
+    "bjMin": 8600,
+    "bjMax": 25000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   }
+  },
+  "oyPrice": 29450
  },
  "A000000179127": {
   "brand": "토코보",
@@ -5803,7 +5784,7 @@
     "bjMedian": 7000,
     "bjMin": 4250,
     "bjMax": 15000,
-    "bjCount": 37,
+    "bjCount": 38,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5820,9 +5801,9 @@
    "2026-09-04": {
     "oy": 12400,
     "bjMedian": 5000,
-    "bjMin": 1234,
-    "bjMax": 22000,
-    "bjCount": 37,
+    "bjMin": 2000,
+    "bjMax": 10000,
+    "bjCount": 35,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5839,9 +5820,9 @@
    "2026-09-04": {
     "oy": 24900,
     "bjMedian": 10000,
-    "bjMin": 3500,
+    "bjMin": 7500,
     "bjMax": 21000,
-    "bjCount": 17,
+    "bjCount": 16,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5850,25 +5831,6 @@
    }
   },
   "oyPrice": 24900
- },
- "A000000234085": {
-  "brand": "아이오페",
-  "name": "[레티놀+콜라겐]아이오페 레티놀 세럼 인 겔마스크 4매 기획 (+1매)",
-  "days": {
-   "2026-09-04": {
-    "oy": 16900,
-    "bjMedian": 6700,
-    "bjMin": 2500,
-    "bjMax": 48000,
-    "bjCount": 7,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.4
-   }
-  },
-  "oyPrice": 16900
  },
  "A000000186166": {
   "brand": "라운드랩",
@@ -5952,10 +5914,10 @@
   "days": {
    "2026-09-04": {
     "oy": 27900,
-    "bjMedian": 11000,
+    "bjMedian": 10950,
     "bjMin": 10000,
-    "bjMax": 30000,
-    "bjCount": 5,
+    "bjMax": 14000,
+    "bjCount": 4,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -5984,44 +5946,6 @@
   },
   "oyPrice": 35900
  },
- "A000000249473": {
-  "brand": "센텔리안24",
-  "name": "[기미잡티/대용량] 센텔리안24 엑스퍼트 마데카 멜라 캡처 앰플 맥스 30ml 더블 기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 30810,
-    "bjMedian": 12000,
-    "bjMin": 7000,
-    "bjMax": 130000,
-    "bjCount": 9,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.39
-   }
-  },
-  "oyPrice": 30810
- },
- "A000000255585": {
-  "brand": "스킨푸드",
-  "name": "[1+1/한정기획] 스킨푸드 캐롯 카로틴 카밍 워터 패드 60매 더블기획 (+PDRN 패드 2매*3)",
-  "days": {
-   "2026-09-04": {
-    "oy": 24900,
-    "bjMedian": 9450,
-    "bjMin": 5000,
-    "bjMax": 30000,
-    "bjCount": 16,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.38
-   }
-  },
-  "oyPrice": 24900
- },
  "A000000259555": {
   "brand": "달바",
   "name": "[26년 신형/보습광채] 달바 퍼스트 스프레이 세럼 펩타이드 100ml 더블기획",
@@ -6040,25 +5964,6 @@
    }
   },
   "oyPrice": 33900
- },
- "A000000149140": {
-  "brand": "라운드랩",
-  "name": "[대용량/약산성] 라운드랩 1025 독도 클렌징 워터 1+1 기획 (400ml+400ml)",
-  "days": {
-   "2026-09-04": {
-    "oy": 17150,
-    "bjMedian": 6500,
-    "bjMin": 5000,
-    "bjMax": 17020,
-    "bjCount": 6,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.38
-   }
-  },
-  "oyPrice": 17150
  },
  "A000000219051": {
   "brand": "비플레인",
@@ -6117,6 +6022,25 @@
   },
   "oyPrice": 37900
  },
+ "A000000255585": {
+  "brand": "스킨푸드",
+  "name": "[1+1/한정기획] 스킨푸드 캐롯 카로틴 카밍 워터 패드 60매 더블기획 (+PDRN 패드 2매*3)",
+  "days": {
+   "2026-09-04": {
+    "oy": 24900,
+    "bjMedian": 9000,
+    "bjMin": 5000,
+    "bjMax": 16000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
+   }
+  },
+  "oyPrice": 24900
+ },
  "A000000190422": {
   "brand": "키스미",
   "name": "[꼼꼼/1+1] 키스미 히로인메이크 스피디 마스카라 리무버 1+1 한정기획",
@@ -6142,37 +6066,18 @@
   "days": {
    "2026-09-04": {
     "oy": 31900,
-    "bjMedian": 11500,
+    "bjMedian": 11100,
     "bjMin": 5000,
-    "bjMax": 99999,
-    "bjCount": 29,
+    "bjMax": 21900,
+    "bjCount": 28,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 0.36
+    "premium": 0.35
    }
   },
   "oyPrice": 31900
- },
- "B000000232093": {
-  "brand": "샤르드",
-  "name": "[7일한정판매][대용량 구성] 샤르드 아이백 리프트 1100샷 리들 패치 6+3 기획",
-  "days": {
-   "2026-09-04": {
-    "oy": 61200,
-    "bjMedian": 21950,
-    "bjMin": 19900,
-    "bjMax": 74900,
-    "bjCount": 4,
-    "kActiveMedian": null,
-    "kActiveCount": 0,
-    "kSoldMedian": null,
-    "kSoldCount": 0,
-    "premium": 0.36
-   }
-  },
-  "oyPrice": 61200
  },
  "A000000139063": {
   "brand": "정샘물",
@@ -6181,9 +6086,9 @@
    "2026-09-04": {
     "oy": 37920,
     "bjMedian": 13000,
-    "bjMin": 5000,
-    "bjMax": 35000,
-    "bjCount": 33,
+    "bjMin": 8000,
+    "bjMax": 26000,
+    "bjCount": 31,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6199,10 +6104,10 @@
   "days": {
    "2026-09-04": {
     "oy": 31500,
-    "bjMedian": 10630,
-    "bjMin": 4000,
+    "bjMedian": 10815,
+    "bjMin": 5000,
     "bjMax": 26000,
-    "bjCount": 11,
+    "bjCount": 10,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6219,9 +6124,9 @@
    "2026-09-04": {
     "oy": 26600,
     "bjMedian": 9000,
-    "bjMin": 2000,
+    "bjMin": 6500,
     "bjMax": 16000,
-    "bjCount": 21,
+    "bjCount": 20,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6231,16 +6136,16 @@
   },
   "oyPrice": 26600
  },
- "A000000161728": {
-  "brand": "어뮤즈",
-  "name": "[단독기획] 어뮤즈 듀 젤리 마스터 쿠션 리필 기획 (본품+리필증정)",
+ "A000000249473": {
+  "brand": "센텔리안24",
+  "name": "[기미잡티/대용량] 센텔리안24 엑스퍼트 마데카 멜라 캡처 앰플 맥스 30ml 더블 기획",
   "days": {
    "2026-09-04": {
-    "oy": 28410,
-    "bjMedian": 9750,
-    "bjMin": 3720,
-    "bjMax": 30000,
-    "bjCount": 32,
+    "oy": 30810,
+    "bjMedian": 10500,
+    "bjMin": 7000,
+    "bjMax": 24000,
+    "bjCount": 8,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6248,7 +6153,7 @@
     "premium": 0.34
    }
   },
-  "oyPrice": 28410
+  "oyPrice": 30810
  },
  "A000000263428": {
   "brand": "라곰",
@@ -6269,6 +6174,25 @@
   },
   "oyPrice": 22000
  },
+ "A000000180455": {
+  "brand": "일소",
+  "name": "[1등코팩/피지순삭] 일소 네추럴 마일드 클리어 노우즈 팩 10매 (대용량)",
+  "days": {
+   "2026-09-04": {
+    "oy": 20900,
+    "bjMedian": 7000,
+    "bjMin": 4000,
+    "bjMax": 12000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
+   }
+  },
+  "oyPrice": 20900
+ },
  "A000000102306": {
   "brand": "다슈",
   "name": "[헤어팡팡이/워터프루프] 다슈 데일리 이지 커버 헤어쿠션 16g (내추럴블랙/내추럴브라운)",
@@ -6288,16 +6212,54 @@
   },
   "oyPrice": 18000
  },
- "A000000180455": {
-  "brand": "일소",
-  "name": "[1등코팩/피지순삭] 일소 네추럴 마일드 클리어 노우즈 팩 10매 (대용량)",
+ "B000000232093": {
+  "brand": "샤르드",
+  "name": "[7일한정판매][대용량 구성] 샤르드 아이백 리프트 1100샷 리들 패치 6+3 기획",
   "days": {
    "2026-09-04": {
-    "oy": 20900,
-    "bjMedian": 6500,
-    "bjMin": 2100,
-    "bjMax": 12000,
-    "bjCount": 10,
+    "oy": 61200,
+    "bjMedian": 20000,
+    "bjMin": 19900,
+    "bjMax": 23900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
+   }
+  },
+  "oyPrice": 61200
+ },
+ "A000000161728": {
+  "brand": "어뮤즈",
+  "name": "[단독기획] 어뮤즈 듀 젤리 마스터 쿠션 리필 기획 (본품+리필증정)",
+  "days": {
+   "2026-09-04": {
+    "oy": 28410,
+    "bjMedian": 9250,
+    "bjMin": 5000,
+    "bjMax": 22000,
+    "bjCount": 28,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
+   }
+  },
+  "oyPrice": 28410
+ },
+ "A000000234085": {
+  "brand": "아이오페",
+  "name": "[레티놀+콜라겐]아이오페 레티놀 세럼 인 겔마스크 4매 기획 (+1매)",
+  "days": {
+   "2026-09-04": {
+    "oy": 16900,
+    "bjMedian": 5250,
+    "bjMin": 3000,
+    "bjMax": 7500,
+    "bjCount": 4,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6305,7 +6267,7 @@
     "premium": 0.31
    }
   },
-  "oyPrice": 20900
+  "oyPrice": 16900
  },
  "A000000236979": {
   "brand": "달바",
@@ -6326,6 +6288,25 @@
   },
   "oyPrice": 32130
  },
+ "A000000149140": {
+  "brand": "라운드랩",
+  "name": "[대용량/약산성] 라운드랩 1025 독도 클렌징 워터 1+1 기획 (400ml+400ml)",
+  "days": {
+   "2026-09-04": {
+    "oy": 17150,
+    "bjMedian": 5000,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
+   }
+  },
+  "oyPrice": 17150
+ },
  "A000000259329": {
   "brand": "셀퓨전씨",
   "name": "[고은언니PICK] 셀퓨전씨 잡티 토닝 썬스크린 35ml 트리플 한정 기획",
@@ -6334,8 +6315,8 @@
     "oy": 20340,
     "bjMedian": 6000,
     "bjMin": 5000,
-    "bjMax": 16000,
-    "bjCount": 6,
+    "bjMax": 6440,
+    "bjCount": 5,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6371,9 +6352,9 @@
    "2026-09-04": {
     "oy": 28410,
     "bjMedian": 7000,
-    "bjMin": 500,
-    "bjMax": 23000,
-    "bjCount": 27,
+    "bjMin": 3000,
+    "bjMax": 16000,
+    "bjCount": 23,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -6408,15 +6389,15 @@
   "days": {
    "2026-09-04": {
     "oy": 169400,
-    "bjMedian": 32500,
-    "bjMin": 8000,
-    "bjMax": 170000,
-    "bjCount": 16,
+    "bjMedian": 35000,
+    "bjMin": 15000,
+    "bjMax": 80000,
+    "bjCount": 11,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
     "kSoldCount": 0,
-    "premium": 0.19
+    "premium": 0.21
    }
   },
   "oyPrice": 169400
