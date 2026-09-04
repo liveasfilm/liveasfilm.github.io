@@ -56,8 +56,8 @@ h2{font-size:14px;margin:22px 0 6px;color:var(--mut);font-weight:600}
 </head>
 <body>
 <h1>올리브영 희소상품 · 중고 프리미엄 리스트</h1>
-<div class="sub">기준일 2026-09-04 · 후보 336건 중 프리미엄 1.3배 이상 <b>3건</b>
- · 올영가=판매가, 중고시세=번개장터 호가 중앙값 · <b>희소도</b>=온라인 품절일 때만 매겨진다(온라인에서 살 수 있으면 0). 매장 재고는 품절 상품에 한해 주요 거점 표본으로 확인
+<div class="sub">기준일 2026-09-04 · 후보 338건 중 프리미엄 1.15배 이상 <b>7건</b>
+ · 올영가=판매가, 중고시세=번개장터 호가 중앙값 · <b>정가</b>보다 중고가 싸면 품절 프리미엄이 아니라 할인 차익이다 · <b>희소도</b>=온라인 품절일 때만 매겨진다(온라인에서 살 수 있으면 0). 매장 재고는 품절 상품에 한해 주요 거점 표본으로 확인
  · <span class="tag warn">수량주의</span>=올영가가 낱개 단위라 중고 묶음가와 직접 비교 시 과대평가될 수 있음
  · <b>당근 체결</b>은 판매완료 전환 시점 가격으로 동결하며 사후 가격수정 건은 제외한다 · 추이는 번개장터 중앙 호가 기준</div>
 <h2>일별 프리미엄 흐름</h2>
@@ -67,14 +67,35 @@ h2{font-size:14px;margin:22px 0 6px;color:var(--mut);font-weight:600}
 <p class="hint">행을 클릭하면 아래에 그 상품의 일별 가격 그래프가 열린다.</p>
 <div class="wrap"><table id="t"><thead><tr>
 <th data-k="dealMultiple">체결배수</th><th data-k="kSoldMedian">당근 체결</th>
-<th data-k="premium">호가배수</th><th data-k="oyPrice">올영가</th><th data-k="priceMedian">번개 중앙</th><th data-k="priceMin">번개 최저</th>
+<th data-k="premium">호가배수</th><th data-k="oyList">정가</th><th data-k="oyPrice">올영가</th><th data-k="priceMedian">번개 중앙</th><th data-k="priceMin">번개 최저</th>
 <th data-k="dayDelta">전일대비</th><th>7일 추이</th>
 <th data-k="soldMedian">준체결</th><th data-k="listings">매물</th><th data-k="totalFaved">찜</th>
 <th data-k="scarcity">희소도</th><th data-k="name">상품</th><th>링크</th></tr></thead><tbody>
+<tr data-no="A000000206378" data-s="파티온 [7일특가/9월올영픽] 파티온 노스카나인 트러블 세럼 마스크팩 기획(4+1)">
+<td class="num pm " data-v="0">-</td>
+<td class="num" data-v="0">-</td>
+<td class="num pm hot" data-v="2.34">2.34x</td>
+<td class="num sub" data-v="16000">16,000원</td>
+<td class="num" data-v="7040">7,040원</td>
+<td class="num" data-v="16500">16,500원</td>
+<td class="num" data-v="13000">13,000원</td>
+<td class="num" data-v="-99"><span class="sub">–</span></td>
+<td data-v="0"><span class="sub">–</span></td>
+<td class="num" data-v="0">-</td>
+<td class="num" data-v="3">3</td>
+<td class="num" data-v="17">17</td>
+<td class="num" data-v="0">0</td>
+<td class="nm"><b>파티온</b> [7일특가/9월올영픽] 파티온 노스카나인 트러블 세럼 마스크팩 기획(4+1)<br></td>
+<td class="lk">
+<a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000206378" target="_blank">올영</a>
+<a href="https://m.bunjang.co.kr/search/products?q=%ED%8C%8C%ED%8B%B0%EC%98%A8%20%EB%85%B8%EC%8A%A4%EC%B9%B4%EB%82%98%EC%9D%B8%20%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%84%B8%EB%9F%BC%20%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9" target="_blank">번개</a>
+<a href="https://www.daangn.com/kr/buy-sell/s/?search=%ED%8C%8C%ED%8B%B0%EC%98%A8%20%EB%85%B8%EC%8A%A4%EC%B9%B4%EB%82%98%EC%9D%B8%20%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%84%B8%EB%9F%BC%20%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9" target="_blank">당근</a>
+</td></tr>
 <tr data-no="A000000262760" data-s="브랜든 [헬로키티 에디션] 브랜든 세이프 플러스 월렛백">
 <td class="num pm " data-v="0">-</td>
 <td class="num" data-v="0">-</td>
 <td class="num pm warm" data-v="1.97">1.97x</td>
+<td class="num sub" data-v="48000">48,000원</td>
 <td class="num" data-v="34700">34,700원</td>
 <td class="num" data-v="68500">68,500원</td>
 <td class="num" data-v="46000">46,000원</td>
@@ -94,6 +115,7 @@ h2{font-size:14px;margin:22px 0 6px;color:var(--mut);font-weight:600}
 <td class="num pm " data-v="0">-</td>
 <td class="num" data-v="0">-</td>
 <td class="num pm warm" data-v="1.6">1.6x</td>
+<td class="num sub" data-v="63000">63,000원</td>
 <td class="num" data-v="31160">31,160원</td>
 <td class="num" data-v="50000">50,000원</td>
 <td class="num" data-v="23000">23,000원</td>
@@ -109,27 +131,92 @@ h2{font-size:14px;margin:22px 0 6px;color:var(--mut);font-weight:600}
 <a href="https://m.bunjang.co.kr/search/products?q=%EC%A0%9C%EB%8B%88%ED%8D%BC%EB%A1%9C%ED%8E%98%EC%A6%88%20%EA%B8%80%EB%A1%9C%EC%9A%B0%20%EB%B0%94%EC%9D%B4%EC%A0%9C%EC%9D%B4%EB%A1%9C%20EDT%20100ml" target="_blank">번개</a>
 <a href="https://www.daangn.com/kr/buy-sell/s/?search=%EC%A0%9C%EB%8B%88%ED%8D%BC%EB%A1%9C%ED%8E%98%EC%A6%88%20%EA%B8%80%EB%A1%9C%EC%9A%B0%20%EB%B0%94%EC%9D%B4%EC%A0%9C%EC%9D%B4%EB%A1%9C%20EDT%20100ml" target="_blank">당근</a>
 </td></tr>
-<tr data-no="A000000175915" data-s="토리든 [약산성/증량기획] 토리든 다이브인 저분자 히알루론산 클렌징폼 150ml 기획 (+30ml 증정)">
-<td class="num pm " data-v="0">-</td>
-<td class="num" data-v="0">-</td>
-<td class="num pm " data-v="1.4">1.4x</td>
-<td class="num" data-v="9980">9,980원</td>
-<td class="num" data-v="14000">14,000원</td>
-<td class="num" data-v="7000">7,000원</td>
+<tr data-no="A000000180532" data-s="웨이크메이크 [레오파드 헬로키티]웨이크메이크 소프트 블러링 아이팔레트(단품)">
+<td class="num pm " data-v="1.24">1.24x</td>
+<td class="num" data-v="28000">28,000원 <span class="sub">(1건)</span></td>
+<td class="num pm " data-v="1.28">1.28x</td>
+<td class="num sub" data-v="34000">34,000원</td>
+<td class="num" data-v="22610">22,610원</td>
+<td class="num" data-v="29000">29,000원</td>
+<td class="num" data-v="10000">10,000원</td>
 <td class="num" data-v="-99"><span class="sub">–</span></td>
 <td data-v="0"><span class="sub">–</span></td>
 <td class="num" data-v="0">-</td>
-<td class="num" data-v="5">5</td>
-<td class="num" data-v="15">15</td>
+<td class="num" data-v="37">37</td>
+<td class="num" data-v="220">220</td>
 <td class="num" data-v="0">0</td>
-<td class="nm"><b>토리든</b> [약산성/증량기획] 토리든 다이브인 저분자 히알루론산 클렌징폼 150ml 기획 (+30ml 증정)<br></td>
+<td class="nm"><b>웨이크메이크</b> [레오파드 헬로키티]웨이크메이크 소프트 블러링 아이팔레트(단품)<br><span class="tag">한정</span></td>
 <td class="lk">
-<a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000175915" target="_blank">올영</a>
-<a href="https://m.bunjang.co.kr/search/products?q=%ED%86%A0%EB%A6%AC%EB%93%A0%20%EB%8B%A4%EC%9D%B4%EB%B8%8C%EC%9D%B8%20%EC%A0%80%EB%B6%84%EC%9E%90%20%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%A0%EC%82%B0%20%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC" target="_blank">번개</a>
-<a href="https://www.daangn.com/kr/buy-sell/s/?search=%ED%86%A0%EB%A6%AC%EB%93%A0%20%EB%8B%A4%EC%9D%B4%EB%B8%8C%EC%9D%B8%20%EC%A0%80%EB%B6%84%EC%9E%90%20%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%A0%EC%82%B0%20%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC" target="_blank">당근</a>
+<a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000180532" target="_blank">올영</a>
+<a href="https://m.bunjang.co.kr/search/products?q=%EC%9B%A8%EC%9D%B4%ED%81%AC%EB%A9%94%EC%9D%B4%ED%81%AC%20%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%B8%94%EB%9F%AC%EB%A7%81%20%EC%95%84%EC%9D%B4%ED%8C%94%EB%A0%88%ED%8A%B8%20%ED%97%AC%EB%A1%9C%ED%82%A4%ED%8B%B0" target="_blank">번개</a>
+<a href="https://www.daangn.com/kr/buy-sell/s/?search=%EC%9B%A8%EC%9D%B4%ED%81%AC%EB%A9%94%EC%9D%B4%ED%81%AC%20%EC%86%8C%ED%94%84%ED%8A%B8%20%EB%B8%94%EB%9F%AC%EB%A7%81%20%EC%95%84%EC%9D%B4%ED%8C%94%EB%A0%88%ED%8A%B8%20%ED%97%AC%EB%A1%9C%ED%82%A4%ED%8B%B0" target="_blank">당근</a>
+</td></tr>
+<tr data-no="A000000231293" data-s="프리메라 [스테디셀러 특가][탄력광채세럼] 프리메라 비타티놀 바운시 리프트 세럼 25g 기획/단품">
+<td class="num pm " data-v="0">-</td>
+<td class="num" data-v="0">-</td>
+<td class="num pm " data-v="1.19">1.19x</td>
+<td class="num sub" data-v="32500">32,500원</td>
+<td class="num" data-v="22600">22,600원</td>
+<td class="num" data-v="27000">27,000원</td>
+<td class="num" data-v="8000">8,000원</td>
+<td class="num" data-v="-99"><span class="sub">–</span></td>
+<td data-v="0"><span class="sub">–</span></td>
+<td class="num" data-v="0">-</td>
+<td class="num" data-v="4">4</td>
+<td class="num" data-v="3">3</td>
+<td class="num" data-v="0">0</td>
+<td class="nm"><b>프리메라</b> [스테디셀러 특가][탄력광채세럼] 프리메라 비타티놀 바운시 리프트 세럼 25g 기획/단품<br><span class="tag">한정</span></td>
+<td class="lk">
+<a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000231293" target="_blank">올영</a>
+<a href="https://m.bunjang.co.kr/search/products?q=%ED%94%84%EB%A6%AC%EB%A9%94%EB%9D%BC%20%EB%B9%84%ED%83%80%ED%8B%B0%EB%86%80%20%EB%B0%94%EC%9A%B4%EC%8B%9C%20%EB%A6%AC%ED%94%84%ED%8A%B8%20%EC%84%B8%EB%9F%BC" target="_blank">번개</a>
+<a href="https://www.daangn.com/kr/buy-sell/s/?search=%ED%94%84%EB%A6%AC%EB%A9%94%EB%9D%BC%20%EB%B9%84%ED%83%80%ED%8B%B0%EB%86%80%20%EB%B0%94%EC%9A%B4%EC%8B%9C%20%EB%A6%AC%ED%94%84%ED%8A%B8%20%EC%84%B8%EB%9F%BC" target="_blank">당근</a>
+</td></tr>
+<tr data-no="A000000113585" data-s="바디럽 바디럽 퓨어썸 샤워기">
+<td class="num pm " data-v="0.15">0.15x</td>
+<td class="num" data-v="3000">3,000원 <span class="sub">(1건)</span></td>
+<td class="num pm " data-v="1.17">1.17x</td>
+<td class="num sub" data-v="25900">25,900원</td>
+<td class="num" data-v="19980">19,980원</td>
+<td class="num" data-v="23319">23,319원</td>
+<td class="num" data-v="6900">6,900원</td>
+<td class="num" data-v="-99"><span class="sub">–</span></td>
+<td data-v="0"><span class="sub">–</span></td>
+<td class="num" data-v="0">-</td>
+<td class="num" data-v="4">4</td>
+<td class="num" data-v="26">26</td>
+<td class="num" data-v="0">0</td>
+<td class="nm"><b>바디럽</b> 바디럽 퓨어썸 샤워기<br></td>
+<td class="lk">
+<a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000113585" target="_blank">올영</a>
+<a href="https://m.bunjang.co.kr/search/products?q=%EB%B0%94%EB%94%94%EB%9F%BD%20%ED%93%A8%EC%96%B4%EC%8D%B8%20%EC%83%A4%EC%9B%8C%EA%B8%B0" target="_blank">번개</a>
+<a href="https://www.daangn.com/kr/buy-sell/s/?search=%EB%B0%94%EB%94%94%EB%9F%BD%20%ED%93%A8%EC%96%B4%EC%8D%B8%20%EC%83%A4%EC%9B%8C%EA%B8%B0" target="_blank">당근</a>
+</td></tr>
+<tr data-no="A000000203759" data-s="바이오힐보 [모공패드] 바이오힐보 프로바이오덤 콜라겐 리모델링 세럼 패드 70매">
+<td class="num pm " data-v="1.01">1.01x</td>
+<td class="num" data-v="10000">10,000원 <span class="sub">(1건)</span></td>
+<td class="num pm " data-v="1.21">1.21x</td>
+<td class="num sub" data-v="28000">28,000원</td>
+<td class="num" data-v="9920">9,920원</td>
+<td class="num" data-v="12000">12,000원</td>
+<td class="num" data-v="2500">2,500원</td>
+<td class="num" data-v="-99"><span class="sub">–</span></td>
+<td data-v="0"><span class="sub">–</span></td>
+<td class="num" data-v="0">-</td>
+<td class="num" data-v="17">17</td>
+<td class="num" data-v="55">55</td>
+<td class="num" data-v="0">0</td>
+<td class="nm"><b>바이오힐보</b> [모공패드] 바이오힐보 프로바이오덤 콜라겐 리모델링 세럼 패드 70매<br><span class="tag warn">수량주의</span></td>
+<td class="lk">
+<a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000203759" target="_blank">올영</a>
+<a href="https://m.bunjang.co.kr/search/products?q=%EB%B0%94%EC%9D%B4%EC%98%A4%ED%9E%90%EB%B3%B4%20%ED%94%84%EB%A1%9C%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%A4%20%EC%BD%9C%EB%9D%BC%EA%B2%90%20%EB%A6%AC%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%84%B8%EB%9F%BC" target="_blank">번개</a>
+<a href="https://www.daangn.com/kr/buy-sell/s/?search=%EB%B0%94%EC%9D%B4%EC%98%A4%ED%9E%90%EB%B3%B4%20%ED%94%84%EB%A1%9C%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%A4%20%EC%BD%9C%EB%9D%BC%EA%B2%90%20%EB%A6%AC%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%84%B8%EB%9F%BC" target="_blank">당근</a>
 </td></tr>
 </tbody></table></div>
-<div id="detail"><p class="hint" id="dhint">행을 선택하면 상품별 일별 가격 그래프가 표시된다.</p><div class="pdet" data-no="A000000262760" hidden>
+<div id="detail"><p class="hint" id="dhint">행을 선택하면 상품별 일별 가격 그래프가 표시된다.</p><div class="pdet" data-no="A000000206378" hidden>
+<div class="pdet-h"><b>파티온</b> [7일특가/9월올영픽] 파티온 노스카나인 트러블 세럼 마스크팩 기획(4+1)</div>
+<div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
+</div>
+<div class="pdet" data-no="A000000262760" hidden>
 <div class="pdet-h"><b>브랜든</b> [헬로키티 에디션] 브랜든 세이프 플러스 월렛백</div>
 <div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
 </div>
@@ -137,8 +224,20 @@ h2{font-size:14px;margin:22px 0 6px;color:var(--mut);font-weight:600}
 <div class="pdet-h"><b>제니퍼로페즈</b> [단독기획] 제니퍼로페즈 글로우 바이제이로 EDT 100ml 기획(+프로미스 바디로션)</div>
 <div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
 </div>
-<div class="pdet" data-no="A000000175915" hidden>
-<div class="pdet-h"><b>토리든</b> [약산성/증량기획] 토리든 다이브인 저분자 히알루론산 클렌징폼 150ml 기획 (+30ml 증정)</div>
+<div class="pdet" data-no="A000000180532" hidden>
+<div class="pdet-h"><b>웨이크메이크</b> [레오파드 헬로키티]웨이크메이크 소프트 블러링 아이팔레트(단품)</div>
+<div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
+</div>
+<div class="pdet" data-no="A000000231293" hidden>
+<div class="pdet-h"><b>프리메라</b> [스테디셀러 특가][탄력광채세럼] 프리메라 비타티놀 바운시 리프트 세럼 25g 기획/단품</div>
+<div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
+</div>
+<div class="pdet" data-no="A000000113585" hidden>
+<div class="pdet-h"><b>바디럽</b> 바디럽 퓨어썸 샤워기</div>
+<div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
+</div>
+<div class="pdet" data-no="A000000203759" hidden>
+<div class="pdet-h"><b>바이오힐보</b> [모공패드] 바이오힐보 프로바이오덤 콜라겐 리모델링 세럼 패드 70매</div>
 <div class="chart-empty">관측 1일 — 이틀치부터 추이를 그린다</div>
 </div></div>
 <script>
