@@ -62,6 +62,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 2.06
+   },
+   "2026-09-09": {
+    "oy": 7400,
+    "bjMedian": 15250,
+    "bjMin": 5000,
+    "bjMax": 42500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 2.06
    }
   },
   "oyPrice": 7400
@@ -129,6 +141,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 1.81
+   },
+   "2026-09-09": {
+    "oy": 35900,
+    "bjMedian": 64500,
+    "bjMin": 40000,
+    "bjMax": 110000,
+    "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.8
    }
   },
   "oyPrice": 35900
@@ -196,9 +220,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 1.37
+   },
+   "2026-09-09": {
+    "oy": 54800,
+    "bjMedian": 50000,
+    "bjMin": 23000,
+    "bjMax": 53000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.91
    }
   },
-  "oyPrice": 32800
+  "oyPrice": 54800
  },
  "A000000180532": {
   "brand": "웨이크메이크",
@@ -263,6 +299,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 1.13
+   },
+   "2026-09-09": {
+    "oy": 23800,
+    "bjMedian": 27000,
+    "bjMin": 13500,
+    "bjMax": 55000,
+    "bjCount": 37,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.13
    }
   },
   "oyPrice": 23800
@@ -320,6 +368,18 @@
     "premium": 1.24
    },
    "2026-09-08": {
+    "oy": 28330,
+    "bjMedian": 35000,
+    "bjMin": 28000,
+    "bjMax": 37000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.24
+   },
+   "2026-09-09": {
     "oy": 28330,
     "bjMedian": 35000,
     "bjMin": 28000,
@@ -397,6 +457,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.89
+   },
+   "2026-09-09": {
+    "oy": 12300,
+    "bjMedian": 12000,
+    "bjMin": 8500,
+    "bjMax": 14900,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.98
    }
   },
   "oyPrice": 12300
@@ -454,6 +526,18 @@
     "premium": 1.11
    },
    "2026-09-08": {
+    "oy": 54910,
+    "bjMedian": 57000,
+    "bjMin": 30000,
+    "bjMax": 66000,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.04
+   },
+   "2026-09-09": {
     "oy": 54910,
     "bjMedian": 57000,
     "bjMin": 30000,
@@ -531,6 +615,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 1.05
+   },
+   "2026-09-09": {
+    "oy": 10500,
+    "bjMedian": 11000,
+    "bjMin": 7000,
+    "bjMax": 16000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.05
    }
   },
   "oyPrice": 10500
@@ -588,6 +684,18 @@
     "premium": 1
    },
    "2026-09-08": {
+    "oy": 12510,
+    "bjMedian": 12500,
+    "bjMin": 10000,
+    "bjMax": 15000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1
+   },
+   "2026-09-09": {
     "oy": 12510,
     "bjMedian": 12500,
     "bjMin": 10000,
@@ -665,6 +773,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.76
+   },
+   "2026-09-09": {
+    "oy": 50000,
+    "bjMedian": 37950,
+    "bjMin": 28000,
+    "bjMax": 69900,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
    }
   },
   "oyPrice": 50000
@@ -722,6 +842,18 @@
     "premium": 1
    },
    "2026-09-08": {
+    "oy": 13900,
+    "bjMedian": 13900,
+    "bjMin": 13000,
+    "bjMax": 26700,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1
+   },
+   "2026-09-09": {
     "oy": 13900,
     "bjMedian": 13900,
     "bjMin": 13000,
@@ -799,6 +931,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.97
+   },
+   "2026-09-09": {
+    "oy": 26700,
+    "bjMedian": 26000,
+    "bjMin": 20000,
+    "bjMax": 700000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.97
    }
   },
   "oyPrice": 26700
@@ -866,6 +1010,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.91
+   },
+   "2026-09-09": {
+    "oy": 32800,
+    "bjMedian": 26000,
+    "bjMin": 21000,
+    "bjMax": 32000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
    }
   },
   "oyPrice": 32800
@@ -923,6 +1079,18 @@
     "premium": 0.95
    },
    "2026-09-08": {
+    "oy": 12900,
+    "bjMedian": 12600,
+    "bjMin": 10000,
+    "bjMax": 17500,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.98
+   },
+   "2026-09-09": {
     "oy": 12900,
     "bjMedian": 12600,
     "bjMin": 10000,
@@ -1000,6 +1168,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.91
+   },
+   "2026-09-09": {
+    "oy": 49320,
+    "bjMedian": 50000,
+    "bjMin": 23000,
+    "bjMax": 53000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.01
    }
   },
   "oyPrice": 49320
@@ -1057,6 +1237,18 @@
     "premium": 0.91
    },
    "2026-09-08": {
+    "oy": 9900,
+    "bjMedian": 9000,
+    "bjMin": 7000,
+    "bjMax": 11000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.91
+   },
+   "2026-09-09": {
     "oy": 9900,
     "bjMedian": 9000,
     "bjMin": 7000,
@@ -1134,6 +1326,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.72
+   },
+   "2026-09-09": {
+    "oy": 18000,
+    "bjMedian": 13000,
+    "bjMin": 12000,
+    "bjMax": 20000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
    }
   },
   "oyPrice": 18000
@@ -1191,6 +1395,18 @@
     "premium": 0.92
    },
    "2026-09-08": {
+    "oy": 12500,
+    "bjMedian": 11500,
+    "bjMin": 8500,
+    "bjMax": 12000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.92
+   },
+   "2026-09-09": {
     "oy": 12500,
     "bjMedian": 11500,
     "bjMin": 8500,
@@ -1268,6 +1484,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 26900,
+    "bjMedian": 14400,
+    "bjMin": 7000,
+    "bjMax": 24000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 26900
@@ -1325,6 +1553,18 @@
     "premium": 0.9
    },
    "2026-09-08": {
+    "oy": 57800,
+    "bjMedian": 52000,
+    "bjMin": 30000,
+    "bjMax": 61000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.9
+   },
+   "2026-09-09": {
     "oy": 57800,
     "bjMedian": 52000,
     "bjMin": 30000,
@@ -1402,6 +1642,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 33000,
+    "bjMedian": 22000,
+    "bjMin": 15000,
+    "bjMax": 24500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
   "oyPrice": 33000
@@ -1459,6 +1711,18 @@
     "premium": 0.87
    },
    "2026-09-08": {
+    "oy": 16100,
+    "bjMedian": 14000,
+    "bjMin": 10900,
+    "bjMax": 24500,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.87
+   },
+   "2026-09-09": {
     "oy": 16100,
     "bjMedian": 14000,
     "bjMin": 10900,
@@ -1536,6 +1800,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 28900,
+    "bjMedian": 20500,
+    "bjMin": 17600,
+    "bjMax": 30000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
   "oyPrice": 28900
@@ -1603,9 +1879,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.93
+   },
+   "2026-09-09": {
+    "oy": 24000,
+    "bjMedian": 19500,
+    "bjMin": 18000,
+    "bjMax": 22000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
    }
   },
-  "oyPrice": 21000
+  "oyPrice": 24000
  },
  "A000000229631": {
   "brand": "리무브",
@@ -1660,6 +1948,18 @@
     "premium": 0.76
    },
    "2026-09-08": {
+    "oy": 24900,
+    "bjMedian": 19000,
+    "bjMin": 10000,
+    "bjMax": 24000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
+   },
+   "2026-09-09": {
     "oy": 24900,
     "bjMedian": 19000,
     "bjMin": 10000,
@@ -1737,6 +2037,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.8
+   },
+   "2026-09-09": {
+    "oy": 28000,
+    "bjMedian": 22500,
+    "bjMin": 15000,
+    "bjMax": 68000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
    }
   },
   "oyPrice": 28000
@@ -1794,6 +2106,18 @@
     "premium": 0.79
    },
    "2026-09-08": {
+    "oy": 5400,
+    "bjMedian": 5000,
+    "bjMin": 3500,
+    "bjMax": 5500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.93
+   },
+   "2026-09-09": {
     "oy": 5400,
     "bjMedian": 5000,
     "bjMin": 3500,
@@ -1871,6 +2195,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 9700,
+    "bjMedian": 6155,
+    "bjMin": 4500,
+    "bjMax": 8000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 9700
@@ -1928,6 +2264,18 @@
     "premium": 0.69
    },
    "2026-09-08": {
+    "oy": 105000,
+    "bjMedian": 72500,
+    "bjMin": 30000,
+    "bjMax": 100000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
+   },
+   "2026-09-09": {
     "oy": 105000,
     "bjMedian": 72500,
     "bjMin": 30000,
@@ -2005,6 +2353,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 38000,
+    "bjMedian": 20000,
+    "bjMin": 16000,
+    "bjMax": 21500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
    }
   },
   "oyPrice": 38000
@@ -2062,6 +2422,18 @@
     "premium": 0.86
    },
    "2026-09-08": {
+    "oy": 29050,
+    "bjMedian": 24500,
+    "bjMin": 17000,
+    "bjMax": 30000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.84
+   },
+   "2026-09-09": {
     "oy": 29050,
     "bjMedian": 24500,
     "bjMin": 17000,
@@ -2139,6 +2511,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.84
+   },
+   "2026-09-09": {
+    "oy": 24900,
+    "bjMedian": 20940,
+    "bjMin": 15000,
+    "bjMax": 22000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.84
    }
   },
   "oyPrice": 24900
@@ -2196,6 +2580,18 @@
     "premium": 0.73
    },
    "2026-09-08": {
+    "oy": 48000,
+    "bjMedian": 35000,
+    "bjMin": 25000,
+    "bjMax": 55000,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.73
+   },
+   "2026-09-09": {
     "oy": 48000,
     "bjMedian": 35000,
     "bjMin": 25000,
@@ -2273,6 +2669,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.77
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 14500,
+    "bjMin": 10000,
+    "bjMax": 20000,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.77
    }
   },
   "oyPrice": 18900
@@ -2340,6 +2748,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.8
+   },
+   "2026-09-09": {
+    "oy": 36900,
+    "bjMedian": 31000,
+    "bjMin": 27000,
+    "bjMax": 60000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.84
    }
   },
   "oyPrice": 36900
@@ -2400,6 +2820,18 @@
     "oy": 26700,
     "bjMedian": 21000,
     "bjMin": 17500,
+    "bjMax": 27000,
+    "bjCount": 23,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
+   },
+   "2026-09-09": {
+    "oy": 26700,
+    "bjMedian": 21000,
+    "bjMin": 17000,
     "bjMax": 27000,
     "bjCount": 23,
     "kActiveMedian": null,
@@ -2474,6 +2906,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.69
+   },
+   "2026-09-09": {
+    "oy": 28900,
+    "bjMedian": 19950,
+    "bjMin": 12500,
+    "bjMax": 40000,
+    "bjCount": 24,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
    }
   },
   "oyPrice": 28900
@@ -2531,6 +2975,18 @@
     "premium": 0.83
    },
    "2026-09-08": {
+    "oy": 16320,
+    "bjMedian": 13500,
+    "bjMin": 9100,
+    "bjMax": 20000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.83
+   },
+   "2026-09-09": {
     "oy": 16320,
     "bjMedian": 13500,
     "bjMin": 9100,
@@ -2608,6 +3064,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.78
+   },
+   "2026-09-09": {
+    "oy": 15300,
+    "bjMedian": 12000,
+    "bjMin": 11000,
+    "bjMax": 21000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.78
    }
   },
   "oyPrice": 15300
@@ -2675,6 +3143,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.74
+   },
+   "2026-09-09": {
+    "oy": 40800,
+    "bjMedian": 30000,
+    "bjMin": 25000,
+    "bjMax": 44000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
    }
   },
   "oyPrice": 40800
@@ -2732,6 +3212,18 @@
     "premium": 0.83
    },
    "2026-09-08": {
+    "oy": 39600,
+    "bjMedian": 33000,
+    "bjMin": 29000,
+    "bjMax": 39000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.83
+   },
+   "2026-09-09": {
     "oy": 39600,
     "bjMedian": 33000,
     "bjMin": 29000,
@@ -2902,6 +3394,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.74
+   },
+   "2026-09-09": {
+    "oy": 29900,
+    "bjMedian": 22000,
+    "bjMin": 15000,
+    "bjMax": 40000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
    }
   },
   "oyPrice": 29900
@@ -2969,6 +3473,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.73
+   },
+   "2026-09-09": {
+    "oy": 44000,
+    "bjMedian": 32000,
+    "bjMin": 22000,
+    "bjMax": 39900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.73
    }
   },
   "oyPrice": 44000
@@ -3026,6 +3542,18 @@
     "premium": 0.78
    },
    "2026-09-08": {
+    "oy": 12900,
+    "bjMedian": 10000,
+    "bjMin": 9000,
+    "bjMax": 17900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.78
+   },
+   "2026-09-09": {
     "oy": 12900,
     "bjMedian": 10000,
     "bjMin": 9000,
@@ -3170,6 +3698,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.79
+   },
+   "2026-09-09": {
+    "oy": 26700,
+    "bjMedian": 20500,
+    "bjMin": 13000,
+    "bjMax": 27000,
+    "bjCount": 22,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.77
    }
   },
   "oyPrice": 26700
@@ -3237,6 +3777,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 8000,
+    "bjMedian": 5100,
+    "bjMin": 3000,
+    "bjMax": 12500,
+    "bjCount": 34,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 8000
@@ -3294,6 +3846,18 @@
     "premium": 0.72
    },
    "2026-09-08": {
+    "oy": 20900,
+    "bjMedian": 15000,
+    "bjMin": 12000,
+    "bjMax": 24000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   },
+   "2026-09-09": {
     "oy": 20900,
     "bjMedian": 15000,
     "bjMin": 12000,
@@ -3371,6 +3935,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 20000,
+    "bjMedian": 10500,
+    "bjMin": 7000,
+    "bjMax": 15000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
    }
   },
   "oyPrice": 20000
@@ -3438,6 +4014,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.64
+   },
+   "2026-09-09": {
+    "oy": 21900,
+    "bjMedian": 14000,
+    "bjMin": 10000,
+    "bjMax": 30000,
+    "bjCount": 24,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 21900
@@ -3500,6 +4088,18 @@
     "bjMin": 7000,
     "bjMax": 16000,
     "bjCount": 19,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
+   },
+   "2026-09-09": {
+    "oy": 11200,
+    "bjMedian": 8500,
+    "bjMin": 7000,
+    "bjMax": 16000,
+    "bjCount": 18,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -3591,6 +4191,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.74
+   },
+   "2026-09-09": {
+    "oy": 54000,
+    "bjMedian": 40000,
+    "bjMin": 33000,
+    "bjMax": 48000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
    }
   },
   "oyPrice": 54000
@@ -3658,6 +4270,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.72
+   },
+   "2026-09-09": {
+    "oy": 20700,
+    "bjMedian": 14500,
+    "bjMin": 8000,
+    "bjMax": 23000,
+    "bjCount": 32,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.7
    }
   },
   "oyPrice": 20700
@@ -3715,6 +4339,18 @@
     "premium": 0.65
    },
    "2026-09-08": {
+    "oy": 29000,
+    "bjMedian": 18900,
+    "bjMin": 14000,
+    "bjMax": 23000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.65
+   },
+   "2026-09-09": {
     "oy": 29000,
     "bjMedian": 18900,
     "bjMin": 14000,
@@ -3792,6 +4428,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.79
+   },
+   "2026-09-09": {
+    "oy": 189900,
+    "bjMedian": 150000,
+    "bjMin": 60000,
+    "bjMax": 299000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
    }
   },
   "oyPrice": 189900
@@ -3859,6 +4507,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.78
+   },
+   "2026-09-09": {
+    "oy": 38500,
+    "bjMedian": 27500,
+    "bjMin": 11000,
+    "bjMax": 37000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
   "oyPrice": 38500
@@ -3926,6 +4586,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.79
+   },
+   "2026-09-09": {
+    "oy": 13500,
+    "bjMedian": 10800,
+    "bjMin": 6000,
+    "bjMax": 20000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
    }
   },
   "oyPrice": 13500
@@ -3983,6 +4655,18 @@
     "premium": 0.75
    },
    "2026-09-08": {
+    "oy": 8700,
+    "bjMedian": 6500,
+    "bjMin": 3000,
+    "bjMax": 11000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.75
+   },
+   "2026-09-09": {
     "oy": 8700,
     "bjMedian": 6500,
     "bjMin": 3000,
@@ -4060,6 +4744,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.7
+   },
+   "2026-09-09": {
+    "oy": 22900,
+    "bjMedian": 16000,
+    "bjMin": 13000,
+    "bjMax": 17800,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.7
    }
   },
   "oyPrice": 22900
@@ -4117,6 +4813,18 @@
     "premium": 0.67
    },
    "2026-09-08": {
+    "oy": 75000,
+    "bjMedian": 50000,
+    "bjMin": 34000,
+    "bjMax": 59000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
+   },
+   "2026-09-09": {
     "oy": 75000,
     "bjMedian": 50000,
     "bjMin": 34000,
@@ -4213,6 +4921,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.77
+   },
+   "2026-09-09": {
+    "oy": 25850,
+    "bjMedian": 20000,
+    "bjMin": 10000,
+    "bjMax": 37000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.77
    }
   },
   "oyPrice": 25850
@@ -4280,6 +5000,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.7
+   },
+   "2026-09-09": {
+    "oy": 37000,
+    "bjMedian": 25000,
+    "bjMin": 19800,
+    "bjMax": 32000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
    }
   },
   "oyPrice": 37000
@@ -4347,6 +5079,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.55
+   },
+   "2026-09-09": {
+    "oy": 40000,
+    "bjMedian": 21000,
+    "bjMin": 19000,
+    "bjMax": 24000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
    }
   },
   "oyPrice": 40000
@@ -4404,6 +5148,18 @@
     "premium": 0.68
    },
    "2026-09-08": {
+    "oy": 28100,
+    "bjMedian": 19000,
+    "bjMin": 12000,
+    "bjMax": 39000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
+   },
+   "2026-09-09": {
     "oy": 28100,
     "bjMedian": 19000,
     "bjMin": 12000,
@@ -4481,6 +5237,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 13930,
+    "bjMedian": 9315,
+    "bjMin": 6800,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
   "oyPrice": 13930
@@ -4548,6 +5316,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 32300,
+    "bjMedian": 23000,
+    "bjMin": 19000,
+    "bjMax": 49000,
+    "bjCount": 19,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
   "oyPrice": 32300
@@ -4605,6 +5385,18 @@
     "premium": 0.76
    },
    "2026-09-08": {
+    "oy": 105330,
+    "bjMedian": 80000,
+    "bjMin": 63000,
+    "bjMax": 129000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
+   },
+   "2026-09-09": {
     "oy": 105330,
     "bjMedian": 80000,
     "bjMin": 63000,
@@ -4682,6 +5474,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.7
+   },
+   "2026-09-09": {
+    "oy": 41600,
+    "bjMedian": 28500,
+    "bjMin": 17000,
+    "bjMax": 40000,
+    "bjCount": 24,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
    }
   },
   "oyPrice": 41600
@@ -4739,6 +5543,18 @@
     "premium": 0.73
    },
    "2026-09-08": {
+    "oy": 26140,
+    "bjMedian": 19000,
+    "bjMin": 17000,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.73
+   },
+   "2026-09-09": {
     "oy": 26140,
     "bjMedian": 19000,
     "bjMin": 17000,
@@ -4816,6 +5632,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 39000,
+    "bjMedian": 20000,
+    "bjMin": 12000,
+    "bjMax": 22000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 39000
@@ -4837,6 +5665,18 @@
     "premium": 0.74
    },
    "2026-09-08": {
+    "oy": 20000,
+    "bjMedian": 12500,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
+   },
+   "2026-09-09": {
     "oy": 20000,
     "bjMedian": 12500,
     "bjMin": 5000,
@@ -4914,6 +5754,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.69
+   },
+   "2026-09-09": {
+    "oy": 14400,
+    "bjMedian": 9450,
+    "bjMin": 7500,
+    "bjMax": 20000,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
   "oyPrice": 14400
@@ -4971,6 +5823,18 @@
     "premium": 0.77
    },
    "2026-09-08": {
+    "oy": 20900,
+    "bjMedian": 15500,
+    "bjMin": 8000,
+    "bjMax": 21800,
+    "bjCount": 38,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
+   },
+   "2026-09-09": {
     "oy": 20900,
     "bjMedian": 15500,
     "bjMin": 8000,
@@ -5048,6 +5912,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 9000,
+    "bjMedian": 5000,
+    "bjMin": 2500,
+    "bjMax": 8600,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 9000
@@ -5115,6 +5991,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 32150,
+    "bjMedian": 20400,
+    "bjMin": 14000,
+    "bjMax": 31000,
+    "bjCount": 34,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 32150
@@ -5172,6 +6060,18 @@
     "premium": 0.55
    },
    "2026-09-08": {
+    "oy": 19000,
+    "bjMedian": 10500,
+    "bjMin": 7900,
+    "bjMax": 12000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
+   },
+   "2026-09-09": {
     "oy": 19000,
     "bjMedian": 10500,
     "bjMin": 7900,
@@ -5335,6 +6235,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 19000,
+    "bjMedian": 11850,
+    "bjMin": 5000,
+    "bjMax": 23000,
+    "bjCount": 38,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.62
    }
   },
   "oyPrice": 19000
@@ -5392,6 +6304,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 23900,
+    "bjMedian": 15000,
+    "bjMin": 10000,
+    "bjMax": 25000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
+   },
+   "2026-09-09": {
     "oy": 23900,
     "bjMedian": 15000,
     "bjMin": 10000,
@@ -5469,13 +6393,25 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.72
+   },
+   "2026-09-09": {
+    "oy": 17960,
+    "bjMedian": 13000,
+    "bjMin": 9000,
+    "bjMax": 15000,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
    }
   },
   "oyPrice": 17960
  },
  "A000000156111": {
   "brand": "라네즈",
-  "name": "[9월 올영픽/+미니3종] 라네즈 립 슬리핑 마스크 20g",
+  "name": "[9월 올영픽/각질멜팅] 라네즈 립 슬리핑 마스크 20g",
   "days": {
    "2026-09-04": {
     "oy": 15200,
@@ -5536,9 +6472,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 14000,
+    "bjMedian": 11000,
+    "bjMin": 6500,
+    "bjMax": 25000,
+    "bjCount": 22,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
    }
   },
-  "oyPrice": 15400
+  "oyPrice": 14000
  },
  "B000000266839": {
   "brand": "레고",
@@ -5593,6 +6541,18 @@
     "premium": 0.72
    },
    "2026-09-08": {
+    "oy": 95920,
+    "bjMedian": 69250,
+    "bjMin": 50000,
+    "bjMax": 106000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   },
+   "2026-09-09": {
     "oy": 95920,
     "bjMedian": 69250,
     "bjMin": 50000,
@@ -5670,6 +6630,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 29700,
+    "bjMedian": 20500,
+    "bjMin": 12000,
+    "bjMax": 29000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
    }
   },
   "oyPrice": 29700
@@ -5727,6 +6699,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 28500,
+    "bjMedian": 16000,
+    "bjMin": 14000,
+    "bjMax": 25000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 28500,
     "bjMedian": 16000,
     "bjMin": 14000,
@@ -5804,9 +6788,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.48
+   },
+   "2026-09-09": {
+    "oy": 23800,
+    "bjMedian": 16000,
+    "bjMin": 9000,
+    "bjMax": 23800,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
-  "oyPrice": 33300
+  "oyPrice": 23800
  },
  "A000000263538": {
   "brand": "피지오겔",
@@ -5861,6 +6857,18 @@
     "premium": 0.72
    },
    "2026-09-08": {
+    "oy": 20900,
+    "bjMedian": 15000,
+    "bjMin": 12000,
+    "bjMax": 18900,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   },
+   "2026-09-09": {
     "oy": 20900,
     "bjMedian": 15000,
     "bjMin": 12000,
@@ -5938,6 +6946,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.58
+   },
+   "2026-09-09": {
+    "oy": 59000,
+    "bjMedian": 33000,
+    "bjMin": 20000,
+    "bjMax": 48000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 59000
@@ -5995,6 +7015,18 @@
     "premium": 0.57
    },
    "2026-09-08": {
+    "oy": 29200,
+    "bjMedian": 16000,
+    "bjMin": 8000,
+    "bjMax": 23400,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
+   },
+   "2026-09-09": {
     "oy": 29200,
     "bjMedian": 16000,
     "bjMin": 8000,
@@ -6072,6 +7104,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.64
+   },
+   "2026-09-09": {
+    "oy": 24900,
+    "bjMedian": 16000,
+    "bjMin": 8000,
+    "bjMax": 22300,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 24900
@@ -6139,6 +7183,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.66
+   },
+   "2026-09-09": {
+    "oy": 14400,
+    "bjMedian": 9900,
+    "bjMin": 6500,
+    "bjMax": 20000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
    }
   },
   "oyPrice": 14400
@@ -6196,6 +7252,18 @@
     "premium": 0.55
    },
    "2026-09-08": {
+    "oy": 25500,
+    "bjMedian": 14000,
+    "bjMin": 14000,
+    "bjMax": 14000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
+   },
+   "2026-09-09": {
     "oy": 25500,
     "bjMedian": 14000,
     "bjMin": 14000,
@@ -6273,6 +7341,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 18000,
+    "bjMedian": 9700,
+    "bjMin": 8000,
+    "bjMax": 10000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 18000
@@ -6330,6 +7410,18 @@
     "premium": 0.59
    },
    "2026-09-08": {
+    "oy": 8500,
+    "bjMedian": 5000,
+    "bjMin": 3000,
+    "bjMax": 6500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   },
+   "2026-09-09": {
     "oy": 8500,
     "bjMedian": 5000,
     "bjMin": 3000,
@@ -6407,6 +7499,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.93
+   },
+   "2026-09-09": {
+    "oy": 8900,
+    "bjMedian": 8250,
+    "bjMin": 7000,
+    "bjMax": 10000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.93
    }
   },
   "oyPrice": 8900
@@ -6464,6 +7568,18 @@
     "premium": 0.65
    },
    "2026-09-08": {
+    "oy": 53900,
+    "bjMedian": 35000,
+    "bjMin": 34000,
+    "bjMax": 40000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.65
+   },
+   "2026-09-09": {
     "oy": 53900,
     "bjMedian": 35000,
     "bjMin": 34000,
@@ -6541,6 +7657,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 7900,
+    "bjMedian": 5000,
+    "bjMin": 3500,
+    "bjMax": 6500,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 7900
@@ -6598,6 +7726,18 @@
     "premium": 0.35
    },
    "2026-09-08": {
+    "oy": 45000,
+    "bjMedian": 15900,
+    "bjMin": 15000,
+    "bjMax": 17000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
+   },
+   "2026-09-09": {
     "oy": 45000,
     "bjMedian": 15900,
     "bjMin": 15000,
@@ -6675,6 +7815,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.65
+   },
+   "2026-09-09": {
+    "oy": 10500,
+    "bjMedian": 7000,
+    "bjMin": 4000,
+    "bjMax": 14900,
+    "bjCount": 27,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
   "oyPrice": 10500
@@ -6732,6 +7884,18 @@
     "premium": 0.59
    },
    "2026-09-08": {
+    "oy": 16000,
+    "bjMedian": 9250,
+    "bjMin": 9000,
+    "bjMax": 10000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
+   },
+   "2026-09-09": {
     "oy": 16000,
     "bjMedian": 9250,
     "bjMin": 9000,
@@ -6809,6 +7973,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.66
+   },
+   "2026-09-09": {
+    "oy": 27900,
+    "bjMedian": 18500,
+    "bjMin": 18000,
+    "bjMax": 25000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
   "oyPrice": 27900
@@ -6866,6 +8042,18 @@
     "premium": 0.67
    },
    "2026-09-08": {
+    "oy": 16500,
+    "bjMedian": 11000,
+    "bjMin": 10000,
+    "bjMax": 15000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
+   },
+   "2026-09-09": {
     "oy": 16500,
     "bjMedian": 11000,
     "bjMin": 10000,
@@ -6943,6 +8131,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.64
+   },
+   "2026-09-09": {
+    "oy": 18700,
+    "bjMedian": 11900,
+    "bjMin": 5000,
+    "bjMax": 16500,
+    "bjCount": 30,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 18700
@@ -7010,6 +8210,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.58
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 11000,
+    "bjMin": 5000,
+    "bjMax": 16500,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
    }
   },
   "oyPrice": 18900
@@ -7067,6 +8279,18 @@
     "premium": 0.67
    },
    "2026-09-08": {
+    "oy": 48960,
+    "bjMedian": 33000,
+    "bjMin": 25000,
+    "bjMax": 35000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
+   },
+   "2026-09-09": {
     "oy": 48960,
     "bjMedian": 33000,
     "bjMin": 25000,
@@ -7144,6 +8368,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.66
+   },
+   "2026-09-09": {
+    "oy": 9000,
+    "bjMedian": 5700,
+    "bjMin": 4000,
+    "bjMax": 9000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 9000
@@ -7211,6 +8447,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.68
+   },
+   "2026-09-09": {
+    "oy": 13200,
+    "bjMedian": 9000,
+    "bjMin": 4300,
+    "bjMax": 15000,
+    "bjCount": 25,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
    }
   },
   "oyPrice": 13200
@@ -7268,6 +8516,18 @@
     "premium": 0.67
    },
    "2026-09-08": {
+    "oy": 7100,
+    "bjMedian": 4750,
+    "bjMin": 4500,
+    "bjMax": 5630,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
+   },
+   "2026-09-09": {
     "oy": 7100,
     "bjMedian": 4750,
     "bjMin": 4500,
@@ -7345,6 +8605,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 32200,
+    "bjMedian": 19000,
+    "bjMin": 10000,
+    "bjMax": 20000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
    }
   },
   "oyPrice": 32200
@@ -7443,9 +8715,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 15200,
+    "bjMedian": 10000,
+    "bjMin": 6000,
+    "bjMax": 19000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
-  "oyPrice": 16000
+  "oyPrice": 15200
  },
  "A000000238601": {
   "brand": "어바웃톤",
@@ -7500,6 +8784,18 @@
     "premium": 0.55
    },
    "2026-09-08": {
+    "oy": 11900,
+    "bjMedian": 6500,
+    "bjMin": 2500,
+    "bjMax": 7000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
+   },
+   "2026-09-09": {
     "oy": 11900,
     "bjMedian": 6500,
     "bjMin": 2500,
@@ -7577,6 +8873,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.62
+   },
+   "2026-09-09": {
+    "oy": 28880,
+    "bjMedian": 18000,
+    "bjMin": 14000,
+    "bjMax": 20000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.62
    }
   },
   "oyPrice": 28880
@@ -7634,6 +8942,18 @@
     "premium": 0.66
    },
    "2026-09-08": {
+    "oy": 19800,
+    "bjMedian": 13000,
+    "bjMin": 12000,
+    "bjMax": 13000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
+   },
+   "2026-09-09": {
     "oy": 19800,
     "bjMedian": 13000,
     "bjMin": 12000,
@@ -7711,6 +9031,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 25000,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 22000,
+    "bjCount": 19,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 25000
@@ -7778,9 +9110,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.48
+   },
+   "2026-09-09": {
+    "oy": 12800,
+    "bjMedian": 7500,
+    "bjMin": 5000,
+    "bjMax": 9900,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
    }
   },
-  "oyPrice": 16000
+  "oyPrice": 12800
  },
  "A000000244064": {
   "brand": "트리셀",
@@ -7835,6 +9179,18 @@
     "premium": 0.66
    },
    "2026-09-08": {
+    "oy": 16630,
+    "bjMedian": 11000,
+    "bjMin": 10500,
+    "bjMax": 12500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
+   },
+   "2026-09-09": {
     "oy": 16630,
     "bjMedian": 11000,
     "bjMin": 10500,
@@ -7912,6 +9268,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.55
+   },
+   "2026-09-09": {
+    "oy": 23800,
+    "bjMedian": 13000,
+    "bjMin": 11000,
+    "bjMax": 30000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
    }
   },
   "oyPrice": 23800
@@ -7969,6 +9337,18 @@
     "premium": 0.61
    },
    "2026-09-08": {
+    "oy": 21250,
+    "bjMedian": 13000,
+    "bjMin": 9900,
+    "bjMax": 19900,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
+   },
+   "2026-09-09": {
     "oy": 21250,
     "bjMedian": 13000,
     "bjMin": 9900,
@@ -8046,6 +9426,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.59
+   },
+   "2026-09-09": {
+    "oy": 22100,
+    "bjMedian": 13000,
+    "bjMin": 11000,
+    "bjMax": 20000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
    }
   },
   "oyPrice": 22100
@@ -8103,6 +9495,18 @@
     "premium": 0.6
    },
    "2026-09-08": {
+    "oy": 20600,
+    "bjMedian": 12380,
+    "bjMin": 6000,
+    "bjMax": 21270,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   },
+   "2026-09-09": {
     "oy": 20600,
     "bjMedian": 12380,
     "bjMin": 6000,
@@ -8180,6 +9584,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.58
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 11000,
+    "bjMin": 6500,
+    "bjMax": 22000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
    }
   },
   "oyPrice": 18900
@@ -8237,6 +9653,18 @@
     "premium": 0.54
    },
    "2026-09-08": {
+    "oy": 12900,
+    "bjMedian": 7000,
+    "bjMin": 4000,
+    "bjMax": 12000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
     "oy": 12900,
     "bjMedian": 7000,
     "bjMin": 4000,
@@ -8314,6 +9742,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 12000,
+    "bjMin": 6000,
+    "bjMax": 18000,
+    "bjCount": 22,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 18900
@@ -8371,6 +9811,18 @@
     "premium": 0.57
    },
    "2026-09-08": {
+    "oy": 15000,
+    "bjMedian": 8500,
+    "bjMin": 5000,
+    "bjMax": 16700,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   },
+   "2026-09-09": {
     "oy": 15000,
     "bjMedian": 8500,
     "bjMin": 5000,
@@ -8448,6 +9900,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.39
+   },
+   "2026-09-09": {
+    "oy": 14000,
+    "bjMedian": 5250,
+    "bjMin": 4500,
+    "bjMax": 5900,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
    }
   },
   "oyPrice": 14000
@@ -8505,6 +9969,18 @@
     "premium": 0.42
    },
    "2026-09-08": {
+    "oy": 18000,
+    "bjMedian": 7500,
+    "bjMin": 5900,
+    "bjMax": 8500,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
+   },
+   "2026-09-09": {
     "oy": 18000,
     "bjMedian": 7500,
     "bjMin": 5900,
@@ -8582,6 +10058,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.6
+   },
+   "2026-09-09": {
+    "oy": 149000,
+    "bjMedian": 90250,
+    "bjMin": 60000,
+    "bjMax": 170000,
+    "bjCount": 21,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 149000
@@ -8639,6 +10127,18 @@
     "premium": 0.59
    },
    "2026-09-08": {
+    "oy": 9200,
+    "bjMedian": 5400,
+    "bjMin": 4250,
+    "bjMax": 5500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   },
+   "2026-09-09": {
     "oy": 9200,
     "bjMedian": 5400,
     "bjMin": 4250,
@@ -8716,6 +10216,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 11100,
+    "bjMedian": 7000,
+    "bjMin": 3000,
+    "bjMax": 15000,
+    "bjCount": 27,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 11100
@@ -8778,6 +10290,18 @@
     "bjMin": 7000,
     "bjMax": 23000,
     "bjCount": 35,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   },
+   "2026-09-09": {
+    "oy": 26900,
+    "bjMedian": 16000,
+    "bjMin": 7000,
+    "bjMax": 23000,
+    "bjCount": 36,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -8850,6 +10374,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.58
+   },
+   "2026-09-09": {
+    "oy": 20600,
+    "bjMedian": 11450,
+    "bjMin": 8000,
+    "bjMax": 18000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 20600
@@ -8907,6 +10443,18 @@
     "premium": 0.64
    },
    "2026-09-08": {
+    "oy": 10900,
+    "bjMedian": 7000,
+    "bjMin": 5000,
+    "bjMax": 7000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
+   },
+   "2026-09-09": {
     "oy": 10900,
     "bjMedian": 7000,
     "bjMin": 5000,
@@ -8984,6 +10532,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 17550,
+    "bjMedian": 11000,
+    "bjMin": 8500,
+    "bjMax": 15000,
+    "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 17550
@@ -9041,6 +10601,18 @@
     "premium": 0.6
    },
    "2026-09-08": {
+    "oy": 21500,
+    "bjMedian": 13000,
+    "bjMin": 11000,
+    "bjMax": 27000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
+   },
+   "2026-09-09": {
     "oy": 21500,
     "bjMedian": 13000,
     "bjMin": 11000,
@@ -9118,6 +10690,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 21000,
+    "bjMedian": 15500,
+    "bjMin": 7440,
+    "bjMax": 16000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
    }
   },
   "oyPrice": 21000
@@ -9185,6 +10769,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.6
+   },
+   "2026-09-09": {
+    "oy": 11700,
+    "bjMedian": 7000,
+    "bjMin": 5000,
+    "bjMax": 12000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
    }
   },
   "oyPrice": 11700
@@ -9242,6 +10838,18 @@
     "premium": 0.57
    },
    "2026-09-08": {
+    "oy": 7900,
+    "bjMedian": 4500,
+    "bjMin": 2970,
+    "bjMax": 6000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   },
+   "2026-09-09": {
     "oy": 7900,
     "bjMedian": 4500,
     "bjMin": 2970,
@@ -9319,6 +10927,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 89900,
+    "bjMedian": 55000,
+    "bjMin": 23000,
+    "bjMax": 70000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 89900
@@ -9376,6 +10996,18 @@
     "premium": 0.44
    },
    "2026-09-08": {
+    "oy": 22220,
+    "bjMedian": 9800,
+    "bjMin": 8000,
+    "bjMax": 14900,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
+   },
+   "2026-09-09": {
     "oy": 22220,
     "bjMedian": 9800,
     "bjMin": 8000,
@@ -9453,6 +11085,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.44
+   },
+   "2026-09-09": {
+    "oy": 22000,
+    "bjMedian": 9300,
+    "bjMin": 5500,
+    "bjMax": 12900,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
    }
   },
   "oyPrice": 22000
@@ -9498,6 +11142,18 @@
     "premium": 0.61
    },
    "2026-09-08": {
+    "oy": 489000,
+    "bjMedian": 310000,
+    "bjMin": 280000,
+    "bjMax": 840000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
+   },
+   "2026-09-09": {
     "oy": 489000,
     "bjMedian": 310000,
     "bjMin": 280000,
@@ -9594,6 +11250,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.42
+   },
+   "2026-09-09": {
+    "oy": 12000,
+    "bjMedian": 5000,
+    "bjMin": 3000,
+    "bjMax": 9200,
+    "bjCount": 23,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
    }
   },
   "oyPrice": 12000
@@ -9661,6 +11329,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.45
+   },
+   "2026-09-09": {
+    "oy": 38000,
+    "bjMedian": 16500,
+    "bjMin": 10000,
+    "bjMax": 25000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 38000
@@ -9728,6 +11408,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.49
+   },
+   "2026-09-09": {
+    "oy": 37900,
+    "bjMedian": 18000,
+    "bjMin": 9000,
+    "bjMax": 30000,
+    "bjCount": 31,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
    }
   },
   "oyPrice": 37900
@@ -9785,6 +11477,18 @@
     "premium": 0.63
    },
    "2026-09-08": {
+    "oy": 17500,
+    "bjMedian": 12000,
+    "bjMin": 10000,
+    "bjMax": 20000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
+   },
+   "2026-09-09": {
     "oy": 17500,
     "bjMedian": 12000,
     "bjMin": 10000,
@@ -9862,6 +11566,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 30400,
+    "bjMedian": 16950,
+    "bjMin": 13000,
+    "bjMax": 30000,
+    "bjCount": 30,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 30400
@@ -9929,6 +11645,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.66
+   },
+   "2026-09-09": {
+    "oy": 28900,
+    "bjMedian": 17000,
+    "bjMin": 7500,
+    "bjMax": 28000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
    }
   },
   "oyPrice": 28900
@@ -9996,6 +11724,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 22300,
+    "bjMedian": 11950,
+    "bjMin": 9000,
+    "bjMax": 15000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 22300
@@ -10053,6 +11793,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 26900,
+    "bjMedian": 15000,
+    "bjMin": 13000,
+    "bjMax": 23000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 26900,
     "bjMedian": 15000,
     "bjMin": 13000,
@@ -10130,9 +11882,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.28
+   },
+   "2026-09-09": {
+    "oy": 29400,
+    "bjMedian": 13000,
+    "bjMin": 9000,
+    "bjMax": 22000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
    }
   },
-  "oyPrice": 39000
+  "oyPrice": 29400
  },
  "A000000158615": {
   "brand": "디오디너리",
@@ -10187,6 +11951,18 @@
     "premium": 0.59
    },
    "2026-09-08": {
+    "oy": 15700,
+    "bjMedian": 9250,
+    "bjMin": 8000,
+    "bjMax": 12000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   },
+   "2026-09-09": {
     "oy": 15700,
     "bjMedian": 9250,
     "bjMin": 8000,
@@ -10264,6 +12040,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 24960,
+    "bjMedian": 14000,
+    "bjMin": 10900,
+    "bjMax": 24500,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 24960
@@ -10331,6 +12119,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.45
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 9000,
+    "bjMin": 4000,
+    "bjMax": 14000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.48
    }
   },
   "oyPrice": 18900
@@ -10388,6 +12188,18 @@
     "premium": 0.49
    },
    "2026-09-08": {
+    "oy": 11200,
+    "bjMedian": 5500,
+    "bjMin": 5500,
+    "bjMax": 7900,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.49
+   },
+   "2026-09-09": {
     "oy": 11200,
     "bjMedian": 5500,
     "bjMin": 5500,
@@ -10465,6 +12277,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 16900,
+    "bjMedian": 8500,
+    "bjMin": 7000,
+    "bjMax": 9000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 16900
@@ -10522,6 +12346,18 @@
     "premium": 0.57
    },
    "2026-09-08": {
+    "oy": 18900,
+    "bjMedian": 10800,
+    "bjMin": 5000,
+    "bjMax": 19000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   },
+   "2026-09-09": {
     "oy": 18900,
     "bjMedian": 10800,
     "bjMin": 5000,
@@ -10599,6 +12435,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 22900,
+    "bjMedian": 14000,
+    "bjMin": 10630,
+    "bjMax": 15000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 22900
@@ -10656,6 +12504,18 @@
     "premium": 0.47
    },
    "2026-09-08": {
+    "oy": 40900,
+    "bjMedian": 21250,
+    "bjMin": 11000,
+    "bjMax": 43000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
+   },
+   "2026-09-09": {
     "oy": 40900,
     "bjMedian": 21250,
     "bjMin": 11000,
@@ -10733,6 +12593,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 38900,
+    "bjMedian": 21000,
+    "bjMin": 15000,
+    "bjMax": 34900,
+    "bjCount": 30,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 38900
@@ -10790,6 +12662,18 @@
     "premium": 0.54
    },
    "2026-09-08": {
+    "oy": 29900,
+    "bjMedian": 16000,
+    "bjMin": 12500,
+    "bjMax": 21000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
     "oy": 29900,
     "bjMedian": 16000,
     "bjMin": 12500,
@@ -10867,6 +12751,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.55
+   },
+   "2026-09-09": {
+    "oy": 27000,
+    "bjMedian": 14500,
+    "bjMin": 10000,
+    "bjMax": 23000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 27000
@@ -10924,6 +12820,18 @@
     "premium": 0.37
    },
    "2026-09-08": {
+    "oy": 15000,
+    "bjMedian": 5500,
+    "bjMin": 2500,
+    "bjMax": 12000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
+   },
+   "2026-09-09": {
     "oy": 15000,
     "bjMedian": 5500,
     "bjMin": 2500,
@@ -11001,6 +12909,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.46
+   },
+   "2026-09-09": {
+    "oy": 21300,
+    "bjMedian": 9900,
+    "bjMin": 9000,
+    "bjMax": 14000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.46
    }
   },
   "oyPrice": 21300
@@ -11068,6 +12988,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.58
+   },
+   "2026-09-09": {
+    "oy": 15400,
+    "bjMedian": 9000,
+    "bjMin": 4900,
+    "bjMax": 18000,
+    "bjCount": 32,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
    }
   },
   "oyPrice": 15400
@@ -11125,6 +13057,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 13500,
+    "bjMedian": 7500,
+    "bjMin": 6380,
+    "bjMax": 9000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 13500,
     "bjMedian": 7500,
     "bjMin": 6380,
@@ -11202,6 +13146,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 27600,
+    "bjMedian": 14000,
+    "bjMin": 9000,
+    "bjMax": 28000,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 27600
@@ -11259,6 +13215,18 @@
     "premium": 0.53
    },
    "2026-09-08": {
+    "oy": 35870,
+    "bjMedian": 19000,
+    "bjMin": 17000,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
+   },
+   "2026-09-09": {
     "oy": 35870,
     "bjMedian": 19000,
     "bjMin": 17000,
@@ -11336,6 +13304,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.46
+   },
+   "2026-09-09": {
+    "oy": 25900,
+    "bjMedian": 12950,
+    "bjMin": 10000,
+    "bjMax": 22900,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 25900
@@ -11403,6 +13383,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.52
+   },
+   "2026-09-09": {
+    "oy": 24900,
+    "bjMedian": 15000,
+    "bjMin": 10000,
+    "bjMax": 18000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
    }
   },
   "oyPrice": 24900
@@ -11460,6 +13452,18 @@
     "premium": 0.38
    },
    "2026-09-08": {
+    "oy": 17000,
+    "bjMedian": 6500,
+    "bjMin": 5000,
+    "bjMax": 7500,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
+   },
+   "2026-09-09": {
     "oy": 17000,
     "bjMedian": 6500,
     "bjMin": 5000,
@@ -11537,6 +13541,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 16900,
+    "bjMedian": 8500,
+    "bjMin": 8000,
+    "bjMax": 10000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 16900
@@ -11594,6 +13610,18 @@
     "premium": 0.45
    },
    "2026-09-08": {
+    "oy": 8800,
+    "bjMedian": 4000,
+    "bjMin": 3000,
+    "bjMax": 6000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
+   },
+   "2026-09-09": {
     "oy": 8800,
     "bjMedian": 4000,
     "bjMin": 3000,
@@ -11671,6 +13699,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 19800,
+    "bjMedian": 12000,
+    "bjMin": 5000,
+    "bjMax": 28000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 19800
@@ -11733,6 +13773,18 @@
     "bjMin": 14000,
     "bjMax": 32000,
     "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 29900,
+    "bjMedian": 16000,
+    "bjMin": 14000,
+    "bjMax": 28000,
+    "bjCount": 11,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -11805,6 +13857,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 15500,
+    "bjMedian": 8000,
+    "bjMin": 5500,
+    "bjMax": 14000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 15500
@@ -11872,6 +13936,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 17600,
+    "bjMedian": 9000,
+    "bjMin": 6500,
+    "bjMax": 16000,
+    "bjCount": 21,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 17600
@@ -11929,6 +14005,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 14310,
+    "bjMedian": 8000,
+    "bjMin": 7000,
+    "bjMax": 8000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 14310,
     "bjMedian": 8000,
     "bjMin": 7000,
@@ -12006,6 +14094,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 21900,
+    "bjMedian": 10750,
+    "bjMin": 8500,
+    "bjMax": 18000,
+    "bjCount": 24,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.49
    }
   },
   "oyPrice": 21900
@@ -12063,6 +14163,18 @@
     "premium": 0.36
    },
    "2026-09-08": {
+    "oy": 23900,
+    "bjMedian": 8500,
+    "bjMin": 5800,
+    "bjMax": 12000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
+   },
+   "2026-09-09": {
     "oy": 23900,
     "bjMedian": 8500,
     "bjMin": 5800,
@@ -12140,6 +14252,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.42
+   },
+   "2026-09-09": {
+    "oy": 26900,
+    "bjMedian": 11170,
+    "bjMin": 10000,
+    "bjMax": 17020,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
    }
   },
   "oyPrice": 26900
@@ -12207,9 +14331,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 12800,
+    "bjMedian": 5750,
+    "bjMin": 5500,
+    "bjMax": 8900,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
    }
   },
-  "oyPrice": 19800
+  "oyPrice": 12800
  },
  "A000000205908": {
   "brand": "VDL",
@@ -12269,6 +14405,18 @@
     "bjMin": 6000,
     "bjMax": 21270,
     "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 19500,
+    "bjMedian": 11000,
+    "bjMin": 6000,
+    "bjMax": 21270,
+    "bjCount": 27,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -12341,6 +14489,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.45
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 9000,
+    "bjMin": 4000,
+    "bjMax": 17000,
+    "bjCount": 36,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.48
    }
   },
   "oyPrice": 18900
@@ -12398,6 +14558,18 @@
     "premium": 0.52
    },
    "2026-09-08": {
+    "oy": 22900,
+    "bjMedian": 12000,
+    "bjMin": 9600,
+    "bjMax": 17500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
+   },
+   "2026-09-09": {
     "oy": 22900,
     "bjMedian": 12000,
     "bjMin": 9600,
@@ -12475,6 +14647,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 18360,
+    "bjMedian": 10000,
+    "bjMin": 10000,
+    "bjMax": 18000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 18360
@@ -12532,6 +14716,18 @@
     "premium": 0.47
    },
    "2026-09-08": {
+    "oy": 16900,
+    "bjMedian": 8000,
+    "bjMin": 4400,
+    "bjMax": 11000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   },
+   "2026-09-09": {
     "oy": 16900,
     "bjMedian": 8000,
     "bjMin": 4400,
@@ -12609,6 +14805,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.42
+   },
+   "2026-09-09": {
+    "oy": 28800,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 18000,
+    "bjCount": 29,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
    }
   },
   "oyPrice": 28800
@@ -12726,6 +14934,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 139900,
+    "bjMedian": 73700,
+    "bjMin": 65000,
+    "bjMax": 120000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
    }
   },
   "oyPrice": 139900
@@ -12793,6 +15013,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 19500,
+    "bjMedian": 10500,
+    "bjMin": 6000,
+    "bjMax": 20000,
+    "bjCount": 22,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 19500
@@ -12860,6 +15092,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 9900,
+    "bjMedian": 5000,
+    "bjMin": 3000,
+    "bjMax": 10700,
+    "bjCount": 35,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 9900
@@ -12917,6 +15161,18 @@
     "premium": 0.41
    },
    "2026-09-08": {
+    "oy": 29000,
+    "bjMedian": 12000,
+    "bjMin": 10900,
+    "bjMax": 12000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 29000,
     "bjMedian": 12000,
     "bjMin": 10900,
@@ -12994,6 +15250,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 31500,
+    "bjMedian": 16000,
+    "bjMin": 7440,
+    "bjMax": 26000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 31500
@@ -13051,6 +15319,18 @@
     "premium": 0.48
    },
    "2026-09-08": {
+    "oy": 25900,
+    "bjMedian": 15000,
+    "bjMin": 7500,
+    "bjMax": 17000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
+   },
+   "2026-09-09": {
     "oy": 25900,
     "bjMedian": 15000,
     "bjMin": 7500,
@@ -13128,6 +15408,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 24210,
+    "bjMedian": 12000,
+    "bjMin": 5000,
+    "bjMax": 22000,
+    "bjCount": 33,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 24210
@@ -13185,6 +15477,18 @@
     "premium": 0.47
    },
    "2026-09-08": {
+    "oy": 27500,
+    "bjMedian": 13000,
+    "bjMin": 8600,
+    "bjMax": 18000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   },
+   "2026-09-09": {
     "oy": 27500,
     "bjMedian": 13000,
     "bjMin": 8600,
@@ -13262,6 +15566,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 12960,
+    "bjMedian": 6500,
+    "bjMin": 4000,
+    "bjMax": 12000,
+    "bjCount": 23,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 12960
@@ -13319,6 +15635,18 @@
     "premium": 0.69
    },
    "2026-09-08": {
+    "oy": 18900,
+    "bjMedian": 13000,
+    "bjMin": 6000,
+    "bjMax": 18000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
+   },
+   "2026-09-09": {
     "oy": 18900,
     "bjMedian": 13000,
     "bjMin": 6000,
@@ -13396,6 +15724,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.38
+   },
+   "2026-09-09": {
+    "oy": 24000,
+    "bjMedian": 9000,
+    "bjMin": 4250,
+    "bjMax": 14000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
    }
   },
   "oyPrice": 24000
@@ -13463,6 +15803,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.41
+   },
+   "2026-09-09": {
+    "oy": 22300,
+    "bjMedian": 9500,
+    "bjMin": 5500,
+    "bjMax": 13500,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 22300
@@ -13530,13 +15882,25 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.37
+   },
+   "2026-09-09": {
+    "oy": 27000,
+    "bjMedian": 10000,
+    "bjMin": 7000,
+    "bjMax": 15000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
    }
   },
   "oyPrice": 27000
  },
  "A000000261423": {
   "brand": "웰라쥬",
-  "name": "웰라쥬 리얼 히알루로닉 블루 100 앰플 100ml 기획 (+60ml 리필+수딩크림 30ml)",
+  "name": "[속건조필수템] 웰라쥬 리얼 히알루로닉 블루 100 앰플 100ml 기획 (+60ml 리필+수딩크림 30ml)",
   "days": {
    "2026-09-04": {
     "oy": 29300,
@@ -13597,6 +15961,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.49
+   },
+   "2026-09-09": {
+    "oy": 30900,
+    "bjMedian": 16000,
+    "bjMin": 6000,
+    "bjMax": 26000,
+    "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 30900
@@ -13654,6 +16030,18 @@
     "premium": 0.41
    },
    "2026-09-08": {
+    "oy": 19500,
+    "bjMedian": 7950,
+    "bjMin": 6000,
+    "bjMax": 15000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 19500,
     "bjMedian": 7950,
     "bjMin": 6000,
@@ -13731,6 +16119,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.45
+   },
+   "2026-09-09": {
+    "oy": 13200,
+    "bjMedian": 5950,
+    "bjMin": 2500,
+    "bjMax": 13000,
+    "bjCount": 33,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
    }
   },
   "oyPrice": 13200
@@ -13788,6 +16188,18 @@
     "premium": 0.36
    },
    "2026-09-08": {
+    "oy": 32000,
+    "bjMedian": 11500,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
+   },
+   "2026-09-09": {
     "oy": 32000,
     "bjMedian": 11500,
     "bjMin": 5000,
@@ -13865,6 +16277,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.46
+   },
+   "2026-09-09": {
+    "oy": 25900,
+    "bjMedian": 12000,
+    "bjMin": 6000,
+    "bjMax": 15000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.46
    }
   },
   "oyPrice": 25900
@@ -13922,6 +16346,18 @@
     "premium": 0.44
    },
    "2026-09-08": {
+    "oy": 22900,
+    "bjMedian": 10000,
+    "bjMin": 7970,
+    "bjMax": 20000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
+   },
+   "2026-09-09": {
     "oy": 22900,
     "bjMedian": 10000,
     "bjMin": 7970,
@@ -13999,6 +16435,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.37
+   },
+   "2026-09-09": {
+    "oy": 29900,
+    "bjMedian": 11000,
+    "bjMin": 8000,
+    "bjMax": 22900,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
    }
   },
   "oyPrice": 29900
@@ -14056,6 +16504,18 @@
     "premium": 0.38
    },
    "2026-09-08": {
+    "oy": 32000,
+    "bjMedian": 15000,
+    "bjMin": 6000,
+    "bjMax": 24000,
+    "bjCount": 25,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   },
+   "2026-09-09": {
     "oy": 32000,
     "bjMedian": 15000,
     "bjMin": 6000,
@@ -14133,6 +16593,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.44
+   },
+   "2026-09-09": {
+    "oy": 27500,
+    "bjMedian": 12000,
+    "bjMin": 7500,
+    "bjMax": 25000,
+    "bjCount": 28,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
    }
   },
   "oyPrice": 27500
@@ -14190,6 +16662,18 @@
     "premium": 0.46
    },
    "2026-09-08": {
+    "oy": 21900,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 24000,
+    "bjCount": 34,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.46
+   },
+   "2026-09-09": {
     "oy": 21900,
     "bjMedian": 10000,
     "bjMin": 5000,
@@ -14267,6 +16751,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.32
+   },
+   "2026-09-09": {
+    "oy": 25000,
+    "bjMedian": 7750,
+    "bjMin": 5400,
+    "bjMax": 14500,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.31
    }
   },
   "oyPrice": 25000
@@ -14324,6 +16820,18 @@
     "premium": 0.36
    },
    "2026-09-08": {
+    "oy": 22000,
+    "bjMedian": 8400,
+    "bjMin": 6700,
+    "bjMax": 17900,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
+   },
+   "2026-09-09": {
     "oy": 22000,
     "bjMedian": 8400,
     "bjMin": 6700,
@@ -14401,6 +16909,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.35
+   },
+   "2026-09-09": {
+    "oy": 39000,
+    "bjMedian": 13500,
+    "bjMin": 9100,
+    "bjMax": 20000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
    }
   },
   "oyPrice": 39000
@@ -14458,6 +16978,18 @@
     "premium": 0.43
    },
    "2026-09-08": {
+    "oy": 20810,
+    "bjMedian": 9000,
+    "bjMin": 4000,
+    "bjMax": 13500,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
+   },
+   "2026-09-09": {
     "oy": 20810,
     "bjMedian": 9000,
     "bjMin": 4000,
@@ -14535,6 +17067,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.34
+   },
+   "2026-09-09": {
+    "oy": 25200,
+    "bjMedian": 8500,
+    "bjMin": 7000,
+    "bjMax": 16000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.34
    }
   },
   "oyPrice": 25200
@@ -14592,6 +17136,18 @@
     "premium": 0.43
    },
    "2026-09-08": {
+    "oy": 23900,
+    "bjMedian": 10350,
+    "bjMin": 7000,
+    "bjMax": 20900,
+    "bjCount": 22,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
+   },
+   "2026-09-09": {
     "oy": 23900,
     "bjMedian": 10350,
     "bjMin": 7000,
@@ -14669,6 +17225,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.44
+   },
+   "2026-09-09": {
+    "oy": 34900,
+    "bjMedian": 16000,
+    "bjMin": 7000,
+    "bjMax": 25000,
+    "bjCount": 19,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.46
    }
   },
   "oyPrice": 34900
@@ -14726,6 +17294,18 @@
     "premium": 0.44
    },
    "2026-09-08": {
+    "oy": 11400,
+    "bjMedian": 5000,
+    "bjMin": 3500,
+    "bjMax": 5400,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
+   },
+   "2026-09-09": {
     "oy": 11400,
     "bjMedian": 5000,
     "bjMin": 3500,
@@ -14858,9 +17438,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.26
+   },
+   "2026-09-09": {
+    "oy": 25000,
+    "bjMedian": 9000,
+    "bjMin": 6000,
+    "bjMax": 13000,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
    }
   },
-  "oyPrice": 35000
+  "oyPrice": 25000
  },
  "A000000200635": {
   "brand": "닥터지",
@@ -14915,6 +17507,18 @@
     "premium": 0.41
    },
    "2026-09-08": {
+    "oy": 19310,
+    "bjMedian": 8000,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 19310,
     "bjMedian": 8000,
     "bjMin": 5000,
@@ -14992,6 +17596,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.44
+   },
+   "2026-09-09": {
+    "oy": 41600,
+    "bjMedian": 18000,
+    "bjMin": 7500,
+    "bjMax": 29360,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 41600
@@ -15054,6 +17670,18 @@
     "bjMin": 8000,
     "bjMax": 17000,
     "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
+    "oy": 24500,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 17000,
+    "bjCount": 13,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -15126,6 +17754,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.33
+   },
+   "2026-09-09": {
+    "oy": 15000,
+    "bjMedian": 4750,
+    "bjMin": 4000,
+    "bjMax": 8000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.32
    }
   },
   "oyPrice": 15000
@@ -15183,6 +17823,18 @@
     "premium": 0.41
    },
    "2026-09-08": {
+    "oy": 25900,
+    "bjMedian": 10500,
+    "bjMin": 5000,
+    "bjMax": 13000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 25900,
     "bjMedian": 10500,
     "bjMin": 5000,
@@ -15260,6 +17912,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 52900,
+    "bjMedian": 21000,
+    "bjMin": 15000,
+    "bjMax": 44000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 52900
@@ -15317,6 +17981,18 @@
     "premium": 0.42
    },
    "2026-09-08": {
+    "oy": 12000,
+    "bjMedian": 5000,
+    "bjMin": 2330,
+    "bjMax": 9000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
+   },
+   "2026-09-09": {
     "oy": 12000,
     "bjMedian": 5000,
     "bjMin": 2330,
@@ -15394,6 +18070,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.41
+   },
+   "2026-09-09": {
+    "oy": 36800,
+    "bjMedian": 15000,
+    "bjMin": 8000,
+    "bjMax": 35000,
+    "bjCount": 32,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
    }
   },
   "oyPrice": 36800
@@ -15461,6 +18149,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.39
+   },
+   "2026-09-09": {
+    "oy": 27900,
+    "bjMedian": 10500,
+    "bjMin": 7000,
+    "bjMax": 15000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
    }
   },
   "oyPrice": 27900
@@ -15518,6 +18218,18 @@
     "premium": 0.41
    },
    "2026-09-08": {
+    "oy": 33500,
+    "bjMedian": 13750,
+    "bjMin": 10000,
+    "bjMax": 23000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 33500,
     "bjMedian": 13750,
     "bjMin": 10000,
@@ -15595,6 +18307,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.42
+   },
+   "2026-09-09": {
+    "oy": 35400,
+    "bjMedian": 15000,
+    "bjMin": 9700,
+    "bjMax": 30000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
    }
   },
   "oyPrice": 35400
@@ -15652,6 +18376,18 @@
     "premium": 0.38
    },
    "2026-09-08": {
+    "oy": 28910,
+    "bjMedian": 11000,
+    "bjMin": 8500,
+    "bjMax": 20000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
+   },
+   "2026-09-09": {
     "oy": 28910,
     "bjMedian": 11000,
     "bjMin": 8500,
@@ -15729,6 +18465,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.34
+   },
+   "2026-09-09": {
+    "oy": 29450,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 25000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.34
    }
   },
   "oyPrice": 29450
@@ -15786,6 +18534,18 @@
     "premium": 0.42
    },
    "2026-09-08": {
+    "oy": 22000,
+    "bjMedian": 8900,
+    "bjMin": 6000,
+    "bjMax": 12000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
+   },
+   "2026-09-09": {
     "oy": 22000,
     "bjMedian": 8900,
     "bjMin": 6000,
@@ -15863,6 +18623,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.39
+   },
+   "2026-09-09": {
+    "oy": 22500,
+    "bjMedian": 9000,
+    "bjMin": 4800,
+    "bjMax": 20000,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 22500
@@ -15930,6 +18702,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 17400,
+    "bjMedian": 7000,
+    "bjMin": 4000,
+    "bjMax": 15000,
+    "bjCount": 35,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 17400
@@ -15987,6 +18771,18 @@
     "premium": 0.37
    },
    "2026-09-08": {
+    "oy": 26900,
+    "bjMedian": 10000,
+    "bjMin": 7500,
+    "bjMax": 21000,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
+   },
+   "2026-09-09": {
     "oy": 26900,
     "bjMedian": 10000,
     "bjMin": 7500,
@@ -16064,6 +18860,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.38
+   },
+   "2026-09-09": {
+    "oy": 24500,
+    "bjMedian": 9250,
+    "bjMin": 8000,
+    "bjMax": 10000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
    }
   },
   "oyPrice": 24500
@@ -16131,6 +18939,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.19
+   },
+   "2026-09-09": {
+    "oy": 58500,
+    "bjMedian": 13000,
+    "bjMin": 9000,
+    "bjMax": 22000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.22
    }
   },
   "oyPrice": 58500
@@ -16188,6 +19008,18 @@
     "premium": 0.29
    },
    "2026-09-08": {
+    "oy": 49000,
+    "bjMedian": 14000,
+    "bjMin": 10000,
+    "bjMax": 16000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
+   },
+   "2026-09-09": {
     "oy": 49000,
     "bjMedian": 14000,
     "bjMin": 10000,
@@ -16265,6 +19097,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.35
+   },
+   "2026-09-09": {
+    "oy": 31000,
+    "bjMedian": 10950,
+    "bjMin": 10000,
+    "bjMax": 14000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
    }
   },
   "oyPrice": 31000
@@ -16332,6 +19176,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.22
+   },
+   "2026-09-09": {
+    "oy": 72000,
+    "bjMedian": 16000,
+    "bjMin": 11000,
+    "bjMax": 26000,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.22
    }
   },
   "oyPrice": 72000
@@ -16389,6 +19245,18 @@
     "premium": 0.36
    },
    "2026-09-08": {
+    "oy": 24700,
+    "bjMedian": 9000,
+    "bjMin": 6500,
+    "bjMax": 17000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
+   },
+   "2026-09-09": {
     "oy": 24700,
     "bjMedian": 9000,
     "bjMin": 6500,
@@ -16509,6 +19377,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.35
+   },
+   "2026-09-09": {
+    "oy": 39900,
+    "bjMedian": 14000,
+    "bjMin": 8000,
+    "bjMax": 33000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
    }
   },
   "oyPrice": 39900
@@ -16571,6 +19451,18 @@
     "bjMin": 6500,
     "bjMax": 16000,
     "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.32
+   },
+   "2026-09-09": {
+    "oy": 28000,
+    "bjMedian": 9000,
+    "bjMin": 6500,
+    "bjMax": 16000,
+    "bjCount": 21,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -16643,6 +19535,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.24
+   },
+   "2026-09-09": {
+    "oy": 24600,
+    "bjMedian": 5000,
+    "bjMin": 5000,
+    "bjMax": 9500,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.2
    }
   },
   "oyPrice": 24600
@@ -16700,6 +19604,18 @@
     "premium": 0.32
    },
    "2026-09-08": {
+    "oy": 22000,
+    "bjMedian": 7000,
+    "bjMin": 4000,
+    "bjMax": 12000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.32
+   },
+   "2026-09-09": {
     "oy": 22000,
     "bjMedian": 7000,
     "bjMin": 4000,
@@ -16777,6 +19693,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.33
+   },
+   "2026-09-09": {
+    "oy": 18000,
+    "bjMedian": 6000,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
    }
   },
   "oyPrice": 18000
@@ -16834,6 +19762,18 @@
     "premium": 0.2
    },
    "2026-09-08": {
+    "oy": 99000,
+    "bjMedian": 20000,
+    "bjMin": 19900,
+    "bjMax": 23900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.2
+   },
+   "2026-09-09": {
     "oy": 99000,
     "bjMedian": 20000,
     "bjMin": 19900,
@@ -16911,6 +19851,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 30400,
+    "bjMedian": 8750,
+    "bjMin": 4000,
+    "bjMax": 22000,
+    "bjCount": 30,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
    }
   },
   "oyPrice": 30400
@@ -16968,6 +19920,18 @@
     "premium": 0.22
    },
    "2026-09-08": {
+    "oy": 30000,
+    "bjMedian": 6700,
+    "bjMin": 3000,
+    "bjMax": 16000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.22
+   },
+   "2026-09-09": {
     "oy": 30000,
     "bjMedian": 6700,
     "bjMin": 3000,
@@ -17045,6 +20009,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 17500,
+    "bjMedian": 5000,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
    }
   },
   "oyPrice": 17500
@@ -17102,6 +20078,18 @@
     "premium": 0.25
    },
    "2026-09-08": {
+    "oy": 29900,
+    "bjMedian": 7500,
+    "bjMin": 5000,
+    "bjMax": 12000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.25
+   },
+   "2026-09-09": {
     "oy": 29900,
     "bjMedian": 7500,
     "bjMin": 5000,
@@ -17179,6 +20167,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.24
+   },
+   "2026-09-09": {
+    "oy": 169400,
+    "bjMedian": 44500,
+    "bjMin": 20000,
+    "bjMax": 80000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.26
    }
   },
   "oyPrice": 169400
@@ -17236,6 +20236,18 @@
     "premium": 1.8
    },
    "2026-09-08": {
+    "oy": 9900,
+    "bjMedian": 15500,
+    "bjMin": 12500,
+    "bjMax": 21000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.57
+   },
+   "2026-09-09": {
     "oy": 9900,
     "bjMedian": 15500,
     "bjMin": 12500,
@@ -17313,6 +20325,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.89
+   },
+   "2026-09-09": {
+    "oy": 20800,
+    "bjMedian": 18000,
+    "bjMin": 7500,
+    "bjMax": 29360,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.87
    }
   },
   "oyPrice": 20800
@@ -17370,6 +20394,18 @@
     "premium": 0.89
    },
    "2026-09-08": {
+    "oy": 20900,
+    "bjMedian": 18000,
+    "bjMin": 8000,
+    "bjMax": 30000,
+    "bjCount": 29,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.86
+   },
+   "2026-09-09": {
     "oy": 20900,
     "bjMedian": 18000,
     "bjMin": 8000,
@@ -17447,6 +20483,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.8
+   },
+   "2026-09-09": {
+    "oy": 349000,
+    "bjMedian": 310000,
+    "bjMin": 180000,
+    "bjMax": 450000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.89
    }
   },
   "oyPrice": 349000
@@ -17504,6 +20552,18 @@
     "premium": 0.94
    },
    "2026-09-08": {
+    "oy": 48300,
+    "bjMedian": 43000,
+    "bjMin": 22000,
+    "bjMax": 53000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.89
+   },
+   "2026-09-09": {
     "oy": 48300,
     "bjMedian": 43000,
     "bjMin": 22000,
@@ -17581,6 +20641,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.9
+   },
+   "2026-09-09": {
+    "oy": 18700,
+    "bjMedian": 16900,
+    "bjMin": 10000,
+    "bjMax": 36000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.9
    }
   },
   "oyPrice": 18700
@@ -17648,6 +20720,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.76
+   },
+   "2026-09-09": {
+    "oy": 14400,
+    "bjMedian": 11000,
+    "bjMin": 9000,
+    "bjMax": 22000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
    }
   },
   "oyPrice": 14400
@@ -17679,6 +20763,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.85
+   },
+   "2026-09-09": {
+    "oy": 25900,
+    "bjMedian": 21000,
+    "bjMin": 17000,
+    "bjMax": 24000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
    }
   },
   "oyPrice": 25900
@@ -17736,6 +20832,18 @@
     "premium": 0.84
    },
    "2026-09-08": {
+    "oy": 24900,
+    "bjMedian": 21000,
+    "bjMin": 15000,
+    "bjMax": 44000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.84
+   },
+   "2026-09-09": {
     "oy": 24900,
     "bjMedian": 21000,
     "bjMin": 15000,
@@ -17813,9 +20921,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.84
+   },
+   "2026-09-09": {
+    "oy": 26400,
+    "bjMedian": 20000,
+    "bjMin": 15000,
+    "bjMax": 45000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
    }
   },
-  "oyPrice": 23760
+  "oyPrice": 26400
  },
  "A000000214675": {
   "brand": "디어클레어스",
@@ -17870,6 +20990,18 @@
     "premium": 0.78
    },
    "2026-09-08": {
+    "oy": 37050,
+    "bjMedian": 29000,
+    "bjMin": 16000,
+    "bjMax": 40000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.78
+   },
+   "2026-09-09": {
     "oy": 37050,
     "bjMedian": 29000,
     "bjMin": 16000,
@@ -17947,6 +21079,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.83
+   },
+   "2026-09-09": {
+    "oy": 36000,
+    "bjMedian": 30000,
+    "bjMin": 18000,
+    "bjMax": 30000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.83
    }
   },
   "oyPrice": 36000
@@ -18014,6 +21158,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.77
+   },
+   "2026-09-09": {
+    "oy": 13900,
+    "bjMedian": 10700,
+    "bjMin": 8510,
+    "bjMax": 12000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.77
    }
   },
   "oyPrice": 13900
@@ -18071,6 +21227,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 27000,
+    "bjMedian": 15000,
+    "bjMin": 15000,
+    "bjMax": 22000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 27000,
     "bjMedian": 15000,
     "bjMin": 15000,
@@ -18203,6 +21371,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.69
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 13000,
+    "bjMin": 12000,
+    "bjMax": 21000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
    }
   },
   "oyPrice": 18900
@@ -18260,6 +21440,18 @@
     "premium": 0.81
    },
    "2026-09-08": {
+    "oy": 24610,
+    "bjMedian": 20000,
+    "bjMin": 14000,
+    "bjMax": 24000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
+   },
+   "2026-09-09": {
     "oy": 24610,
     "bjMedian": 20000,
     "bjMin": 14000,
@@ -18337,6 +21529,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.79
+   },
+   "2026-09-09": {
+    "oy": 48600,
+    "bjMedian": 38500,
+    "bjMin": 30000,
+    "bjMax": 79000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
    }
   },
   "oyPrice": 48600
@@ -18394,6 +21598,18 @@
     "premium": 0.53
    },
    "2026-09-08": {
+    "oy": 30000,
+    "bjMedian": 16000,
+    "bjMin": 10900,
+    "bjMax": 35000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
+   },
+   "2026-09-09": {
     "oy": 30000,
     "bjMedian": 16000,
     "bjMin": 10900,
@@ -18471,6 +21687,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.75
+   },
+   "2026-09-09": {
+    "oy": 47700,
+    "bjMedian": 36000,
+    "bjMin": 32000,
+    "bjMax": 38000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.75
    }
   },
   "oyPrice": 47700
@@ -18538,6 +21766,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.79
+   },
+   "2026-09-09": {
+    "oy": 49000,
+    "bjMedian": 39000,
+    "bjMin": 25000,
+    "bjMax": 79000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
    }
   },
   "oyPrice": 49000
@@ -18605,6 +21845,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 38000,
+    "bjMedian": 20400,
+    "bjMin": 14000,
+    "bjMax": 31000,
+    "bjCount": 34,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 38000
@@ -18662,6 +21914,18 @@
     "premium": 0.76
    },
    "2026-09-08": {
+    "oy": 46040,
+    "bjMedian": 40000,
+    "bjMin": 30000,
+    "bjMax": 40000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.87
+   },
+   "2026-09-09": {
     "oy": 46040,
     "bjMedian": 40000,
     "bjMin": 30000,
@@ -18739,6 +22003,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.66
+   },
+   "2026-09-09": {
+    "oy": 9100,
+    "bjMedian": 6000,
+    "bjMin": 4000,
+    "bjMax": 8000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
   "oyPrice": 9100
@@ -18806,6 +22082,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.72
+   },
+   "2026-09-09": {
+    "oy": 26900,
+    "bjMedian": 20000,
+    "bjMin": 12000,
+    "bjMax": 27000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
    }
   },
   "oyPrice": 26900
@@ -18863,6 +22151,18 @@
     "premium": 0.72
    },
    "2026-09-08": {
+    "oy": 22050,
+    "bjMedian": 15950,
+    "bjMin": 11000,
+    "bjMax": 18000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
+   },
+   "2026-09-09": {
     "oy": 22050,
     "bjMedian": 15950,
     "bjMin": 11000,
@@ -18940,6 +22240,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 24000,
+    "bjMedian": 13000,
+    "bjMin": 12000,
+    "bjMax": 14000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 24000
@@ -19007,6 +22319,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.69
+   },
+   "2026-09-09": {
+    "oy": 28400,
+    "bjMedian": 20000,
+    "bjMin": 12000,
+    "bjMax": 27000,
+    "bjCount": 11,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.7
    }
   },
   "oyPrice": 28400
@@ -19064,6 +22388,18 @@
     "premium": 0.64
    },
    "2026-09-08": {
+    "oy": 8000,
+    "bjMedian": 5155,
+    "bjMin": 2200,
+    "bjMax": 9000,
+    "bjCount": 32,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
+   },
+   "2026-09-09": {
     "oy": 8000,
     "bjMedian": 5155,
     "bjMin": 2200,
@@ -19141,6 +22477,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 23900,
+    "bjMedian": 14500,
+    "bjMin": 13000,
+    "bjMax": 18000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 23900
@@ -19208,6 +22556,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.55
+   },
+   "2026-09-09": {
+    "oy": 109000,
+    "bjMedian": 60000,
+    "bjMin": 40000,
+    "bjMax": 80000,
+    "bjCount": 29,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
    }
   },
   "oyPrice": 109000
@@ -19265,6 +22625,18 @@
     "premium": 0.57
    },
    "2026-09-08": {
+    "oy": 27900,
+    "bjMedian": 16000,
+    "bjMin": 15000,
+    "bjMax": 17000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   },
+   "2026-09-09": {
     "oy": 27900,
     "bjMedian": 16000,
     "bjMin": 15000,
@@ -19342,6 +22714,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.62
+   },
+   "2026-09-09": {
+    "oy": 85000,
+    "bjMedian": 53000,
+    "bjMin": 32000,
+    "bjMax": 79000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.62
    }
   },
   "oyPrice": 85000
@@ -19409,6 +22793,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.33
+   },
+   "2026-09-09": {
+    "oy": 15000,
+    "bjMedian": 5155,
+    "bjMin": 2200,
+    "bjMax": 9500,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.34
    }
   },
   "oyPrice": 15000
@@ -19507,6 +22903,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 20900,
+    "bjMedian": 12000,
+    "bjMin": 9000,
+    "bjMax": 20000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
    }
   },
   "oyPrice": 20900
@@ -19564,6 +22972,18 @@
     "premium": 0.3
    },
    "2026-09-08": {
+    "oy": 30000,
+    "bjMedian": 9000,
+    "bjMin": 5000,
+    "bjMax": 13000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.3
+   },
+   "2026-09-09": {
     "oy": 30000,
     "bjMedian": 9000,
     "bjMin": 5000,
@@ -19641,6 +23061,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 50150,
+    "bjMedian": 30500,
+    "bjMin": 28000,
+    "bjMax": 37000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 50150
@@ -19698,6 +23130,18 @@
     "premium": 0.54
    },
    "2026-09-08": {
+    "oy": 92900,
+    "bjMedian": 50000,
+    "bjMin": 36000,
+    "bjMax": 80000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
     "oy": 92900,
     "bjMedian": 50000,
     "bjMin": 36000,
@@ -19775,6 +23219,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 34000,
+    "bjMedian": 13450,
+    "bjMin": 8000,
+    "bjMax": 29900,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 34000
@@ -19842,6 +23298,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 9810,
+    "bjMedian": 5000,
+    "bjMin": 4000,
+    "bjMax": 6000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 9810
@@ -19899,6 +23367,18 @@
     "premium": 0.47
    },
    "2026-09-08": {
+    "oy": 17900,
+    "bjMedian": 8500,
+    "bjMin": 3190,
+    "bjMax": 25000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   },
+   "2026-09-09": {
     "oy": 17900,
     "bjMedian": 8500,
     "bjMin": 3190,
@@ -19995,6 +23475,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.3
+   },
+   "2026-09-09": {
+    "oy": 50000,
+    "bjMedian": 15000,
+    "bjMin": 6000,
+    "bjMax": 26000,
+    "bjCount": 21,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.3
    }
   },
   "oyPrice": 50000
@@ -20062,6 +23554,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.31
+   },
+   "2026-09-09": {
+    "oy": 45000,
+    "bjMedian": 15000,
+    "bjMin": 8000,
+    "bjMax": 16000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
    }
   },
   "oyPrice": 45000
@@ -20093,9 +23597,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.42
+   },
+   "2026-09-09": {
+    "oy": 26900,
+    "bjMedian": 10630,
+    "bjMin": 4500,
+    "bjMax": 19900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
-  "oyPrice": 25020
+  "oyPrice": 26900
  },
  "A000000255124": {
   "brand": "라운드랩",
@@ -20155,6 +23671,18 @@
     "bjMin": 8000,
     "bjMax": 17000,
     "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
+    "oy": 24500,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 17000,
+    "bjCount": 13,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -20227,6 +23755,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 39000,
+    "bjMedian": 12000,
+    "bjMin": 8000,
+    "bjMax": 16000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.31
    }
   },
   "oyPrice": 39000
@@ -20294,6 +23834,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.26
+   },
+   "2026-09-09": {
+    "oy": 100000,
+    "bjMedian": 30000,
+    "bjMin": 20000,
+    "bjMax": 57500,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.3
    }
   },
   "oyPrice": 100000
@@ -20351,6 +23903,18 @@
     "premium": 0.28
    },
    "2026-09-08": {
+    "oy": 33900,
+    "bjMedian": 10000,
+    "bjMin": 6000,
+    "bjMax": 17500,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
+   },
+   "2026-09-09": {
     "oy": 33900,
     "bjMedian": 10000,
     "bjMin": 6000,
@@ -20428,6 +23992,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.25
+   },
+   "2026-09-09": {
+    "oy": 33600,
+    "bjMedian": 8500,
+    "bjMin": 7000,
+    "bjMax": 16000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.25
    }
   },
   "oyPrice": 33600
@@ -20473,6 +24049,18 @@
     "premium": 2.07
    },
    "2026-09-08": {
+    "oy": 16900,
+    "bjMedian": 35000,
+    "bjMin": 34000,
+    "bjMax": 42000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 2.07
+   },
+   "2026-09-09": {
     "oy": 16900,
     "bjMedian": 35000,
     "bjMin": 34000,
@@ -20538,6 +24126,18 @@
     "kSoldMedian": 22000,
     "kSoldCount": 5,
     "premium": 1.46
+   },
+   "2026-09-09": {
+    "oy": 59000,
+    "bjMedian": 86000,
+    "bjMin": 30000,
+    "bjMax": 100000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": 22000,
+    "kSoldCount": 5,
+    "premium": 1.46
    }
   },
   "oyPrice": 59000
@@ -20583,6 +24183,18 @@
     "premium": 0.89
    },
    "2026-09-08": {
+    "oy": 5310,
+    "bjMedian": 4750,
+    "bjMin": 4000,
+    "bjMax": 7500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.89
+   },
+   "2026-09-09": {
     "oy": 5310,
     "bjMedian": 4750,
     "bjMin": 4000,
@@ -20648,6 +24260,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.87
+   },
+   "2026-09-09": {
+    "oy": 15900,
+    "bjMedian": 13900,
+    "bjMin": 9500,
+    "bjMax": 40000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.87
    }
   },
   "oyPrice": 15900
@@ -20693,6 +24317,18 @@
     "premium": 0.82
    },
    "2026-09-08": {
+    "oy": 32900,
+    "bjMedian": 27000,
+    "bjMin": 22340,
+    "bjMax": 30000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.82
+   },
+   "2026-09-09": {
     "oy": 32900,
     "bjMedian": 27000,
     "bjMin": 22340,
@@ -20758,6 +24394,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 15900,
+    "bjMedian": 9700,
+    "bjMin": 7800,
+    "bjMax": 22000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 15900
@@ -20813,6 +24461,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.72
+   },
+   "2026-09-09": {
+    "oy": 46000,
+    "bjMedian": 33000,
+    "bjMin": 29000,
+    "bjMax": 39000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
    }
   },
   "oyPrice": 46000
@@ -20858,6 +24518,18 @@
     "premium": 0.71
    },
    "2026-09-08": {
+    "oy": 83000,
+    "bjMedian": 59000,
+    "bjMin": 23200,
+    "bjMax": 59000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
+   },
+   "2026-09-09": {
     "oy": 83000,
     "bjMedian": 59000,
     "bjMin": 23200,
@@ -20966,6 +24638,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.69
+   },
+   "2026-09-09": {
+    "oy": 11610,
+    "bjMedian": 8000,
+    "bjMin": 7000,
+    "bjMax": 8500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
    }
   },
   "oyPrice": 11610
@@ -21021,6 +24705,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 129000,
+    "bjMedian": 88000,
+    "bjMin": 57000,
+    "bjMax": 122000,
+    "bjCount": 28,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
    }
   },
   "oyPrice": 129000
@@ -21076,6 +24772,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 19800,
+    "bjMedian": 13000,
+    "bjMin": 5000,
+    "bjMax": 25000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
   "oyPrice": 19800
@@ -21121,6 +24829,18 @@
     "premium": 0.81
    },
    "2026-09-08": {
+    "oy": 18500,
+    "bjMedian": 15000,
+    "bjMin": 10000,
+    "bjMax": 18000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
+   },
+   "2026-09-09": {
     "oy": 18500,
     "bjMedian": 15000,
     "bjMin": 10000,
@@ -21186,6 +24906,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 8900,
+    "bjMedian": 6000,
+    "bjMin": 4000,
+    "bjMax": 60000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
   "oyPrice": 8900
@@ -21241,6 +24973,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.65
+   },
+   "2026-09-09": {
+    "oy": 10800,
+    "bjMedian": 6690,
+    "bjMin": 3000,
+    "bjMax": 12000,
+    "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.62
    }
   },
   "oyPrice": 10800
@@ -21286,6 +25030,18 @@
     "premium": 0.69
    },
    "2026-09-08": {
+    "oy": 13900,
+    "bjMedian": 9600,
+    "bjMin": 8800,
+    "bjMax": 10530,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
+   },
+   "2026-09-09": {
     "oy": 13900,
     "bjMedian": 9600,
     "bjMin": 8800,
@@ -21351,6 +25107,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.75
+   },
+   "2026-09-09": {
+    "oy": 479000,
+    "bjMedian": 360000,
+    "bjMin": 349000,
+    "bjMax": 606500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.75
    }
   },
   "oyPrice": 479000
@@ -21396,6 +25164,18 @@
     "premium": 0.68
    },
    "2026-09-08": {
+    "oy": 19900,
+    "bjMedian": 13500,
+    "bjMin": 9500,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
+   },
+   "2026-09-09": {
     "oy": 19900,
     "bjMedian": 13500,
     "bjMin": 9500,
@@ -21461,6 +25241,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 17900,
+    "bjMedian": 11000,
+    "bjMin": 7000,
+    "bjMax": 14000,
+    "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 17900
@@ -21510,6 +25302,18 @@
     "bjMedian": 14000,
     "bjMin": 9000,
     "bjMax": 22000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 22800,
+    "bjMedian": 14000,
+    "bjMin": 9000,
+    "bjMax": 20000,
     "bjCount": 9,
     "kActiveMedian": null,
     "kActiveCount": 0,
@@ -21571,6 +25375,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 63000,
+    "bjMedian": 40000,
+    "bjMin": 30000,
+    "bjMax": 40000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 63000
@@ -21604,6 +25420,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 99000,
+    "bjMedian": 55000,
+    "bjMin": 50000,
+    "bjMax": 75000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 99000,
     "bjMedian": 55000,
     "bjMin": 50000,
@@ -21669,6 +25497,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.55
+   },
+   "2026-09-09": {
+    "oy": 77000,
+    "bjMedian": 42000,
+    "bjMin": 35000,
+    "bjMax": 43000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.55
    }
   },
   "oyPrice": 77000
@@ -21714,6 +25554,18 @@
     "premium": 0.54
    },
    "2026-09-08": {
+    "oy": 29400,
+    "bjMedian": 16000,
+    "bjMin": 11000,
+    "bjMax": 20000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
     "oy": 29400,
     "bjMedian": 16000,
     "bjMin": 11000,
@@ -21779,6 +25631,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.46
+   },
+   "2026-09-09": {
+    "oy": 18000,
+    "bjMedian": 8250,
+    "bjMin": 5000,
+    "bjMax": 12000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.46
    }
   },
   "oyPrice": 18000
@@ -21824,6 +25688,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 21500,
+    "bjMedian": 12000,
+    "bjMin": 10000,
+    "bjMax": 15000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 21500,
     "bjMedian": 12000,
     "bjMin": 10000,
@@ -21889,6 +25765,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.52
+   },
+   "2026-09-09": {
+    "oy": 32000,
+    "bjMedian": 16500,
+    "bjMin": 12500,
+    "bjMax": 18000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 32000
@@ -21934,6 +25822,18 @@
     "premium": 0.51
    },
    "2026-09-08": {
+    "oy": 7900,
+    "bjMedian": 4000,
+    "bjMin": 4000,
+    "bjMax": 6500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
+   },
+   "2026-09-09": {
     "oy": 7900,
     "bjMedian": 4000,
     "bjMin": 4000,
@@ -21999,6 +25899,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.47
+   },
+   "2026-09-09": {
+    "oy": 32000,
+    "bjMedian": 15000,
+    "bjMin": 6000,
+    "bjMax": 35000,
+    "bjCount": 21,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
    }
   },
   "oyPrice": 32000
@@ -22044,6 +25956,18 @@
     "premium": 0.45
    },
    "2026-09-08": {
+    "oy": 19800,
+    "bjMedian": 9000,
+    "bjMin": 7500,
+    "bjMax": 14000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
+   },
+   "2026-09-09": {
     "oy": 19800,
     "bjMedian": 9000,
     "bjMin": 7500,
@@ -22109,6 +26033,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 42000,
+    "bjMedian": 17000,
+    "bjMin": 12500,
+    "bjMax": 36000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 42000
@@ -22164,6 +26100,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.41
+   },
+   "2026-09-09": {
+    "oy": 25900,
+    "bjMedian": 10800,
+    "bjMin": 5000,
+    "bjMax": 18000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.42
    }
   },
   "oyPrice": 25900
@@ -22209,6 +26157,18 @@
     "premium": 0.4
    },
    "2026-09-08": {
+    "oy": 29800,
+    "bjMedian": 12000,
+    "bjMin": 6000,
+    "bjMax": 20000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
+   },
+   "2026-09-09": {
     "oy": 29800,
     "bjMedian": 12000,
     "bjMin": 6000,
@@ -22274,6 +26234,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.43
+   },
+   "2026-09-09": {
+    "oy": 28000,
+    "bjMedian": 12000,
+    "bjMin": 8000,
+    "bjMax": 15000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 28000
@@ -22319,6 +26291,18 @@
     "premium": 0.39
    },
    "2026-09-08": {
+    "oy": 23000,
+    "bjMedian": 9000,
+    "bjMin": 5500,
+    "bjMax": 9000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.39
+   },
+   "2026-09-09": {
     "oy": 23000,
     "bjMedian": 9000,
     "bjMin": 5500,
@@ -22384,6 +26368,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.38
+   },
+   "2026-09-09": {
+    "oy": 22500,
+    "bjMedian": 8500,
+    "bjMin": 4000,
+    "bjMax": 16000,
+    "bjCount": 23,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.38
    }
   },
   "oyPrice": 22500
@@ -22429,6 +26425,18 @@
     "premium": 0.35
    },
    "2026-09-08": {
+    "oy": 36900,
+    "bjMedian": 13000,
+    "bjMin": 8000,
+    "bjMax": 18100,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
+   },
+   "2026-09-09": {
     "oy": 36900,
     "bjMedian": 13000,
     "bjMin": 8000,
@@ -22494,6 +26502,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.31
+   },
+   "2026-09-09": {
+    "oy": 162350,
+    "bjMedian": 50000,
+    "bjMin": 45000,
+    "bjMax": 103000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.31
    }
   },
   "oyPrice": 162350
@@ -22539,6 +26559,18 @@
     "premium": 0.31
    },
    "2026-09-08": {
+    "oy": 122000,
+    "bjMedian": 37500,
+    "bjMin": 37000,
+    "bjMax": 40900,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.31
+   },
+   "2026-09-09": {
     "oy": 122000,
     "bjMedian": 37500,
     "bjMin": 37000,
@@ -22604,6 +26636,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.26
+   },
+   "2026-09-09": {
+    "oy": 38000,
+    "bjMedian": 11000,
+    "bjMin": 5000,
+    "bjMax": 24000,
+    "bjCount": 26,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
    }
   },
   "oyPrice": 38000
@@ -22659,6 +26703,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.28
+   },
+   "2026-09-09": {
+    "oy": 18100,
+    "bjMedian": 5000,
+    "bjMin": 3000,
+    "bjMax": 6000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.28
    }
   },
   "oyPrice": 18100
@@ -22692,6 +26748,18 @@
     "premium": 3.33
    },
    "2026-09-08": {
+    "oy": 3000,
+    "bjMedian": 10000,
+    "bjMin": 3000,
+    "bjMax": 10000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": 8000,
+    "kSoldCount": 1,
+    "premium": 3.33
+   },
+   "2026-09-09": {
     "oy": 3000,
     "bjMedian": 10000,
     "bjMin": 3000,
@@ -22745,6 +26813,18 @@
     "kSoldMedian": 22500,
     "kSoldCount": 2,
     "premium": 1.32
+   },
+   "2026-09-09": {
+    "oy": 16300,
+    "bjMedian": 21500,
+    "bjMin": 11000,
+    "bjMax": 43000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": 22500,
+    "kSoldCount": 2,
+    "premium": 1.32
    }
   },
   "oyPrice": 16300
@@ -22778,6 +26858,18 @@
     "premium": 1.28
    },
    "2026-09-08": {
+    "oy": 17900,
+    "bjMedian": 23000,
+    "bjMin": 20000,
+    "bjMax": 24000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.28
+   },
+   "2026-09-09": {
     "oy": 17900,
     "bjMedian": 23000,
     "bjMin": 20000,
@@ -22831,6 +26923,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 1.08
+   },
+   "2026-09-09": {
+    "oy": 32400,
+    "bjMedian": 32000,
+    "bjMin": 14000,
+    "bjMax": 67000,
+    "bjCount": 29,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.99
    }
   },
   "oyPrice": 32400
@@ -22864,6 +26968,18 @@
     "premium": 0.81
    },
    "2026-09-08": {
+    "oy": 16000,
+    "bjMedian": 13000,
+    "bjMin": 4000,
+    "bjMax": 15000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
+   },
+   "2026-09-09": {
     "oy": 16000,
     "bjMedian": 13000,
     "bjMin": 4000,
@@ -22917,6 +27033,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.8
+   },
+   "2026-09-09": {
+    "oy": 23800,
+    "bjMedian": 19000,
+    "bjMin": 9800,
+    "bjMax": 27900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
    }
   },
   "oyPrice": 23800
@@ -22950,6 +27078,18 @@
     "premium": 0.8
    },
    "2026-09-08": {
+    "oy": 20500,
+    "bjMedian": 16500,
+    "bjMin": 15000,
+    "bjMax": 17100,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
+   },
+   "2026-09-09": {
     "oy": 20500,
     "bjMedian": 16500,
     "bjMin": 15000,
@@ -22998,6 +27138,18 @@
     "bjMin": 10000,
     "bjMax": 37230,
     "bjCount": 36,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.76
+   },
+   "2026-09-09": {
+    "oy": 32800,
+    "bjMedian": 25000,
+    "bjMin": 10000,
+    "bjMax": 37230,
+    "bjCount": 35,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -23065,6 +27217,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.75
+   },
+   "2026-09-09": {
+    "oy": 17900,
+    "bjMedian": 13500,
+    "bjMin": 11000,
+    "bjMax": 17500,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.75
    }
   },
   "oyPrice": 17900
@@ -23098,6 +27262,18 @@
     "premium": 0.73
    },
    "2026-09-08": {
+    "oy": 90750,
+    "bjMedian": 66500,
+    "bjMin": 40000,
+    "bjMax": 91000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.73
+   },
+   "2026-09-09": {
     "oy": 90750,
     "bjMedian": 66500,
     "bjMin": 40000,
@@ -23151,6 +27327,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.64
+   },
+   "2026-09-09": {
+    "oy": 23400,
+    "bjMedian": 15000,
+    "bjMin": 13500,
+    "bjMax": 15000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 23400
@@ -23184,6 +27372,18 @@
     "premium": 0.71
    },
    "2026-09-08": {
+    "oy": 14000,
+    "bjMedian": 10000,
+    "bjMin": 3000,
+    "bjMax": 10000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
+   },
+   "2026-09-09": {
     "oy": 14000,
     "bjMedian": 10000,
     "bjMin": 3000,
@@ -23237,6 +27437,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.81
+   },
+   "2026-09-09": {
+    "oy": 49500,
+    "bjMedian": 40000,
+    "bjMin": 30000,
+    "bjMax": 40000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
    }
   },
   "oyPrice": 49500
@@ -23280,6 +27492,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.69
+   },
+   "2026-09-09": {
+    "oy": 15900,
+    "bjMedian": 10500,
+    "bjMin": 7000,
+    "bjMax": 15000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
   "oyPrice": 15900
@@ -23313,6 +27537,18 @@
     "premium": 0.68
    },
    "2026-09-08": {
+    "oy": 18990,
+    "bjMedian": 13000,
+    "bjMin": 10000,
+    "bjMax": 13900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
+   },
+   "2026-09-09": {
     "oy": 18990,
     "bjMedian": 13000,
     "bjMin": 10000,
@@ -23366,6 +27602,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 17900,
+    "bjMedian": 12000,
+    "bjMin": 9900,
+    "bjMax": 14500,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
   "oyPrice": 17900
@@ -23399,6 +27647,18 @@
     "premium": 0.66
    },
    "2026-09-08": {
+    "oy": 22800,
+    "bjMedian": 15450,
+    "bjMin": 9000,
+    "bjMax": 20000,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
+   },
+   "2026-09-09": {
     "oy": 22800,
     "bjMedian": 15450,
     "bjMin": 9000,
@@ -23452,6 +27712,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.66
+   },
+   "2026-09-09": {
+    "oy": 22900,
+    "bjMedian": 15000,
+    "bjMin": 14000,
+    "bjMax": 16000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.66
    }
   },
   "oyPrice": 22900
@@ -23485,6 +27757,18 @@
     "premium": 0.62
    },
    "2026-09-08": {
+    "oy": 322000,
+    "bjMedian": 200000,
+    "bjMin": 150000,
+    "bjMax": 372400,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.62
+   },
+   "2026-09-09": {
     "oy": 322000,
     "bjMedian": 200000,
     "bjMin": 150000,
@@ -23538,6 +27822,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.64
+   },
+   "2026-09-09": {
+    "oy": 31200,
+    "bjMedian": 20000,
+    "bjMin": 9000,
+    "bjMax": 25000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 31200
@@ -23571,6 +27867,18 @@
     "premium": 0.64
    },
    "2026-09-08": {
+    "oy": 25000,
+    "bjMedian": 16000,
+    "bjMin": 15000,
+    "bjMax": 18000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
+   },
+   "2026-09-09": {
     "oy": 25000,
     "bjMedian": 16000,
     "bjMin": 15000,
@@ -23624,6 +27932,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 12000,
+    "bjMin": 12000,
+    "bjMax": 12900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 18900
@@ -23657,6 +27977,18 @@
     "premium": 0.63
    },
    "2026-09-08": {
+    "oy": 18900,
+    "bjMedian": 13450,
+    "bjMin": 11000,
+    "bjMax": 15000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
+   },
+   "2026-09-09": {
     "oy": 18900,
     "bjMedian": 13450,
     "bjMin": 11000,
@@ -23710,6 +28042,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.65
+   },
+   "2026-09-09": {
+    "oy": 16100,
+    "bjMedian": 11500,
+    "bjMin": 8000,
+    "bjMax": 16000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
   "oyPrice": 16100
@@ -23748,6 +28092,18 @@
     "bjMin": 15000,
     "bjMax": 20000,
     "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
+   },
+   "2026-09-09": {
+    "oy": 27900,
+    "bjMedian": 17000,
+    "bjMin": 15000,
+    "bjMax": 20000,
+    "bjCount": 14,
     "kActiveMedian": null,
     "kActiveCount": 0,
     "kSoldMedian": null,
@@ -23817,6 +28173,18 @@
     "premium": 0.59
    },
    "2026-09-08": {
+    "oy": 11900,
+    "bjMedian": 7000,
+    "bjMin": 7000,
+    "bjMax": 7500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   },
+   "2026-09-09": {
     "oy": 11900,
     "bjMedian": 7000,
     "bjMin": 7000,
@@ -23913,6 +28281,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.58
+   },
+   "2026-09-09": {
+    "oy": 22500,
+    "bjMedian": 13000,
+    "bjMin": 13000,
+    "bjMax": 29000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
    }
   },
   "oyPrice": 22500
@@ -23956,6 +28336,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 11000,
+    "bjMin": 10000,
+    "bjMax": 13000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
    }
   },
   "oyPrice": 18900
@@ -23989,6 +28381,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 9900,
+    "bjMedian": 5500,
+    "bjMin": 2500,
+    "bjMax": 8000,
+    "bjCount": 37,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 9900,
     "bjMedian": 5500,
     "bjMin": 2500,
@@ -24042,6 +28446,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.59
+   },
+   "2026-09-09": {
+    "oy": 27000,
+    "bjMedian": 14500,
+    "bjMin": 10000,
+    "bjMax": 21000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 27000
@@ -24075,6 +28491,18 @@
     "premium": 0.56
    },
    "2026-09-08": {
+    "oy": 20800,
+    "bjMedian": 11700,
+    "bjMin": 8900,
+    "bjMax": 18000,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 20800,
     "bjMedian": 11700,
     "bjMin": 8900,
@@ -24128,6 +28556,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.52
+   },
+   "2026-09-09": {
+    "oy": 19200,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 15000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 19200
@@ -24161,6 +28601,18 @@
     "premium": 0.54
    },
    "2026-09-08": {
+    "oy": 13900,
+    "bjMedian": 7500,
+    "bjMin": 6000,
+    "bjMax": 10900,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
     "oy": 13900,
     "bjMedian": 7500,
     "bjMin": 6000,
@@ -24214,6 +28666,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 24000,
+    "bjMedian": 13500,
+    "bjMin": 6000,
+    "bjMax": 14000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 24000
@@ -24257,6 +28721,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 17500,
+    "bjMedian": 9500,
+    "bjMin": 8000,
+    "bjMax": 17000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 17500
@@ -24290,6 +28766,18 @@
     "premium": 0.54
    },
    "2026-09-08": {
+    "oy": 19380,
+    "bjMedian": 10500,
+    "bjMin": 8000,
+    "bjMax": 14000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   },
+   "2026-09-09": {
     "oy": 19380,
     "bjMedian": 10500,
     "bjMin": 8000,
@@ -24343,6 +28831,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.52
+   },
+   "2026-09-09": {
+    "oy": 38000,
+    "bjMedian": 19800,
+    "bjMin": 11900,
+    "bjMax": 22000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 38000
@@ -24376,6 +28876,18 @@
     "premium": 0.52
    },
    "2026-09-08": {
+    "oy": 15900,
+    "bjMedian": 8250,
+    "bjMin": 6500,
+    "bjMax": 10900,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
+   },
+   "2026-09-09": {
     "oy": 15900,
     "bjMedian": 8250,
     "bjMin": 6500,
@@ -24429,6 +28941,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 24900,
+    "bjMedian": 12500,
+    "bjMin": 10000,
+    "bjMax": 20000,
+    "bjCount": 15,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 24900
@@ -24462,6 +28986,18 @@
     "premium": 0.47
    },
    "2026-09-08": {
+    "oy": 19160,
+    "bjMedian": 9000,
+    "bjMin": 8900,
+    "bjMax": 10000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   },
+   "2026-09-09": {
     "oy": 19160,
     "bjMedian": 9000,
     "bjMin": 8900,
@@ -24515,6 +29051,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.47
+   },
+   "2026-09-09": {
+    "oy": 12800,
+    "bjMedian": 6000,
+    "bjMin": 4500,
+    "bjMax": 14000,
+    "bjCount": 18,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
    }
   },
   "oyPrice": 12800
@@ -24558,9 +29106,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.46
+   },
+   "2026-09-09": {
+    "oy": 22900,
+    "bjMedian": 11000,
+    "bjMin": 5000,
+    "bjMax": 25000,
+    "bjCount": 33,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.48
    }
   },
-  "oyPrice": 24000
+  "oyPrice": 22900
  },
  "A000000167392": {
   "brand": "스킨1004",
@@ -24591,6 +29151,18 @@
     "premium": 0.44
    },
    "2026-09-08": {
+    "oy": 22950,
+    "bjMedian": 10000,
+    "bjMin": 4500,
+    "bjMax": 22000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
+   },
+   "2026-09-09": {
     "oy": 22950,
     "bjMedian": 10000,
     "bjMin": 4500,
@@ -24644,6 +29216,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.44
+   },
+   "2026-09-09": {
+    "oy": 15900,
+    "bjMedian": 7000,
+    "bjMin": 7000,
+    "bjMax": 10000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.44
    }
   },
   "oyPrice": 15900
@@ -24677,6 +29261,18 @@
     "premium": 0.43
    },
    "2026-09-08": {
+    "oy": 11700,
+    "bjMedian": 5000,
+    "bjMin": 4000,
+    "bjMax": 5400,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
+   },
+   "2026-09-09": {
     "oy": 11700,
     "bjMedian": 5000,
     "bjMin": 4000,
@@ -24730,6 +29326,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.43
+   },
+   "2026-09-09": {
+    "oy": 19900,
+    "bjMedian": 8500,
+    "bjMin": 7000,
+    "bjMax": 11000,
+    "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 19900
@@ -24763,6 +29371,18 @@
     "premium": 0.43
    },
    "2026-09-08": {
+    "oy": 11700,
+    "bjMedian": 5000,
+    "bjMin": 3000,
+    "bjMax": 12450,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
+   },
+   "2026-09-09": {
     "oy": 11700,
     "bjMedian": 5000,
     "bjMin": 3000,
@@ -24816,6 +29436,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.43
+   },
+   "2026-09-09": {
+    "oy": 43800,
+    "bjMedian": 18900,
+    "bjMin": 16000,
+    "bjMax": 44000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 43800
@@ -24849,6 +29481,18 @@
     "premium": 0.4
    },
    "2026-09-08": {
+    "oy": 18900,
+    "bjMedian": 7500,
+    "bjMin": 5000,
+    "bjMax": 12000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
+   },
+   "2026-09-09": {
     "oy": 18900,
     "bjMedian": 7500,
     "bjMin": 5000,
@@ -24902,6 +29546,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 27100,
+    "bjMedian": 10000,
+    "bjMin": 7000,
+    "bjMax": 23000,
+    "bjCount": 19,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
    }
   },
   "oyPrice": 27100
@@ -24945,6 +29601,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.38
+   },
+   "2026-09-09": {
+    "oy": 27300,
+    "bjMedian": 10800,
+    "bjMin": 5000,
+    "bjMax": 18000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 27300
@@ -24978,6 +29646,18 @@
     "premium": 0.33
    },
    "2026-09-08": {
+    "oy": 20160,
+    "bjMedian": 9000,
+    "bjMin": 3999,
+    "bjMax": 13000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
+   },
+   "2026-09-09": {
     "oy": 20160,
     "bjMedian": 9000,
     "bjMin": 3999,
@@ -25031,9 +29711,21 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 22400,
+    "bjMedian": 7000,
+    "bjMin": 6000,
+    "bjMax": 9000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.31
    }
   },
-  "oyPrice": 24000
+  "oyPrice": 22400
  },
  "A000000201324": {
   "brand": "메디필",
@@ -25064,6 +29756,18 @@
     "premium": 0.28
    },
    "2026-09-08": {
+    "oy": 36000,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 21000,
+    "bjCount": 27,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.28
+   },
+   "2026-09-09": {
     "oy": 36000,
     "bjMedian": 10000,
     "bjMin": 5000,
@@ -25105,6 +29809,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.81
+   },
+   "2026-09-09": {
+    "oy": 19800,
+    "bjMedian": 16000,
+    "bjMin": 13000,
+    "bjMax": 23500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
    }
   },
   "oyPrice": 19800
@@ -25126,6 +29842,18 @@
     "premium": 0.79
    },
    "2026-09-08": {
+    "oy": 22800,
+    "bjMedian": 18000,
+    "bjMin": 10000,
+    "bjMax": 19900,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
+   },
+   "2026-09-09": {
     "oy": 22800,
     "bjMedian": 18000,
     "bjMin": 10000,
@@ -25167,6 +29895,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.72
+   },
+   "2026-09-09": {
+    "oy": 31900,
+    "bjMedian": 23000,
+    "bjMin": 18000,
+    "bjMax": 23000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
    }
   },
   "oyPrice": 31900
@@ -25188,6 +29928,18 @@
     "premium": 0.71
    },
    "2026-09-08": {
+    "oy": 21900,
+    "bjMedian": 21900,
+    "bjMin": 9000,
+    "bjMax": 26000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1
+   },
+   "2026-09-09": {
     "oy": 21900,
     "bjMedian": 21900,
     "bjMin": 9000,
@@ -25229,6 +29981,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 13500,
+    "bjMin": 10000,
+    "bjMax": 16000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
   "oyPrice": 18900
@@ -25250,6 +30014,18 @@
     "premium": 0.69
    },
    "2026-09-08": {
+    "oy": 26900,
+    "bjMedian": 18450,
+    "bjMin": 16000,
+    "bjMax": 19000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
+   },
+   "2026-09-09": {
     "oy": 26900,
     "bjMedian": 18450,
     "bjMin": 16000,
@@ -25291,6 +30067,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 20900,
+    "bjMedian": 14000,
+    "bjMin": 12000,
+    "bjMax": 14500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
    }
   },
   "oyPrice": 20900
@@ -25312,6 +30100,18 @@
     "premium": 0.65
    },
    "2026-09-08": {
+    "oy": 18000,
+    "bjMedian": 12000,
+    "bjMin": 6800,
+    "bjMax": 21900,
+    "bjCount": 29,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.67
+   },
+   "2026-09-09": {
     "oy": 18000,
     "bjMedian": 12000,
     "bjMin": 6800,
@@ -25353,6 +30153,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.65
+   },
+   "2026-09-09": {
+    "oy": 139000,
+    "bjMedian": 90000,
+    "bjMin": 70000,
+    "bjMax": 100000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.65
    }
   },
   "oyPrice": 139000
@@ -25374,6 +30186,18 @@
     "premium": 0.64
    },
    "2026-09-08": {
+    "oy": 13200,
+    "bjMedian": 8500,
+    "bjMin": 5500,
+    "bjMax": 15000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
+   },
+   "2026-09-09": {
     "oy": 13200,
     "bjMedian": 8500,
     "bjMin": 5500,
@@ -25415,6 +30239,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.63
+   },
+   "2026-09-09": {
+    "oy": 27000,
+    "bjMedian": 17000,
+    "bjMin": 9600,
+    "bjMax": 25000,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.63
    }
   },
   "oyPrice": 27000
@@ -25436,6 +30272,18 @@
     "premium": 0.61
    },
    "2026-09-08": {
+    "oy": 119000,
+    "bjMedian": 72000,
+    "bjMin": 56000,
+    "bjMax": 90000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
+   },
+   "2026-09-09": {
     "oy": 119000,
     "bjMedian": 72000,
     "bjMin": 56000,
@@ -25477,6 +30325,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.6
+   },
+   "2026-09-09": {
+    "oy": 18400,
+    "bjMedian": 11000,
+    "bjMin": 7440,
+    "bjMax": 13500,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.6
    }
   },
   "oyPrice": 18400
@@ -25498,6 +30358,18 @@
     "premium": 0.59
    },
    "2026-09-08": {
+    "oy": 37600,
+    "bjMedian": 22000,
+    "bjMin": 13000,
+    "bjMax": 29000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
+   },
+   "2026-09-09": {
     "oy": 37600,
     "bjMedian": 22000,
     "bjMin": 13000,
@@ -25539,6 +30411,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.59
+   },
+   "2026-09-09": {
+    "oy": 22900,
+    "bjMedian": 13500,
+    "bjMin": 6000,
+    "bjMax": 17020,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
    }
   },
   "oyPrice": 22900
@@ -25560,6 +30444,18 @@
     "premium": 0.58
    },
    "2026-09-08": {
+    "oy": 76000,
+    "bjMedian": 44000,
+    "bjMin": 36000,
+    "bjMax": 64000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.58
+   },
+   "2026-09-09": {
     "oy": 76000,
     "bjMedian": 44000,
     "bjMin": 36000,
@@ -25601,6 +30497,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 16800,
+    "bjMedian": 10250,
+    "bjMin": 8000,
+    "bjMax": 24000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.61
    }
   },
   "oyPrice": 16800
@@ -25622,6 +30530,18 @@
     "premium": 0.57
    },
    "2026-09-08": {
+    "oy": 132910,
+    "bjMedian": 76000,
+    "bjMin": 75000,
+    "bjMax": 90000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.57
+   },
+   "2026-09-09": {
     "oy": 132910,
     "bjMedian": 76000,
     "bjMin": 75000,
@@ -25663,6 +30583,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 17900,
+    "bjMedian": 10000,
+    "bjMin": 7900,
+    "bjMax": 13000,
+    "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 17900
@@ -25687,6 +30619,18 @@
     "oy": 37000,
     "bjMedian": 19500,
     "bjMin": 19000,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 37000,
+    "bjMedian": 19500,
+    "bjMin": 18000,
     "bjMax": 20000,
     "bjCount": 4,
     "kActiveMedian": null,
@@ -25725,6 +30669,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.52
+   },
+   "2026-09-09": {
+    "oy": 22900,
+    "bjMedian": 12000,
+    "bjMin": 6000,
+    "bjMax": 18000,
+    "bjCount": 21,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 22900
@@ -25746,6 +30702,18 @@
     "premium": 0.51
    },
    "2026-09-08": {
+    "oy": 19800,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 14000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
+   },
+   "2026-09-09": {
     "oy": 19800,
     "bjMedian": 10000,
     "bjMin": 5000,
@@ -25787,6 +30755,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 13900,
+    "bjMedian": 7000,
+    "bjMin": 5800,
+    "bjMax": 12000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 13900
@@ -25808,6 +30788,18 @@
     "premium": 0.49
    },
    "2026-09-08": {
+    "oy": 34000,
+    "bjMedian": 16500,
+    "bjMin": 10000,
+    "bjMax": 23000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.49
+   },
+   "2026-09-09": {
     "oy": 34000,
     "bjMedian": 16500,
     "bjMin": 10000,
@@ -25849,6 +30841,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.47
+   },
+   "2026-09-09": {
+    "oy": 19000,
+    "bjMedian": 9000,
+    "bjMin": 7500,
+    "bjMax": 12800,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
    }
   },
   "oyPrice": 19000
@@ -25870,6 +30874,18 @@
     "premium": 0.47
    },
    "2026-09-08": {
+    "oy": 40800,
+    "bjMedian": 19000,
+    "bjMin": 8800,
+    "bjMax": 29000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   },
+   "2026-09-09": {
     "oy": 40800,
     "bjMedian": 19000,
     "bjMin": 8800,
@@ -25911,6 +30927,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.52
+   },
+   "2026-09-09": {
+    "oy": 25000,
+    "bjMedian": 12900,
+    "bjMin": 10000,
+    "bjMax": 19000,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
   "oyPrice": 25000
@@ -25932,6 +30960,18 @@
     "premium": 0.45
    },
    "2026-09-08": {
+    "oy": 29000,
+    "bjMedian": 13000,
+    "bjMin": 9000,
+    "bjMax": 14000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
+   },
+   "2026-09-09": {
     "oy": 29000,
     "bjMedian": 13000,
     "bjMin": 9000,
@@ -25973,6 +31013,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.45
+   },
+   "2026-09-09": {
+    "oy": 22000,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 10000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.45
    }
   },
   "oyPrice": 22000
@@ -26004,13 +31056,25 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.43
+   },
+   "2026-09-09": {
+    "oy": 28900,
+    "bjMedian": 12500,
+    "bjMin": 7000,
+    "bjMax": 23400,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.43
    }
   },
   "oyPrice": 28900
  },
  "A000000258670": {
   "brand": "마몽드",
-  "name": "[지성화잘먹] 마몽드 포어 컨트롤 피어니 리퀴드 마스크 외 1종 리필 기획 (+80ml 리필)",
+  "name": "[결광화잘먹/지성화잘먹] 마몽드 리퀴드 마스크 +80ml 리필 기획 (로즈/피어니)",
   "days": {
    "2026-09-07": {
     "oy": 30000,
@@ -26035,6 +31099,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 30000,
+    "bjMedian": 8950,
+    "bjMin": 6000,
+    "bjMax": 20500,
+    "bjCount": 10,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.3
    }
   },
   "oyPrice": 30000
@@ -26056,6 +31132,18 @@
     "premium": 0.41
    },
    "2026-09-08": {
+    "oy": 35000,
+    "bjMedian": 14500,
+    "bjMin": 13000,
+    "bjMax": 17000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 35000,
     "bjMedian": 14500,
     "bjMin": 13000,
@@ -26097,6 +31185,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.4
+   },
+   "2026-09-09": {
+    "oy": 24000,
+    "bjMedian": 9500,
+    "bjMin": 7000,
+    "bjMax": 16000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.4
    }
   },
   "oyPrice": 24000
@@ -26118,6 +31218,18 @@
     "premium": 0.37
    },
    "2026-09-08": {
+    "oy": 26900,
+    "bjMedian": 10000,
+    "bjMin": 7000,
+    "bjMax": 11000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
+   },
+   "2026-09-09": {
     "oy": 26900,
     "bjMedian": 10000,
     "bjMin": 7000,
@@ -26159,6 +31271,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.36
+   },
+   "2026-09-09": {
+    "oy": 28000,
+    "bjMedian": 10000,
+    "bjMin": 6000,
+    "bjMax": 20000,
+    "bjCount": 33,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
    }
   },
   "oyPrice": 28000
@@ -26190,6 +31314,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.36
+   },
+   "2026-09-09": {
+    "oy": 25000,
+    "bjMedian": 9000,
+    "bjMin": 6000,
+    "bjMax": 12000,
+    "bjCount": 19,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.36
    }
   },
   "oyPrice": 25000
@@ -26211,6 +31347,18 @@
     "premium": 0.35
    },
    "2026-09-08": {
+    "oy": 24000,
+    "bjMedian": 8500,
+    "bjMin": 4250,
+    "bjMax": 14000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
+   },
+   "2026-09-09": {
     "oy": 24000,
     "bjMedian": 8500,
     "bjMin": 4250,
@@ -26252,6 +31400,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.33
+   },
+   "2026-09-09": {
+    "oy": 16200,
+    "bjMedian": 5310,
+    "bjMin": 5000,
+    "bjMax": 6000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
    }
   },
   "oyPrice": 16200
@@ -26273,6 +31433,18 @@
     "premium": 0.33
    },
    "2026-09-08": {
+    "oy": 26900,
+    "bjMedian": 9000,
+    "bjMin": 5000,
+    "bjMax": 22000,
+    "bjCount": 28,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
+   },
+   "2026-09-09": {
     "oy": 26900,
     "bjMedian": 9000,
     "bjMin": 5000,
@@ -26314,6 +31486,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 51000,
+    "bjMedian": 15000,
+    "bjMin": 12000,
+    "bjMax": 42000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
    }
   },
   "oyPrice": 51000
@@ -26335,6 +31519,18 @@
     "premium": 0.26
    },
    "2026-09-08": {
+    "oy": 36000,
+    "bjMedian": 9500,
+    "bjMin": 8000,
+    "bjMax": 15000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.26
+   },
+   "2026-09-09": {
     "oy": 36000,
     "bjMedian": 9500,
     "bjMin": 8000,
@@ -26376,6 +31572,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.2
+   },
+   "2026-09-09": {
+    "oy": 52000,
+    "bjMedian": 10350,
+    "bjMin": 6000,
+    "bjMax": 11000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.2
    }
   },
   "oyPrice": 52000
@@ -26385,6 +31593,18 @@
   "name": "[콜라보한정신상] 롬앤 | 미피 팝스 치크",
   "days": {
    "2026-09-08": {
+    "oy": 16000,
+    "bjMedian": 20000,
+    "bjMin": 15000,
+    "bjMax": 24000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.25
+   },
+   "2026-09-09": {
     "oy": 16000,
     "bjMedian": 20000,
     "bjMin": 15000,
@@ -26414,6 +31634,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.95
+   },
+   "2026-09-09": {
+    "oy": 21000,
+    "bjMedian": 20000,
+    "bjMin": 18000,
+    "bjMax": 25500,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.95
    }
   },
   "oyPrice": 21000
@@ -26433,15 +31665,39 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.92
+   },
+   "2026-09-09": {
+    "oy": 26100,
+    "bjMedian": 18500,
+    "bjMin": 17000,
+    "bjMax": 25000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
-  "oyPrice": 20100
+  "oyPrice": 26100
  },
  "A000000210068": {
   "brand": "VT",
   "name": "[깐달걀/화잘먹] VT 리들샷 300 에센스 30ml 기획 (+리들샷 300 파우치 1ml*3ea)",
   "days": {
    "2026-09-08": {
+    "oy": 18500,
+    "bjMedian": 16900,
+    "bjMin": 8000,
+    "bjMax": 17900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.91
+   },
+   "2026-09-09": {
     "oy": 18500,
     "bjMedian": 16900,
     "bjMin": 8000,
@@ -26471,6 +31727,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.81
+   },
+   "2026-09-09": {
+    "oy": 35000,
+    "bjMedian": 28500,
+    "bjMin": 28000,
+    "bjMax": 29000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.81
    }
   },
   "oyPrice": 35000
@@ -26480,6 +31748,18 @@
   "name": "[단독기획/증정] 어노브 딥 데미지 리페어 헤어 마스크 (헤어 트리트먼트) 텐더블룸 207ml+100ml",
   "days": {
    "2026-09-08": {
+    "oy": 16900,
+    "bjMedian": 13500,
+    "bjMin": 9000,
+    "bjMax": 23000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
+   },
+   "2026-09-09": {
     "oy": 16900,
     "bjMedian": 13500,
     "bjMin": 9000,
@@ -26509,6 +31789,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.76
+   },
+   "2026-09-09": {
+    "oy": 44000,
+    "bjMedian": 35000,
+    "bjMin": 32000,
+    "bjMax": 43000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.8
    }
   },
   "oyPrice": 44000
@@ -26518,6 +31810,18 @@
   "name": "[모공결데일리앰플] 라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼 30ml",
   "days": {
    "2026-09-08": {
+    "oy": 40800,
+    "bjMedian": 29000,
+    "bjMin": 25000,
+    "bjMax": 31000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
+   },
+   "2026-09-09": {
     "oy": 40800,
     "bjMedian": 29000,
     "bjMin": 25000,
@@ -26547,6 +31851,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.71
+   },
+   "2026-09-09": {
+    "oy": 33900,
+    "bjMedian": 24000,
+    "bjMin": 15000,
+    "bjMax": 33000,
+    "bjCount": 16,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.71
    }
   },
   "oyPrice": 33900
@@ -26556,6 +31872,18 @@
   "name": "쏘내추럴 올 데이 타이트 메이크업 세팅 픽서 75ml",
   "days": {
    "2026-09-08": {
+    "oy": 14400,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 21900,
+    "bjCount": 20,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.69
+   },
+   "2026-09-09": {
     "oy": 14400,
     "bjMedian": 10000,
     "bjMin": 5000,
@@ -26585,6 +31913,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.68
+   },
+   "2026-09-09": {
+    "oy": 21900,
+    "bjMedian": 14950,
+    "bjMin": 10000,
+    "bjMax": 19000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
    }
   },
   "oyPrice": 21900
@@ -26594,6 +31934,18 @@
   "name": "[NEW/바디트러블 케어] 메디큐브 레드 아크네 바디 필링 샷 110g",
   "days": {
    "2026-09-08": {
+    "oy": 19900,
+    "bjMedian": 13500,
+    "bjMin": 9000,
+    "bjMax": 22000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.68
+   },
+   "2026-09-09": {
     "oy": 19900,
     "bjMedian": 13500,
     "bjMin": 9000,
@@ -26623,6 +31975,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.67
+   },
+   "2026-09-09": {
+    "oy": 20900,
+    "bjMedian": 15000,
+    "bjMin": 8000,
+    "bjMax": 16000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.72
    }
   },
   "oyPrice": 20900
@@ -26632,6 +31996,18 @@
   "name": "[NEW/+톤업베이스 5ml 기획] 지베르니 밀착 커버 파운데이션 30ml",
   "days": {
    "2026-09-08": {
+    "oy": 23440,
+    "bjMedian": 15000,
+    "bjMin": 10000,
+    "bjMax": 23000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
+   },
+   "2026-09-09": {
     "oy": 23440,
     "bjMedian": 15000,
     "bjMin": 10000,
@@ -26661,6 +32037,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.64
+   },
+   "2026-09-09": {
+    "oy": 29700,
+    "bjMedian": 19000,
+    "bjMin": 17000,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
    }
   },
   "oyPrice": 29700
@@ -26680,15 +32068,39 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.59
+   },
+   "2026-09-09": {
+    "oy": 16900,
+    "bjMedian": 10000,
+    "bjMin": 7000,
+    "bjMax": 15000,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.59
    }
   },
-  "oyPrice": 17000
+  "oyPrice": 16900
  },
  "A000000233802": {
   "brand": "텐제로",
   "name": "텐제로 알로에 유브이 톤업 바디 선크림 150g",
   "days": {
    "2026-09-08": {
+    "oy": 30000,
+    "bjMedian": 16900,
+    "bjMin": 7000,
+    "bjMax": 19000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 30000,
     "bjMedian": 16900,
     "bjMin": 7000,
@@ -26718,6 +32130,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 21400,
+    "bjMedian": 12000,
+    "bjMin": 8000,
+    "bjMax": 18900,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 21400
@@ -26727,6 +32151,18 @@
   "name": "[왁뿌볼증정/단독기획] 무지개맨션 뮤티드 블러 틴트",
   "days": {
    "2026-09-08": {
+    "oy": 14400,
+    "bjMedian": 8000,
+    "bjMin": 6000,
+    "bjMax": 12345,
+    "bjCount": 21,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   },
+   "2026-09-09": {
     "oy": 14400,
     "bjMedian": 8000,
     "bjMin": 6000,
@@ -26756,6 +32192,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.56
+   },
+   "2026-09-09": {
+    "oy": 26900,
+    "bjMedian": 15000,
+    "bjMin": 14000,
+    "bjMax": 16900,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
    }
   },
   "oyPrice": 26900
@@ -26775,13 +32223,25 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.54
+   },
+   "2026-09-09": {
+    "oy": 19900,
+    "bjMedian": 10815,
+    "bjMin": 9000,
+    "bjMax": 16000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
    }
   },
   "oyPrice": 19900
  },
  "A000000254571": {
   "brand": "듀이트리",
-  "name": "[9/9 하루특가/1+1 한정기획] 듀이트리 어반쉐이드 쿨 카밍 선스틱 20g 더블 기획 (+안티폴루션 선 10ml)",
+  "name": "[1+1 한정기획/쿨링선스틱] 듀이트리 어반쉐이드 쿨 카밍 선스틱 20g 더블 기획 (+안티폴루션 선 10ml)",
   "days": {
    "2026-09-08": {
     "oy": 18900,
@@ -26794,15 +32254,39 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.53
+   },
+   "2026-09-09": {
+    "oy": 19600,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 10000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
-  "oyPrice": 18900
+  "oyPrice": 19600
  },
  "B000000212360": {
   "brand": "브랜든",
   "name": "브랜든 세이프 크로스 바디백 S",
   "days": {
    "2026-09-08": {
+    "oy": 58000,
+    "bjMedian": 30000,
+    "bjMin": 20000,
+    "bjMax": 42550,
+    "bjCount": 5,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
+   },
+   "2026-09-09": {
     "oy": 58000,
     "bjMedian": 30000,
     "bjMin": 20000,
@@ -26832,6 +32316,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.51
+   },
+   "2026-09-09": {
+    "oy": 17500,
+    "bjMedian": 9000,
+    "bjMin": 8000,
+    "bjMax": 10000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
    }
   },
   "oyPrice": 17500
@@ -26841,6 +32337,18 @@
   "name": "아리아나그란데 스위트 라이크 캔디 EDP 30ml 기획(+땡큐넥스트 1.5ml 바이알)",
   "days": {
    "2026-09-08": {
+    "oy": 75000,
+    "bjMedian": 38400,
+    "bjMin": 20000,
+    "bjMax": 51000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.51
+   },
+   "2026-09-09": {
     "oy": 75000,
     "bjMedian": 38400,
     "bjMin": 20000,
@@ -26870,6 +32378,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.5
+   },
+   "2026-09-09": {
+    "oy": 19900,
+    "bjMedian": 10000,
+    "bjMin": 7000,
+    "bjMax": 21160,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 19900
@@ -26879,6 +32399,18 @@
   "name": "글로우엠 부스터 소닉",
   "days": {
    "2026-09-08": {
+    "oy": 421900,
+    "bjMedian": 192500,
+    "bjMin": 100000,
+    "bjMax": 360000,
+    "bjCount": 28,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.46
+   },
+   "2026-09-09": {
     "oy": 421900,
     "bjMedian": 192500,
     "bjMin": 100000,
@@ -26908,6 +32440,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.42
+   },
+   "2026-09-09": {
+    "oy": 23900,
+    "bjMedian": 12000,
+    "bjMin": 10000,
+    "bjMax": 17000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.5
    }
   },
   "oyPrice": 23900
@@ -26917,6 +32461,18 @@
   "name": "[탄력광채] 메디큐브 PDRN 핑크 콜라겐 겔 마스크팩 7매",
   "days": {
    "2026-09-08": {
+    "oy": 29900,
+    "bjMedian": 12200,
+    "bjMin": 5000,
+    "bjMax": 15000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.41
+   },
+   "2026-09-09": {
     "oy": 29900,
     "bjMedian": 12200,
     "bjMin": 5000,
@@ -26946,6 +32502,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.39
+   },
+   "2026-09-09": {
+    "oy": 51870,
+    "bjMedian": 20000,
+    "bjMin": 9000,
+    "bjMax": 25000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.39
    }
   },
   "oyPrice": 51870
@@ -26965,15 +32533,39 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.39
+   },
+   "2026-09-09": {
+    "oy": 26000,
+    "bjMedian": 13500,
+    "bjMin": 13000,
+    "bjMax": 17000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
    }
   },
-  "oyPrice": 35000
+  "oyPrice": 26000
  },
  "A000000172171": {
   "brand": "바이오더마",
   "name": "바이오더마 아토덤 울트라 크림 200ml",
   "days": {
    "2026-09-08": {
+    "oy": 29500,
+    "bjMedian": 10250,
+    "bjMin": 6000,
+    "bjMax": 18000,
+    "bjCount": 8,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.35
+   },
+   "2026-09-09": {
     "oy": 29500,
     "bjMedian": 10250,
     "bjMin": 6000,
@@ -27003,6 +32595,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.34
+   },
+   "2026-09-09": {
+    "oy": 29800,
+    "bjMedian": 10000,
+    "bjMin": 9000,
+    "bjMax": 13000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.34
    }
   },
   "oyPrice": 29800
@@ -27012,6 +32616,18 @@
   "name": "[포켓몬 에디션] VT 피디알엔 캡슐 크림 100 50ml 더블 기획 (+피카츄 파우치 키링)",
   "days": {
    "2026-09-08": {
+    "oy": 38000,
+    "bjMedian": 13000,
+    "bjMin": 12000,
+    "bjMax": 28000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.34
+   },
+   "2026-09-09": {
     "oy": 38000,
     "bjMedian": 13000,
     "bjMin": 12000,
@@ -27041,6 +32657,18 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.29
+   },
+   "2026-09-09": {
+    "oy": 28000,
+    "bjMedian": 8000,
+    "bjMin": 7000,
+    "bjMax": 9000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.29
    }
   },
   "oyPrice": 28000
@@ -27060,8 +32688,457 @@
     "kSoldMedian": null,
     "kSoldCount": 0,
     "premium": 0.17
+   },
+   "2026-09-09": {
+    "oy": 19500,
+    "bjMedian": 3400,
+    "bjMin": 2500,
+    "bjMax": 6700,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.17
    }
   },
   "oyPrice": 19500
+ },
+ "B000000264134": {
+  "brand": "DJI",
+  "name": "DJI Osmo Pocket 4 스탠다드 콤보",
+  "days": {
+   "2026-09-09": {
+    "oy": 662000,
+    "bjMedian": 860000,
+    "bjMin": 640000,
+    "bjMax": 953000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 1.3
+   }
+  },
+  "oyPrice": 662000
+ },
+ "A000000232475": {
+  "brand": "쏘내추럴",
+  "name": "[휴대용미니픽서] 쏘내추럴 올 데이 타이트 메이크업 세팅 픽서 35ml",
+  "days": {
+   "2026-09-09": {
+    "oy": 7870,
+    "bjMedian": 10000,
+    "bjMin": 4250,
+    "bjMax": 21900,
+    "bjCount": 17,
+    "kActiveMedian": 20000,
+    "kActiveCount": 1,
+    "kSoldMedian": 9000,
+    "kSoldCount": 1,
+    "premium": 1.27
+   }
+  },
+  "oyPrice": 7870
+ },
+ "A000000250344": {
+  "brand": "아이오페",
+  "name": "[자극도ZERO]아이오페 레티놀 슈퍼 바운스 세럼 20ml 기획 (+15ml)",
+  "days": {
+   "2026-09-09": {
+    "oy": 33000,
+    "bjMedian": 40000,
+    "bjMin": 20000,
+    "bjMax": 49900,
+    "bjCount": 9,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": 23000,
+    "kSoldCount": 1,
+    "premium": 1.21
+   }
+  },
+  "oyPrice": 33000
+ },
+ "A000000255227": {
+  "brand": "바이오더마",
+  "name": "바이오더마 하이드라비오 에센스로션 200ml 2입 기획 (+미스트펌프 증정)",
+  "days": {
+   "2026-09-09": {
+    "oy": 47800,
+    "bjMedian": 42800,
+    "bjMin": 40000,
+    "bjMax": 44000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.9
+   }
+  },
+  "oyPrice": 47800
+ },
+ "A000000162605": {
+  "brand": "피카소",
+  "name": "피카소 133 픽싱 파우더 브러쉬",
+  "days": {
+   "2026-09-09": {
+    "oy": 39000,
+    "bjMedian": 31000,
+    "bjMin": 30000,
+    "bjMax": 36000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
+   }
+  },
+  "oyPrice": 39000
+ },
+ "A000000134691": {
+  "brand": "바이오더마",
+  "name": "바이오더마 시카비오 포마드 100ml(리페어 리치 밤)",
+  "days": {
+   "2026-09-09": {
+    "oy": 31000,
+    "bjMedian": 24500,
+    "bjMin": 18000,
+    "bjMax": 28000,
+    "bjCount": 12,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.79
+   }
+  },
+  "oyPrice": 31000
+ },
+ "A000000264908": {
+  "brand": "질레트",
+  "name": "질레트 랩스 SON 리미티드 에디션(핸들+면도날 2입+행어)",
+  "days": {
+   "2026-09-09": {
+    "oy": 29900,
+    "bjMedian": 22000,
+    "bjMin": 22000,
+    "bjMax": 22000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.74
+   }
+  },
+  "oyPrice": 29900
+ },
+ "A000000267356": {
+  "brand": "아뜰리에페이",
+  "name": "[NEW/기획] 아뜰리에페이 퍼퓸 30ml 데이오프",
+  "days": {
+   "2026-09-09": {
+    "oy": 34200,
+    "bjMedian": 25000,
+    "bjMin": 20300,
+    "bjMax": 27000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.73
+   }
+  },
+  "oyPrice": 34200
+ },
+ "A000000208825": {
+  "brand": "에이딕트",
+  "name": "에이딕트 솔리드 퍼퓸 네이키드 뮤게 313 30ml",
+  "days": {
+   "2026-09-09": {
+    "oy": 22800,
+    "bjMedian": 16000,
+    "bjMin": 15000,
+    "bjMax": 24500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.7
+   }
+  },
+  "oyPrice": 22800
+ },
+ "A000000179060": {
+  "brand": "리베르",
+  "name": "리베르 섬유향수 선드라이 100ml",
+  "days": {
+   "2026-09-09": {
+    "oy": 14200,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 14200,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.7
+   }
+  },
+  "oyPrice": 14200
+ },
+ "A000000227936": {
+  "brand": "셀리맥스",
+  "name": "[각질제거/피부결/토너패드] 셀리맥스 어성초 바하 지우개 필링 패드 60매 기획(+10매)",
+  "days": {
+   "2026-09-09": {
+    "oy": 11500,
+    "bjMedian": 7500,
+    "bjMin": 5760,
+    "bjMax": 9000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.65
+   }
+  },
+  "oyPrice": 11500
+ },
+ "B000000251401": {
+  "brand": "루메나",
+  "name": "루메나 탁상용 무선 선풍기 FAN STAND 3Z",
+  "days": {
+   "2026-09-09": {
+    "oy": 39900,
+    "bjMedian": 26000,
+    "bjMin": 15000,
+    "bjMax": 35000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.65
+   }
+  },
+  "oyPrice": 39900
+ },
+ "A000000199737": {
+  "brand": "피지오겔",
+  "name": "피지오겔 레드 수딩 AI 리페어 크림 100ml",
+  "days": {
+   "2026-09-09": {
+    "oy": 27500,
+    "bjMedian": 17500,
+    "bjMin": 10000,
+    "bjMax": 30900,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.64
+   }
+  },
+  "oyPrice": 27500
+ },
+ "A000000250711": {
+  "brand": "넘버즈인",
+  "name": "[화잘먹] 넘버즈인 3번 보들보들 퍼스트 결부스팅 토너 200ml 기획 (+50ml)",
+  "days": {
+   "2026-09-09": {
+    "oy": 18000,
+    "bjMedian": 10000,
+    "bjMin": 10000,
+    "bjMax": 15900,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.56
+   }
+  },
+  "oyPrice": 18000
+ },
+ "A000000224942": {
+  "brand": "일리윤",
+  "name": "일리윤 튼살 크림(200ML/330ML)",
+  "days": {
+   "2026-09-09": {
+    "oy": 28000,
+    "bjMedian": 15000,
+    "bjMin": 5000,
+    "bjMax": 16000,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.54
+   }
+  },
+  "oyPrice": 28000
+ },
+ "A000000226266": {
+  "brand": "메디필",
+  "name": "[원조랩핑] 메디필 레드락토 콜라겐 랩핑 마스크 70ml 대용량 기획 (+30ml)",
+  "days": {
+   "2026-09-09": {
+    "oy": 19000,
+    "bjMedian": 10000,
+    "bjMin": 5000,
+    "bjMax": 21000,
+    "bjCount": 27,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.53
+   }
+  },
+  "oyPrice": 19000
+ },
+ "A000000205685": {
+  "brand": "프리티프릭",
+  "name": "[입술 플럼핑 뷰티디바이스] 프리티프릭 체리립 플럼퍼",
+  "days": {
+   "2026-09-09": {
+    "oy": 43900,
+    "bjMedian": 23000,
+    "bjMin": 12000,
+    "bjMax": 34900,
+    "bjCount": 13,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.52
+   }
+  },
+  "oyPrice": 43900
+ },
+ "A000000233590": {
+  "brand": "이즈앤트리",
+  "name": "[NEW/3색톤업] 이즈앤트리 어니언 뉴페어 퍼플 톤업 선크림 50ml",
+  "days": {
+   "2026-09-09": {
+    "oy": 16800,
+    "bjMedian": 8000,
+    "bjMin": 4000,
+    "bjMax": 12000,
+    "bjCount": 17,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.48
+   }
+  },
+  "oyPrice": 16800
+ },
+ "A000000130138": {
+  "brand": "에스트라",
+  "name": "에스트라 아토베리어365 크림미스트 120ml",
+  "days": {
+   "2026-09-09": {
+    "oy": 18900,
+    "bjMedian": 9000,
+    "bjMin": 6000,
+    "bjMax": 18000,
+    "bjCount": 14,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.48
+   }
+  },
+  "oyPrice": 18900
+ },
+ "A000000244040": {
+  "brand": "라네즈",
+  "name": "[수분광채/리필증정] 라네즈 워터 슬리핑 마스크 70ml 기획 (+40ml 리필+슬리핑마스크 미니 2종)",
+  "days": {
+   "2026-09-09": {
+    "oy": 32000,
+    "bjMedian": 15000,
+    "bjMin": 7000,
+    "bjMax": 22000,
+    "bjCount": 7,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.47
+   }
+  },
+  "oyPrice": 32000
+ },
+ "A000000230540": {
+  "brand": "라네즈",
+  "name": "[진정시카] 라네즈 시카 슬리핑 마스크 60ml 기획 (+슬리핑 마스크 미니 3종)",
+  "days": {
+   "2026-09-09": {
+    "oy": 34000,
+    "bjMedian": 12500,
+    "bjMin": 11000,
+    "bjMax": 20000,
+    "bjCount": 4,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.37
+   }
+  },
+  "oyPrice": 34000
+ },
+ "A000000260771": {
+  "brand": "동화약품",
+  "name": "[트러블흔적케어] 동화약품 비타비 스팟 겔 15ml 기획 (+5ml)",
+  "days": {
+   "2026-09-09": {
+    "oy": 29000,
+    "bjMedian": 10000,
+    "bjMin": 8000,
+    "bjMax": 12000,
+    "bjCount": 6,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.34
+   }
+  },
+  "oyPrice": 29000
+ },
+ "A000000190970": {
+  "brand": "에스네이처",
+  "name": "[수분광콜라겐팩/화해1위] 에스네이처 수퍼 아쿠아겔 오아시스 앰플 마스크 10매",
+  "days": {
+   "2026-09-09": {
+    "oy": 15000,
+    "bjMedian": 5000,
+    "bjMin": 5000,
+    "bjMax": 11500,
+    "bjCount": 3,
+    "kActiveMedian": null,
+    "kActiveCount": 0,
+    "kSoldMedian": null,
+    "kSoldCount": 0,
+    "premium": 0.33
+   }
+  },
+  "oyPrice": 15000
  }
 }
