@@ -39,6 +39,12 @@
   // Newest first. name.ja is the official Japanese store title; omit it when the app has none (English is shown).
   // play = Google Play package, ios = App Store id, site = marketing page, video = YouTube id or { lang: id }.
   const APPS = [
+    { id: "poker-snake", genre: "puzzle", date: "2026-10-24", video: "-kji8EJnUL0",
+      name: { ko: "포커 스네이크", en: "Poker Snake" },
+      desc: { ko: "먹은 카드가 꼬리에 붙고, 꼬리 카드 5장으로 족보를 맞추면 펑! 터지는 뱀 퍼즐.",
+              en: "Eat cards, grow your tail, make a poker hand with the last five and pop!",
+              ja: "食べたカードが尻尾に連なり、尻尾の5枚でポーカーの役をそろえるとポン！とはじけるヘビパズル。" },
+      play: "com.liveasfilm.pokersnake", site: "/poker-snake-site/" },
     { id: "rubble", genre: "action", date: "2026-10-20", video: "3gcF1-jcMeo",
       name: { ko: "RUBBLE — 철거 놀이터", en: "RUBBLE — Demolition Playground" },
       desc: { ko: "중장비 20대가 한 도시에서 맞붙는 철거 서바이벌. 부수고 성장해 마지막 한 대가 되세요.",
@@ -189,6 +195,7 @@
   const ICON_IOS = '<svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3.5" y="1" width="9" height="14" rx="2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M6.5 12.5h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>';
   const ICON_SITE = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3H3v10h10v-3M9 2h5v5M14 2 7.5 8.5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
   const ICON_DIR = "/assets/portfolio/icons/";
+  const MOSAIC_SIZE = 24; // Fills every row at the 8- and 6-column layouts.
 
   const esc = (s) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const nameOf = (a, lang) => a.name[lang] || a.name.en;
@@ -255,7 +262,7 @@
             <a class="cta" href="mailto:${EMAIL}">${esc(t.contact)}</a>
           </div>
           <nav class="mosaic" aria-label="Apps">
-            ${APPS.map((a) => `<a href="#${a.id}" title="${esc(nameOf(a, lang))}"><img src="${ICON_DIR}${a.id}.webp" alt="${esc(nameOf(a, lang))}" width="96" height="96"></a>`).join("")}
+            ${APPS.slice(0, MOSAIC_SIZE).map((a) => `<a href="#${a.id}" title="${esc(nameOf(a, lang))}"><img src="${ICON_DIR}${a.id}.webp" alt="${esc(nameOf(a, lang))}" width="96" height="96"></a>`).join("")}
           </nav>
         </section>
         <div class="bar">
