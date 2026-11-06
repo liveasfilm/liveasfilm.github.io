@@ -110,7 +110,7 @@
       desc: { ko: "랜드마크 100곳을 기어오르는 괴수만 정확히 맞혀야 하는 포대 방어 게임.",
               en: "Kaiju are climbing 100 landmarks. Aim your cannon and hit only the monsters.",
               ja: "ランドマーク100か所をよじ登る怪獣だけを、砲台で正確に撃ち抜く防衛ゲーム。" },
-      ios: "6818137960", site: "/landmark-defense-site/" },
+      play: "com.liveasfilm.landmark_defense", ios: "6818137960", site: "/landmark-defense-site/" },
     { id: "swing-trick", genre: "action", date: "2026-10-06", video: { ko: "3JuqmsNBd6Q", en: "TTKnfxAwuyg" },
       name: { ko: "Swing Trick", en: "Swing Trick" },
       desc: { ko: "그네에서 날아올라 슬로우모션으로 묘기를 편집하고, 두 발로 착지하세요.",
