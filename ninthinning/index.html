@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>9회말 투아웃 (Ninth Inning: Two Outs) — 한 타석으로 끝나는 야구 대전</title>
+<meta name="description" content="9회말 2아웃 만루, 7 : 8. 타자가 되어 치거나 투수가 되어 막으세요. 혼자서는 CPU와, 온라인에서는 다른 사람과 한 타석으로 붙는 야구 게임.">
+<link rel="icon" href="assets/icon.png">
+<link rel="apple-touch-icon" href="assets/icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="9회말 투아웃 (Ninth Inning: Two Outs)">
+<meta property="og:description" content="Bottom of the ninth, two outs, bases loaded, down 7-8. One at-bat, batter vs pitcher, online.">
+<meta property="og:image" content="https://liveasfilm.github.io/ninthinning/assets/feature.jpg">
+<meta property="og:url" content="https://liveasfilm.github.io/ninthinning/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0c141e; --bg-2:#10202d; --panel:#152a3b; --ink:#f6f8fb; --muted:#a9b9c8;
+    --line:#264257; --gold:#ffd23f; --coral:#ff7a59; --pink:#ff9fc4;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);line-height:1.7;font-size:16px;overflow-x:hidden;
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Segoe UI",Roboto,sans-serif;
+    word-break:keep-all}
+  img{max-width:100%;display:block}
+  a{color:var(--gold)}
+  .wrap{max-width:980px;margin:0 auto;padding:0 16px}
+  header{border-bottom:1px solid var(--line)}
+  .bar{display:flex;align-items:center;gap:12px;height:60px}
+  .brand{display:flex;align-items:center;gap:10px;flex:1;min-width:0;text-decoration:none;color:var(--ink)}
+  .brand img{width:34px;height:34px;border-radius:8px}
+  .brand b{font-family:"Black Han Sans",sans-serif;font-weight:400;font-size:20px;white-space:nowrap}
+  .langs a{padding:5px 12px;border-radius:999px;border:1px solid var(--line);text-decoration:none;font-size:13px;color:var(--muted)}
+  .hero{position:relative;text-align:center;padding:0 0 40px}
+  .hero .art{position:relative;max-width:980px;margin:0 auto}
+  .hero .art img{width:100%;aspect-ratio:3/2;object-fit:cover;object-position:top}
+  .hero .art::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 45%,var(--bg) 98%)}
+  .hero .copy{position:relative;margin-top:-120px;z-index:1}
+  h1{font-family:"Black Han Sans",sans-serif;font-weight:400;font-size:56px;line-height:1.15;margin:0;color:var(--gold);
+    text-shadow:0 3px 0 #0c141e,0 0 18px rgba(0,0,0,.6)}
+  .sub{font-family:"Black Han Sans",sans-serif;font-size:22px;margin:6px 0 16px}
+  .lead{max-width:660px;margin:0 auto;color:var(--muted);font-size:18px}
+  .cta{display:inline-block;margin:24px 6px 0;padding:12px 22px;border-radius:999px;background:var(--gold);color:#2b2100;
+    font-weight:700;text-decoration:none}
+  .cta.ghost{background:transparent;color:var(--gold);border:1px solid var(--gold)}
+  .note{color:var(--muted);font-size:14px;margin-top:10px}
+  h2{font-family:"Black Han Sans",sans-serif;font-weight:400;font-size:30px;margin:48px 0 16px;text-align:center}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:22px}
+  .card h3{font-family:"Black Han Sans",sans-serif;font-weight:400;font-size:22px;margin:0 0 6px;color:var(--gold)}
+  .card p{margin:0}
+  .roster{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  .player{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px 8px 14px;text-align:center}
+  .player img{height:220px;width:auto;margin:0 auto 8px}
+  .player b{display:block;font-size:17px}
+  .player span{color:var(--muted);font-size:13px}
+  .home b{color:#9ec5ff} .away b{color:var(--pink)}
+  ul.facts{max-width:660px;margin:0 auto;padding-left:20px}
+  footer{border-top:1px solid var(--line);margin-top:56px;padding:28px 0 40px;color:var(--muted);font-size:14px;text-align:center}
+  footer a{margin:0 8px}
+  hr{border:0;border-top:1px solid var(--line);margin:64px 0 0}
+  @media (max-width:640px){h1{font-size:40px}.hero .copy{margin-top:-60px}.lead{font-size:16px}
+    .roster{grid-template-columns:repeat(2,1fr)}.player img{height:170px}}
+</style>
+</head>
+<body>
+<header><div class="wrap bar">
+  <a class="brand" href="./"><img src="assets/icon.png" alt=""><b>9회말 투아웃</b></a>
+  <span class="langs"><a href="#ko">한국어</a> <a href="#en">English</a></span>
+</div></header>
+
+<section id="ko">
+<div class="hero">
+  <div class="art"><img src="assets/title.jpg" alt="리오, 노엘, 미라, 세나가 홈런을 기뻐하는 그림"></div>
+  <div class="wrap copy">
+    <h1>9회말 투아웃</h1>
+    <div class="sub">2아웃 만루, 7 : 8. 한 타석으로 끝난다.</div>
+    <p class="lead">타자가 되어 공이 지나갈 곳을 눌러 치거나, 투수가 되어 구종 · 코스 · 릴리스 타이밍으로 삼진을 잡으세요. 혼자서는 CPU와, 온라인 대전에서는 다른 사람과 타자 대 투수로 붙습니다.</p>
+    <a class="cta" href="https://liveasfilm.itch.io/ninth-inning">브라우저에서 해 보기</a>
+    <p class="note">iPhone · Android 앱은 테스트 중입니다.</p>
+  </div>
+</div>
+
+<div class="wrap">
+  <h2>한 타석 승부</h2>
+  <div class="grid">
+    <div class="card"><h3>타자</h3><p>공이 지나갈 곳을 터치하면 그 높이와 거리로 배트가 나갑니다. 공의 위쪽을 치면 땅볼, 아래쪽을 치면 뜬공. 홈런은 제대로 맞아야 넘어갑니다.</p></div>
+    <div class="card"><h3>투수</h3><p>포심 · 커터 · 체인지업 · 커브. 조준 패드로 코스를 정하고 게이지가 가운데일 때 공을 놓으세요. 구종을 못 읽은 타자는 속습니다.</p></div>
+    <div class="card"><h3>필드 중계</h3><p>맞히면 수비 9명과 주자 3명이 움직입니다. 끝내기 안타, 다이빙 캐치, 펜스 앞 점프 캐치. 볼넷이면 밀어내기 동점입니다.</p></div>
+    <div class="card"><h3>온라인 대전</h3><p>닉네임만 정하면 타자로 / 투수로 / 아무 역할로 찾기. 판정은 서버가 하고, 타율 · 방어율 · 레이팅 · 순위표가 쌓입니다.</p></div>
+  </div>
+
+  <h2>선수 4명</h2>
+  <div class="roster">
+    <div class="player home"><img src="assets/rio.png" alt=""><b>리오 아마네</b><span>나인스 #18 · 우투좌타</span></div>
+    <div class="player home"><img src="assets/noel.png" alt=""><b>노엘 카나데</b><span>나인스 #7 · 좌투우타</span></div>
+    <div class="player away"><img src="assets/mira.png" alt=""><b>미라 코하네</b><span>코멧츠 #21 · 좌투좌타</span></div>
+    <div class="player away"><img src="assets/sena.png" alt=""><b>세나 히스이</b><span>코멧츠 #11 · 우투우타</span></div>
+  </div>
+
+  <h2>알아 두세요</h2>
+  <ul class="facts">
+    <li>무료 게임입니다. 광고와 인앱 결제가 없습니다.</li>
+    <li>온라인 대전에는 인터넷 연결이 필요하고, 닉네임과 경기 기록이 리그 서버에 저장됩니다. 로그인이나 이메일은 받지 않습니다. 자세한 내용은 <a href="privacy/">개인정보처리방침</a>을 보세요.</li>
+    <li>문의 · 기록 삭제 요청: <a href="mailto:liveasfilm@gmail.com">liveasfilm@gmail.com</a></li>
+  </ul>
+</div>
+</section>
+
+<hr>
+
+<section id="en">
+<div class="hero"><div class="wrap copy" style="margin-top:40px">
+  <h1>Ninth Inning: Two Outs</h1>
+  <div class="sub">Bases loaded, down 7-8. One at-bat decides it.</div>
+  <p class="lead">Step in as the batter and tap where the ball will cross, or take the mound and strike them out with your pitch, location and release timing. Play the CPU alone, or face real people online, batter against pitcher.</p>
+  <a class="cta" href="https://liveasfilm.itch.io/ninth-inning">Play in your browser</a>
+  <p class="note">The iPhone and Android apps are in testing. The game is in Korean.</p>
+</div></div>
+
+<div class="wrap">
+  <h2>Good to know</h2>
+  <ul class="facts">
+    <li>Free, with no ads and no in-app purchases.</li>
+    <li>Online duels need an internet connection; your nickname and game records are kept on the league server. No sign-in or email. See the <a href="privacy/#en">privacy policy</a>.</li>
+    <li>Contact and record deletion requests: <a href="mailto:liveasfilm@gmail.com">liveasfilm@gmail.com</a></li>
+  </ul>
+</div>
+</section>
+
+<footer><div class="wrap">
+  <a href="privacy/">개인정보처리방침 · Privacy Policy</a>
+  <a href="mailto:liveasfilm@gmail.com">liveasfilm@gmail.com</a>
+  <p>© 2026 liveasfilm</p>
+</div></footer>
+</body>
+</html>
