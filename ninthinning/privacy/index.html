@@ -33,7 +33,7 @@
 
 <section id="ko">
 <h1>9회말 투아웃 개인정보처리방침</h1>
-<p class="meta">시행일: 2026년 11월 11일 · 운영자: liveasfilm (liveasfilm@gmail.com)</p>
+<p class="meta">시행일: 2026년 11월 11일 · 개정: 2026년 11월 15일 (앱 1.2.1: 암호화 연결, 앱 안 기록 지우기) · 운영자: liveasfilm (liveasfilm@gmail.com)</p>
 <p>이 방침은 야구 게임 9회말 투아웃(영문명 Ninth Inning: Two Outs, 이하 "게임")의 앱(iOS, Android)과 웹 버전이 어떤 정보를 왜 처리하는지, 그리고 이용자가 무엇을 할 수 있는지 설명합니다. 게임은 실명 · 이메일 · 전화번호 · 위치 · 연락처 · 사진을 요구하지 않고, 로그인이 없습니다. 광고, 분석 도구, 인앱 결제가 없습니다.</p>
 
 <h2>1. 처리하는 정보</h2>
@@ -43,7 +43,7 @@
 <tr><td>닉네임</td><td>이용자가 로비에서 정한 이름</td><td>상대 선수 카드, 중계 인트로, 순위표에 표시. <b>다른 이용자에게 보입니다.</b></td></tr>
 <tr><td>경기 기록</td><td>투구 · 스윙 · 결과, 승패, 타율 · 방어율 같은 통산 기록, 레이팅, 상대 전적, 경기 시각</td><td>서버 판정, 매칭, 기록 · 순위표 제공</td></tr>
 <tr><td>접속 정보</td><td>통신에 필요한 IP 주소</td><td>대전 중 통신. 게임 서버는 IP 주소를 기록에 저장하지 않습니다. 서버를 호스팅하는 Fly.io의 네트워크 로그에는 잠시 남을 수 있습니다.</td></tr>
-<tr><td>기기 안의 설정</td><td>접속 키, 닉네임, 고른 서버 주소, 소리 설정</td><td>다음 실행 때 이어 하기. 기기 안에만 저장됩니다.</td></tr>
+<tr><td>기기 안의 설정</td><td>접속 키, 닉네임, 마지막으로 받은 내 기록, 소리 설정</td><td>다음 실행 때 이어 하기. 기기 안에만 저장됩니다.</td></tr>
 </table></div>
 <p>CPU 승부와 타격 연습은 서버에 아무것도 보내지 않습니다.</p>
 
@@ -52,7 +52,7 @@
 <li>리그 서버는 Fly.io(Fly.io, Inc., 미국)가 운영하는 일본 도쿄 지역 데이터센터에서 돌아갑니다. 따라서 온라인 대전 기록은 일본에 있는 서버에 저장됩니다. <a href="https://fly.io/legal/privacy-policy">Fly.io 개인정보처리방침</a></li>
 <li>웹 버전은 itch.io가 페이지를 제공합니다. <a href="https://itch.io/docs/legal/privacy-policy">itch.io 개인정보처리방침</a></li>
 </ul>
-<p>운영자는 정보를 판매하지 않으며, 법령에 따른 요청이 있는 경우를 빼고 위 목적 밖으로 제공하지 않습니다. 앱의 온라인 대전 통신은 암호화되지 않은 UDP(ENet)를 쓰고, 웹 버전은 암호화된 연결(WSS)을 씁니다. 주고받는 것은 위 표의 게임 정보뿐입니다.</p>
+<p>운영자는 정보를 판매하지 않으며, 법령에 따른 요청이 있는 경우를 빼고 위 목적 밖으로 제공하지 않습니다. 앱(1.2.1부터)과 웹 버전의 온라인 대전은 암호화된 연결(WSS, TLS)을 씁니다. 1.1.0 이하의 앱은 암호화되지 않은 UDP(ENet)를 썼습니다. 주고받는 것은 위 표의 게임 정보뿐입니다.</p>
 
 <h2>3. 보관 기간</h2>
 <p>닉네임과 경기 기록은 리그가 운영되는 동안 보관하고, 삭제 요청을 받으면 지웁니다. 리그 운영을 끝내면 모두 지웁니다. 앱을 삭제하면 기기 안의 접속 키와 설정이 지워지며, 그 뒤에는 서버의 기록을 같은 기기에서 이어 쓸 수 없습니다.</p>
@@ -61,7 +61,8 @@
 <ul>
 <li>온라인 대전을 열지 않으면 아무 정보도 서버로 가지 않습니다.</li>
 <li>닉네임은 로비에서 언제든 바꿀 수 있습니다.</li>
-<li><b>기록 삭제</b>: <a href="mailto:liveasfilm@gmail.com?subject=9%ED%9A%8C%EB%A7%90%20%ED%88%AC%EC%95%84%EC%9B%83%20%EA%B8%B0%EB%A1%9D%20%EC%82%AD%EC%A0%9C">liveasfilm@gmail.com</a> 으로 닉네임과 마지막으로 경기한 날짜를 보내 주시면 7일 안에 그 계정의 닉네임과 기록을 서버에서 지우고 답장드립니다.</li>
+<li><b>기록 지우기 (앱 안에서)</b>: 타이틀의 <b>내 기록</b> › <b>기록 지우기</b>를 누르고 확인하면, 그 자리에서 서버의 닉네임과 모든 경기 기록이 지워집니다. 다른 이용자의 기록에 남은 상대 이름도 "지운 선수"로 바뀌고, 기기의 접속 키는 새로 만들어집니다. 되돌릴 수 없습니다.</li>
+<li><b>메일로 삭제 요청</b>: 앱을 지웠거나 앱을 쓸 수 없다면 <a href="mailto:liveasfilm@gmail.com?subject=9%ED%9A%8C%EB%A7%90%20%ED%88%AC%EC%95%84%EC%9B%83%20%EA%B8%B0%EB%A1%9D%20%EC%82%AD%EC%A0%9C">liveasfilm@gmail.com</a> 으로 닉네임과 마지막으로 경기한 날짜를 보내 주시면 7일 안에 지우고 답장드립니다.</li>
 <li>열람 · 정정 · 처리 정지 요청도 같은 주소로 받습니다.</li>
 </ul>
 
@@ -76,7 +77,7 @@
 
 <section id="en">
 <h1>Ninth Inning: Two Outs Privacy Policy</h1>
-<p class="meta">Effective November 11, 2026 · Operator: liveasfilm (liveasfilm@gmail.com)</p>
+<p class="meta">Effective November 11, 2026 · Revised November 15, 2026 (app 1.2.1: encrypted connection, in-app deletion) · Operator: liveasfilm (liveasfilm@gmail.com)</p>
 <p>This policy explains what information the baseball game Ninth Inning: Two Outs (Korean title 9회말 투아웃, "the game"), in its iOS and Android apps and its web version, handles, why, and what you can do about it. The game never asks for your real name, email, phone number, location, contacts or photos, and has no sign-in. It has no ads, no analytics and no in-app purchases.</p>
 
 <h2>1. Information handled</h2>
@@ -86,7 +87,7 @@
 <tr><td>Nickname</td><td>The name you choose in the lobby</td><td>Shown on player cards, match intros and leaderboards. <b>Other players can see it.</b></td></tr>
 <tr><td>Game records</td><td>Pitches, swings and results, wins and losses, career stats such as batting average and ERA, ratings, head-to-head records, match times</td><td>Server-side judging, matchmaking, records and leaderboards</td></tr>
 <tr><td>Connection data</td><td>The IP address needed to communicate</td><td>Talking to you during a match. The game server does not store IP addresses in its records; they may stay briefly in the network logs of Fly.io, which hosts the server.</td></tr>
-<tr><td>Settings on your device</td><td>The key, your nickname, a chosen server address, sound setting</td><td>Picking up where you left off. These stay on your device.</td></tr>
+<tr><td>Settings on your device</td><td>The key, your nickname, the last records you received, sound setting</td><td>Picking up where you left off. These stay on your device.</td></tr>
 </table></div>
 <p>Games against the CPU and batting practice send nothing to the server.</p>
 
@@ -95,7 +96,7 @@
 <li>The league server runs at Fly.io (Fly.io, Inc., USA) in its Tokyo, Japan region, so online records are stored on a server in Japan. <a href="https://fly.io/legal/privacy-policy">Fly.io privacy policy</a></li>
 <li>itch.io serves the web version's page. <a href="https://itch.io/docs/legal/privacy-policy">itch.io privacy policy</a></li>
 </ul>
-<p>We do not sell your information, and we do not share it beyond these purposes except where the law requires. The apps' online play uses unencrypted UDP (ENet); the web version uses an encrypted connection (WSS). Only the game information in the table above is exchanged.</p>
+<p>We do not sell your information, and we do not share it beyond these purposes except where the law requires. Online play in the apps (from 1.2.1) and the web version uses an encrypted connection (WSS, TLS). Apps up to 1.1.0 used unencrypted UDP (ENet). Only the game information in the table above is exchanged.</p>
 
 <h2>3. Retention</h2>
 <p>Nicknames and game records are kept while the league runs and deleted on request; they are all deleted if the league shuts down. Uninstalling the app erases the key and settings on your device, after which that device can no longer continue the server records.</p>
@@ -104,7 +105,8 @@
 <ul>
 <li>If you never open online play, nothing is sent to the server.</li>
 <li>You can change your nickname in the lobby at any time.</li>
-<li><b>Deleting your records</b>: email <a href="mailto:liveasfilm@gmail.com?subject=Ninth%20Inning%20record%20deletion">liveasfilm@gmail.com</a> with your nickname and the date you last played, and within 7 days we delete that account's nickname and records from the server and reply.</li>
+<li><b>Deleting your records in the app</b>: on the title screen open <b>내 기록</b> (My Records) › <b>기록 지우기</b> (Delete records) and confirm. Your nickname and every game record are deleted from the server at once, other players' records show "지운 선수" (deleted player) instead of your name, and your device gets a new key. This cannot be undone.</li>
+<li><b>Deleting by email</b>: if you no longer have the app, email <a href="mailto:liveasfilm@gmail.com?subject=Ninth%20Inning%20record%20deletion">liveasfilm@gmail.com</a> with your nickname and the date you last played, and within 7 days we delete them and reply.</li>
 <li>Requests to access, correct or stop processing your data go to the same address.</li>
 </ul>
 
