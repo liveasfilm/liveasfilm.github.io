@@ -29,12 +29,12 @@
 </head>
 <body>
 <div class="wrap">
-<nav><a class="home" href="../">9회말 투아웃 · Ninth Inning: Two Outs</a><span class="langs"><a href="#ko">한국어</a><a href="#en">English</a></span></nav>
+<nav><a class="home" href="../">9회말 투아웃 · Ninth Inning: Two Outs</a><span class="langs"><a href="#ko">한국어</a><a href="#en">English</a><a href="#ja">日本語</a></span></nav>
 
 <section id="ko">
 <h1>9회말 투아웃 개인정보처리방침</h1>
-<p class="meta">시행일: 2026년 11월 11일 · 개정: 2026년 11월 15일 (앱 1.2.1: 암호화 연결, 앱 안 기록 지우기) · 운영자: liveasfilm (liveasfilm@gmail.com)</p>
-<p>이 방침은 야구 게임 9회말 투아웃(영문명 Ninth Inning: Two Outs, 이하 "게임")의 앱(iOS, Android)과 웹 버전이 어떤 정보를 왜 처리하는지, 그리고 이용자가 무엇을 할 수 있는지 설명합니다. 게임은 실명 · 이메일 · 전화번호 · 위치 · 연락처 · 사진을 요구하지 않고, 로그인이 없습니다. 광고, 분석 도구, 인앱 결제가 없습니다.</p>
+<p class="meta">시행일: 2026년 11월 11일 · 개정: 2026년 11월 16일 (앱 1.3.0: 광고와 분석, 영어 · 일본어) · 이전 개정: 2026년 11월 15일 (앱 1.2.1: 암호화 연결, 앱 안 기록 지우기) · 운영자: liveasfilm (liveasfilm@gmail.com)</p>
+<p>이 방침은 야구 게임 9회말 투아웃(영문명 Ninth Inning: Two Outs, 이하 "게임")의 앱(iOS, Android)과 웹 버전이 어떤 정보를 왜 처리하는지, 그리고 이용자가 무엇을 할 수 있는지 설명합니다. 게임은 실명 · 이메일 · 전화번호 · 정확한 위치 · 연락처 · 사진을 요구하지 않고, 로그인이 없습니다. 인앱 결제는 없습니다. 앱(1.3.0부터)은 광고(Google AdMob)와 이용 분석(Google Analytics for Firebase)을 씁니다. 웹 버전에는 광고와 분석이 없습니다.</p>
 
 <h2>1. 처리하는 정보</h2>
 <div class="scroll"><table>
@@ -43,14 +43,17 @@
 <tr><td>닉네임</td><td>이용자가 로비에서 정한 이름</td><td>상대 선수 카드, 중계 인트로, 순위표에 표시. <b>다른 이용자에게 보입니다.</b></td></tr>
 <tr><td>경기 기록</td><td>투구 · 스윙 · 결과, 승패, 타율 · 방어율 같은 통산 기록, 레이팅, 상대 전적, 경기 시각</td><td>서버 판정, 매칭, 기록 · 순위표 제공</td></tr>
 <tr><td>접속 정보</td><td>통신에 필요한 IP 주소</td><td>대전 중 통신. 게임 서버는 IP 주소를 기록에 저장하지 않습니다. 서버를 호스팅하는 Fly.io의 네트워크 로그에는 잠시 남을 수 있습니다.</td></tr>
-<tr><td>기기 안의 설정</td><td>접속 키, 닉네임, 마지막으로 받은 내 기록, 소리 설정</td><td>다음 실행 때 이어 하기. 기기 안에만 저장됩니다.</td></tr>
+<tr><td>기기 안의 설정</td><td>접속 키, 닉네임, 마지막으로 받은 내 기록, 소리 · 언어 설정</td><td>다음 실행 때 이어 하기. 기기 안에만 저장됩니다.</td></tr>
+<tr><td>광고 (앱)</td><td>Google AdMob이 광고를 보여 주며 처리하는 정보: 광고 식별자(iOS의 IDFA는 추적을 허용한 경우에만, Android의 광고 ID), 기기 · OS · 앱 정보, IP 주소로 추정한 대략적인 위치, 광고 노출 · 클릭 정보</td><td>광고 표시, 같은 광고 반복 제한, 광고 성과 측정, 부정 클릭 방지. 맞춤 광고는 동의한 경우(유럽 경제 지역 · 영국 · 스위스의 동의 화면, iOS의 추적 허용)에만 보입니다. 광고는 PG 등급 이하로 제한합니다.</td></tr>
+<tr><td>이용 분석 (앱)</td><td>Google Analytics for Firebase가 받는 이용 기록: 게임 시작 · 끝, 온라인 로비 · 매칭 · 기록 화면을 연 일 같은 이벤트, 앱 인스턴스 ID, 기기 모델 · OS · 앱 버전, IP 주소로 추정한 국가 · 지역</td><td>어떤 모드를 얼마나 하는지, 어디서 멈추는지 알고 게임을 고치기 위해. 이름 · 닉네임 · 경기 기록 내용은 보내지 않습니다.</td></tr>
 </table></div>
-<p>CPU 승부와 타격 연습은 서버에 아무것도 보내지 않습니다.</p>
+<p>CPU 승부와 타격 연습은 리그 서버에 아무것도 보내지 않습니다(앱에서는 위의 광고와 이용 분석은 동작합니다).</p>
 
 <h2>2. 처리를 맡기는 곳과 전송</h2>
 <ul>
 <li>리그 서버는 Fly.io(Fly.io, Inc., 미국)가 운영하는 일본 도쿄 지역 데이터센터에서 돌아갑니다. 따라서 온라인 대전 기록은 일본에 있는 서버에 저장됩니다. <a href="https://fly.io/legal/privacy-policy">Fly.io 개인정보처리방침</a></li>
 <li>웹 버전은 itch.io가 페이지를 제공합니다. <a href="https://itch.io/docs/legal/privacy-policy">itch.io 개인정보처리방침</a></li>
+<li>광고는 Google AdMob(Google LLC, 미국), 이용 분석은 Google Analytics for Firebase(Google LLC)가 처리하며, 정보는 미국 등 Google의 서버로 전송될 수 있습니다. <a href="https://policies.google.com/privacy">Google 개인정보처리방침</a> · <a href="https://policies.google.com/technologies/partner-sites">Google이 파트너 앱의 정보를 사용하는 방법</a> · <a href="https://firebase.google.com/support/privacy">Firebase 개인정보 보호</a></li>
 </ul>
 <p>운영자는 정보를 판매하지 않으며, 법령에 따른 요청이 있는 경우를 빼고 위 목적 밖으로 제공하지 않습니다. 앱(1.2.1부터)과 웹 버전의 온라인 대전은 암호화된 연결(WSS, TLS)을 씁니다. 1.1.0 이하의 앱은 암호화되지 않은 UDP(ENet)를 썼습니다. 주고받는 것은 위 표의 게임 정보뿐입니다.</p>
 
@@ -59,7 +62,10 @@
 
 <h2>4. 이용자의 선택과 권리</h2>
 <ul>
-<li>온라인 대전을 열지 않으면 아무 정보도 서버로 가지 않습니다.</li>
+<li>온라인 대전을 열지 않으면 아무 정보도 리그 서버로 가지 않습니다.</li>
+<li><b>광고 동의</b>: 유럽 경제 지역 · 영국 · 스위스에서는 처음에 동의 화면이 나오고, 타이틀 오른쪽 위의 <b>광고 개인정보 설정</b>에서 언제든 선택을 바꿀 수 있습니다.</li>
+<li><b>추적 (iOS)</b>: 추적 허용 창에서 거부하면 IDFA를 쓰지 않습니다. 나중에 설정 › 개인정보 보호 및 보안 › 추적에서 바꿀 수 있습니다. 거부해도 게임의 모든 기능을 그대로 쓸 수 있습니다.</li>
+<li><b>광고 ID (Android)</b>: 설정 › Google › 광고(또는 개인정보 보호 › 광고)에서 광고 ID를 재설정하거나 삭제할 수 있습니다.</li>
 <li>닉네임은 로비에서 언제든 바꿀 수 있습니다.</li>
 <li><b>기록 지우기 (앱 안에서)</b>: 타이틀의 <b>내 기록</b> › <b>기록 지우기</b>를 누르고 확인하면, 그 자리에서 서버의 닉네임과 모든 경기 기록이 지워집니다. 다른 이용자의 기록에 남은 상대 이름도 "지운 선수"로 바뀌고, 기기의 접속 키는 새로 만들어집니다. 되돌릴 수 없습니다.</li>
 <li><b>메일로 삭제 요청</b>: 앱을 지웠거나 앱을 쓸 수 없다면 <a href="mailto:liveasfilm@gmail.com?subject=9%ED%9A%8C%EB%A7%90%20%ED%88%AC%EC%95%84%EC%9B%83%20%EA%B8%B0%EB%A1%9D%20%EC%82%AD%EC%A0%9C">liveasfilm@gmail.com</a> 으로 닉네임과 마지막으로 경기한 날짜를 보내 주시면 7일 안에 지우고 답장드립니다.</li>
@@ -67,7 +73,7 @@
 </ul>
 
 <h2>5. 아동</h2>
-<p>게임은 만 13세 미만 아동을 대상으로 하지 않으며, 아동의 정보를 알면서 수집하지 않습니다. 만 13세 미만 아동의 기록이 저장된 것을 알게 되면 지웁니다.</p>
+<p>게임은 만 13세 미만 아동을 대상으로 하지 않으며, 아동의 정보를 알면서 수집하지 않습니다. 만 13세 미만 아동의 기록이 저장된 것을 알게 되면 지웁니다. 광고는 아동 대상으로 요청하지 않고, 내용은 PG 등급 이하로 제한합니다.</p>
 
 <h2>6. 변경과 문의</h2>
 <p>방침이 바뀌면 이 페이지에 시행일과 함께 알립니다. 개인정보 보호책임자: liveasfilm, <a href="mailto:liveasfilm@gmail.com">liveasfilm@gmail.com</a></p>
@@ -77,8 +83,8 @@
 
 <section id="en">
 <h1>Ninth Inning: Two Outs Privacy Policy</h1>
-<p class="meta">Effective November 11, 2026 · Revised November 15, 2026 (app 1.2.1: encrypted connection, in-app deletion) · Operator: liveasfilm (liveasfilm@gmail.com)</p>
-<p>This policy explains what information the baseball game Ninth Inning: Two Outs (Korean title 9회말 투아웃, "the game"), in its iOS and Android apps and its web version, handles, why, and what you can do about it. The game never asks for your real name, email, phone number, location, contacts or photos, and has no sign-in. It has no ads, no analytics and no in-app purchases.</p>
+<p class="meta">Effective November 11, 2026 · Revised November 16, 2026 (app 1.3.0: ads and analytics, English and Japanese) · Previously revised November 15, 2026 (app 1.2.1: encrypted connection, in-app deletion) · Operator: liveasfilm (liveasfilm@gmail.com)</p>
+<p>This policy explains what information the baseball game Ninth Inning: Two Outs (Korean title 9회말 투아웃, "the game"), in its iOS and Android apps and its web version, handles, why, and what you can do about it. The game never asks for your real name, email, phone number, precise location, contacts or photos, and has no sign-in. It has no in-app purchases. The apps (from 1.3.0) show ads through Google AdMob and measure use with Google Analytics for Firebase. The web version has no ads and no analytics.</p>
 
 <h2>1. Information handled</h2>
 <div class="scroll"><table>
@@ -87,14 +93,17 @@
 <tr><td>Nickname</td><td>The name you choose in the lobby</td><td>Shown on player cards, match intros and leaderboards. <b>Other players can see it.</b></td></tr>
 <tr><td>Game records</td><td>Pitches, swings and results, wins and losses, career stats such as batting average and ERA, ratings, head-to-head records, match times</td><td>Server-side judging, matchmaking, records and leaderboards</td></tr>
 <tr><td>Connection data</td><td>The IP address needed to communicate</td><td>Talking to you during a match. The game server does not store IP addresses in its records; they may stay briefly in the network logs of Fly.io, which hosts the server.</td></tr>
-<tr><td>Settings on your device</td><td>The key, your nickname, the last records you received, sound setting</td><td>Picking up where you left off. These stay on your device.</td></tr>
+<tr><td>Settings on your device</td><td>The key, your nickname, the last records you received, sound and language settings</td><td>Picking up where you left off. These stay on your device.</td></tr>
+<tr><td>Ads (apps)</td><td>What Google AdMob processes to show ads: the advertising identifier (on iOS the IDFA only if you allow tracking; on Android the advertising ID), device, OS and app information, approximate location inferred from the IP address, ad impressions and clicks</td><td>Showing ads, limiting how often an ad repeats, measuring ads, preventing invalid traffic. Personalised ads appear only with your consent (the consent message in the EEA, UK and Switzerland; allowing tracking on iOS). Ads are capped at the PG rating.</td></tr>
+<tr><td>Usage analytics (apps)</td><td>What Google Analytics for Firebase receives: events such as starting and finishing a game and opening the online lobby, matchmaking or records, an app instance ID, device model, OS and app version, country and region inferred from the IP address</td><td>Learning which modes are played and where players stop, to improve the game. No name, nickname or game record contents are sent.</td></tr>
 </table></div>
-<p>Games against the CPU and batting practice send nothing to the server.</p>
+<p>Games against the CPU and batting practice send nothing to the league server (in the apps, the ads and analytics above still run).</p>
 
 <h2>2. Service providers and transfers</h2>
 <ul>
 <li>The league server runs at Fly.io (Fly.io, Inc., USA) in its Tokyo, Japan region, so online records are stored on a server in Japan. <a href="https://fly.io/legal/privacy-policy">Fly.io privacy policy</a></li>
 <li>itch.io serves the web version's page. <a href="https://itch.io/docs/legal/privacy-policy">itch.io privacy policy</a></li>
+<li>Ads are handled by Google AdMob (Google LLC, USA) and usage analytics by Google Analytics for Firebase (Google LLC); the information may be transferred to Google's servers in the USA and elsewhere. <a href="https://policies.google.com/privacy">Google Privacy Policy</a> · <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from apps that use its services</a> · <a href="https://firebase.google.com/support/privacy">Privacy and Security in Firebase</a></li>
 </ul>
 <p>We do not sell your information, and we do not share it beyond these purposes except where the law requires. Online play in the apps (from 1.2.1) and the web version uses an encrypted connection (WSS, TLS). Apps up to 1.1.0 used unencrypted UDP (ENet). Only the game information in the table above is exchanged.</p>
 
@@ -103,7 +112,10 @@
 
 <h2>4. Your choices and rights</h2>
 <ul>
-<li>If you never open online play, nothing is sent to the server.</li>
+<li>If you never open online play, nothing is sent to the league server.</li>
+<li><b>Ad consent</b>: in the EEA, UK and Switzerland a consent message appears first, and <b>광고 개인정보 설정</b> (Ad privacy settings) at the top right of the title screen lets you change your choice at any time.</li>
+<li><b>Tracking (iOS)</b>: if you decline the tracking prompt, the IDFA is not used. You can change it later in Settings › Privacy &amp; Security › Tracking. Everything in the game works the same if you decline.</li>
+<li><b>Advertising ID (Android)</b>: reset or delete it in Settings › Google › Ads (or Privacy › Ads).</li>
 <li>You can change your nickname in the lobby at any time.</li>
 <li><b>Deleting your records in the app</b>: on the title screen open <b>내 기록</b> (My Records) › <b>기록 지우기</b> (Delete records) and confirm. Your nickname and every game record are deleted from the server at once, other players' records show "지운 선수" (deleted player) instead of your name, and your device gets a new key. This cannot be undone.</li>
 <li><b>Deleting by email</b>: if you no longer have the app, email <a href="mailto:liveasfilm@gmail.com?subject=Ninth%20Inning%20record%20deletion">liveasfilm@gmail.com</a> with your nickname and the date you last played, and within 7 days we delete them and reply.</li>
@@ -111,10 +123,59 @@
 </ul>
 
 <h2>5. Children</h2>
-<p>The game is not directed to children under 13, and we do not knowingly collect their information. If we learn that a child under 13's records are stored, we delete them.</p>
+<p>The game is not directed to children under 13, and we do not knowingly collect their information. If we learn that a child under 13's records are stored, we delete them. Ads are not requested as child-directed, and their content is capped at the PG rating.</p>
 
 <h2>6. Changes and contact</h2>
 <p>If this policy changes, we will post the new version here with its effective date. Contact: <a href="mailto:liveasfilm@gmail.com">liveasfilm@gmail.com</a></p>
+</section>
+<hr>
+
+<section id="ja">
+<h1>9回裏2アウト プライバシーポリシー</h1>
+<p class="meta">施行日: 2026年11月11日 · 改定: 2026年11月16日（アプリ1.3.0: 広告と分析、英語・日本語） · 運営者: liveasfilm (liveasfilm@gmail.com)</p>
+<p>このポリシーは、野球ゲーム「9回裏2アウト」（韓国語名 9회말 투아웃、英語名 Ninth Inning: Two Outs、以下「ゲーム」）のアプリ（iOS、Android）とウェブ版が、どの情報をなぜ扱い、利用者に何ができるかを説明します。ゲームは実名・メールアドレス・電話番号・正確な位置情報・連絡先・写真を求めず、ログインもありません。アプリ内課金はありません。アプリ（1.3.0以降）は広告（Google AdMob）と利用分析（Google Analytics for Firebase）を使います。ウェブ版には広告も分析もありません。</p>
+
+<h2>1. 扱う情報</h2>
+<div class="scroll"><table>
+<tr><th>項目</th><th>内容</th><th>目的</th></tr>
+<tr><td>匿名の接続キー</td><td>オンライン対戦を初めて開いたときに端末で作る64文字のランダムなキー。サーバーにはこのキーのハッシュ値だけを保存します。</td><td>同じ端末の記録をつなぐため。このキーから利用者が誰かは分かりません。</td></tr>
+<tr><td>ニックネーム</td><td>ロビーで利用者が決めた名前</td><td>相手の選手カード、中継イントロ、ランキングに表示。<b>他の利用者に見えます。</b></td></tr>
+<tr><td>試合記録</td><td>投球・スイング・結果、勝敗、打率・防御率などの通算記録、レーティング、対戦成績、試合時刻</td><td>サーバーでの判定、マッチング、記録・ランキングの提供</td></tr>
+<tr><td>接続情報</td><td>通信に必要なIPアドレス</td><td>対戦中の通信。ゲームサーバーはIPアドレスを記録に保存しません。サーバーをホストするFly.ioのネットワークログには一時的に残ることがあります。</td></tr>
+<tr><td>端末内の設定</td><td>接続キー、ニックネーム、最後に受け取った記録、音・言語の設定</td><td>次回の続きのため。端末内にだけ保存されます。</td></tr>
+<tr><td>広告（アプリ）</td><td>Google AdMobが広告表示のために扱う情報: 広告識別子（iOSのIDFAはトラッキングを許可した場合のみ、Androidの広告ID）、端末・OS・アプリの情報、IPアドレスから推定したおおよその位置、広告の表示・クリック</td><td>広告の表示、同じ広告の繰り返し制限、広告効果の測定、不正防止。パーソナライズ広告は同意した場合（欧州経済領域・英国・スイスの同意画面、iOSのトラッキング許可）にのみ表示されます。広告はPG相当以下に制限しています。</td></tr>
+<tr><td>利用分析（アプリ）</td><td>Google Analytics for Firebaseが受け取る利用情報: 試合の開始・終了、オンラインのロビー・マッチング・記録画面を開いたなどのイベント、アプリインスタンスID、端末モデル・OS・アプリのバージョン、IPアドレスから推定した国・地域</td><td>どのモードがどれだけ遊ばれ、どこで止まるかを知り、ゲームを改善するため。名前・ニックネーム・試合記録の内容は送りません。</td></tr>
+</table></div>
+<p>CPU戦と打撃練習はリーグサーバーに何も送りません（アプリでは上の広告と利用分析は動作します）。</p>
+
+<h2>2. 委託先と移転</h2>
+<ul>
+<li>リーグサーバーはFly.io（Fly.io, Inc.、米国）の東京リージョンで動いています。オンライン対戦の記録は日本のサーバーに保存されます。<a href="https://fly.io/legal/privacy-policy">Fly.io プライバシーポリシー</a></li>
+<li>ウェブ版のページはitch.ioが提供します。<a href="https://itch.io/docs/legal/privacy-policy">itch.io プライバシーポリシー</a></li>
+<li>広告はGoogle AdMob（Google LLC、米国）、利用分析はGoogle Analytics for Firebase（Google LLC）が扱い、情報は米国などのGoogleのサーバーに送られることがあります。<a href="https://policies.google.com/privacy">Google プライバシーポリシー</a> · <a href="https://policies.google.com/technologies/partner-sites">Googleによるパートナーアプリの情報の使用</a> · <a href="https://firebase.google.com/support/privacy">Firebase のプライバシーとセキュリティ</a></li>
+</ul>
+<p>運営者は情報を販売せず、法令に基づく場合を除き上記の目的外に提供しません。アプリ（1.2.1以降）とウェブ版のオンライン対戦は暗号化された接続（WSS、TLS）を使います。</p>
+
+<h2>3. 保存期間</h2>
+<p>ニックネームと試合記録はリーグの運営中は保存し、削除の依頼があれば削除します。リーグの運営を終えるときはすべて削除します。アプリを削除すると端末内の接続キーと設定が消え、その後は同じ端末でサーバーの記録を引き継げません。</p>
+
+<h2>4. 利用者の選択と権利</h2>
+<ul>
+<li>オンライン対戦を開かなければ、リーグサーバーには何も送られません。</li>
+<li><b>広告の同意</b>: 欧州経済領域・英国・スイスでは最初に同意画面が表示され、タイトル右上の<b>광고 개인정보 설정</b>（広告のプライバシー設定）からいつでも選択を変えられます。</li>
+<li><b>トラッキング（iOS）</b>: トラッキング許可の画面で拒否するとIDFAは使われません。あとから 設定 › プライバシーとセキュリティ › トラッキング で変更できます。拒否してもゲームのすべての機能をそのまま使えます。</li>
+<li><b>広告ID（Android）</b>: 設定 › Google › 広告（またはプライバシー › 広告）で広告IDをリセット・削除できます。</li>
+<li>ニックネームはロビーでいつでも変えられます。</li>
+<li><b>アプリ内での記録削除</b>: タイトルの <b>내 기록</b>（マイ記録） › <b>기록 지우기</b>（記録を削除）を押して確認すると、サーバーのニックネームとすべての試合記録がその場で削除されます。他の利用者の記録に残る相手名も「削除された選手」に変わり、端末の接続キーは作り直されます。元に戻せません。</li>
+<li><b>メールでの削除依頼</b>: アプリがない場合は <a href="mailto:liveasfilm@gmail.com?subject=Ninth%20Inning%20record%20deletion">liveasfilm@gmail.com</a> へニックネームと最後に対戦した日付を送ってください。7日以内に削除して返信します。</li>
+<li>閲覧・訂正・処理停止の依頼も同じアドレスで受け付けます。</li>
+</ul>
+
+<h2>5. 子ども</h2>
+<p>ゲームは13歳未満の子どもを対象としておらず、子どもの情報を知りながら収集しません。13歳未満の子どもの記録が保存されていると分かった場合は削除します。広告は子ども向けとしてリクエストせず、内容はPG相当以下に制限しています。</p>
+
+<h2>6. 変更とお問い合わせ</h2>
+<p>ポリシーを変更した場合は、このページに施行日とともに掲載します。お問い合わせ: <a href="mailto:liveasfilm@gmail.com">liveasfilm@gmail.com</a></p>
 </section>
 </div>
 </body>
