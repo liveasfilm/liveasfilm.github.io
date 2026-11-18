@@ -39,12 +39,18 @@
   // Newest first. name.ja is the official Japanese store title; omit it when the app has none (English is shown).
   // play = Google Play package, ios = App Store id, site = marketing page, video = YouTube id or { lang: id }.
   const APPS = [
-    { id: "rain-drop", genre: "action", date: "2026-10-30", video: "NkxXNhr2X4s",
+    { id: "ninth-inning", genre: "action", date: "2026-11-15", video: { ko: "Kcu-RWxcPxM", en: "Kcu-RWxcPxM", ja: "VVzT2SOMSPQ" },
+      name: { ko: "9회말 투아웃", en: "Ninth Inning: Two Outs" },
+      desc: { ko: "9회말 2아웃 만루, 7 : 8. 타자가 되어 치거나 투수가 되어 막는, 한 타석으로 끝나는 야구 대결.",
+              en: "Bottom of the ninth, two outs, bases loaded, down 7 to 8. Bat or pitch in a one at-bat showdown.",
+              ja: "9回裏2アウト満塁、7対8。打者になって打つか、投手になって抑えるか。一打席で決まる野球対決。" },
+      ios: "6833504377", site: "/ninthinning/" },
+    { id: "rain-drop", genre: "action", date: "2026-10-30", video: { ko: "NkxXNhr2X4s", en: "NkxXNhr2X4s", ja: "L5rxpT5QvPg" },
       name: { ko: "또르르", en: "RAIN DROP" },
       desc: { ko: "작은 빗방울 한 방울의 짜릿한 무한 다이브. 최고 기록에 도전하고 친구와 함께 떨어져요.",
               en: "One little drop. An endless dive. Beat your best and race friends online!",
               ja: "小さなしずくで、どこまでもダイブ。自己ベストに挑戦して、友達とオンライン対戦！" },
-      play: "com.liveasfilm.raindrop", site: "/rain-drop-site/" },
+      play: "com.liveasfilm.raindrop", ios: "6828852450", site: "/rain-drop-site/" },
     { id: "poker-snake", genre: "puzzle", date: "2026-10-24", video: "-kji8EJnUL0",
       name: { ko: "포커 스네이크", en: "Poker Snake" },
       desc: { ko: "먹은 카드가 꼬리에 붙고, 꼬리 카드 5장으로 족보를 맞추면 펑! 터지는 뱀 퍼즐.",
